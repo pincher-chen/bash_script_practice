@@ -1,0 +1,320 @@
+MODEL 1
+REMARK VINA RESULT:      -7.4      0.000      0.000
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_1  and  N4_2 
+REMARK    2  A    between atoms: C8_7  and  N2_8 
+ROOT
+ATOM      1  C6  DQU d          18.260  16.772  19.161  0.00  0.00     0.026 C 
+ATOM      2  C1  DQU d          16.952  16.464  18.775  0.00  0.00     0.031 C 
+ATOM      3  C2  DQU d          15.972  16.254  19.722  0.00  0.00     0.035 C 
+ATOM      4  C3  DQU d          16.268  16.487  21.084  0.00  0.00     0.091 A 
+ATOM      5  N3  DQU d          15.281  16.400  22.043  0.00  0.00    -0.064 NA
+ATOM      6  C8  DQU d          15.525  16.576  23.314  0.00  0.00     0.701 A 
+ATOM      7  N1  DQU d          16.798  16.965  23.794  0.00  0.00    -0.154 N 
+ATOM      8  C7  DQU d          17.837  17.151  22.858  0.00  0.00     0.272 A 
+ATOM      9  O1  DQU d          18.997  17.380  23.233  0.00  0.00    -0.267 OA
+ATOM     10  C4  DQU d          17.562  16.911  21.448  0.00  0.00     0.064 A 
+ATOM     11  C5  DQU d          18.531  17.100  20.469  0.00  0.00     0.048 C 
+ATOM     12  H7  DQU d          16.957  17.106  24.771  0.00  0.00     0.187 HD
+ENDROOT
+BRANCH   1  13
+ATOM     13  N4  DQU d          19.274  17.064  18.100  0.00  0.00    -0.399 N 
+ATOM     14  H1  DQU d          19.043  16.906  17.109  0.00  0.00     0.156 HD
+ATOM     15  H2  DQU d          20.203  17.424  18.361  0.00  0.00     0.156 HD
+ENDBRANCH   1  13
+BRANCH   6  16
+ATOM     16  N2  DQU d          14.541  16.458  24.290  0.00  0.00    -0.233 N 
+ATOM     17  H5  DQU d          14.040  15.567  24.411  0.00  0.00     0.174 HD
+ATOM     18  H6  DQU d          14.312  17.263  24.892  0.00  0.00     0.174 HD
+ENDBRANCH   6  16
+TORSDOF 2
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -6.8      1.940      4.979
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_1  and  N4_2 
+REMARK    2  A    between atoms: C8_7  and  N2_8 
+ROOT
+ATOM      1  C6  DQU d          16.201  16.496  22.950  0.00  0.00     0.026 C 
+ATOM      2  C1  DQU d          17.514  16.914  23.188  0.00  0.00     0.031 C 
+ATOM      3  C2  DQU d          18.409  17.044  22.148  0.00  0.00     0.035 C 
+ATOM      4  C3  DQU d          17.952  16.883  20.820  0.00  0.00     0.091 A 
+ATOM      5  N3  DQU d          18.792  17.120  19.753  0.00  0.00    -0.064 NA
+ATOM      6  C8  DQU d          18.413  16.950  18.515  0.00  0.00     0.701 A 
+ATOM      7  N1  DQU d          17.086  16.605  18.170  0.00  0.00    -0.154 N 
+ATOM      8  C7  DQU d          16.150  16.423  19.210  0.00  0.00     0.272 A 
+ATOM      9  O1  DQU d          15.005  16.010  18.971  0.00  0.00    -0.267 OA
+ATOM     10  C4  DQU d          16.595  16.576  20.588  0.00  0.00     0.064 A 
+ATOM     11  C5  DQU d          15.723  16.439  21.662  0.00  0.00     0.048 C 
+ATOM     12  H7  DQU d          16.817  16.491  17.213  0.00  0.00     0.187 HD
+ENDROOT
+BRANCH   1  13
+ATOM     13  N4  DQU d          15.243  16.440  24.098  0.00  0.00    -0.399 N 
+ATOM     14  H1  DQU d          15.177  15.589  24.673  0.00  0.00     0.156 HD
+ATOM     15  H2  DQU d          14.649  17.254  24.313  0.00  0.00     0.156 HD
+ENDBRANCH   1  13
+BRANCH   6  16
+ATOM     16  N2  DQU d          19.266  17.157  17.435  0.00  0.00    -0.233 N 
+ATOM     17  H5  DQU d          19.753  18.058  17.328  0.00  0.00     0.174 HD
+ATOM     18  H6  DQU d          19.410  16.408  16.742  0.00  0.00     0.174 HD
+ENDBRANCH   6  16
+TORSDOF 2
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -6.1      3.460      5.362
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_1  and  N4_2 
+REMARK    2  A    between atoms: C8_7  and  N2_8 
+ROOT
+ATOM      1  C6  DQU d          13.506  15.754  18.002  0.00  0.00     0.026 C 
+ATOM      2  C1  DQU d          13.623  16.090  16.649  0.00  0.00     0.031 C 
+ATOM      3  C2  DQU d          14.783  16.655  16.164  0.00  0.00     0.035 C 
+ATOM      4  C3  DQU d          15.904  16.769  17.017  0.00  0.00     0.091 A 
+ATOM      5  N3  DQU d          17.113  17.221  16.533  0.00  0.00    -0.064 NA
+ATOM      6  C8  DQU d          18.161  17.369  17.298  0.00  0.00     0.701 A 
+ATOM      7  N1  DQU d          18.164  16.985  18.660  0.00  0.00    -0.154 N 
+ATOM      8  C7  DQU d          16.982  16.439  19.203  0.00  0.00     0.272 A 
+ATOM      9  O1  DQU d          16.895  16.192  20.416  0.00  0.00    -0.267 OA
+ATOM     10  C4  DQU d          15.809  16.317  18.349  0.00  0.00     0.064 A 
+ATOM     11  C5  DQU d          14.619  15.764  18.810  0.00  0.00     0.048 C 
+ATOM     12  H7  DQU d          18.983  17.098  19.223  0.00  0.00     0.187 HD
+ENDROOT
+BRANCH   1  13
+ATOM     13  N4  DQU d          12.259  15.074  18.470  0.00  0.00    -0.399 N 
+ATOM     14  H1  DQU d          12.289  14.088  18.765  0.00  0.00     0.156 HD
+ATOM     15  H2  DQU d          11.369  15.593  18.499  0.00  0.00     0.156 HD
+ENDBRANCH   1  13
+BRANCH   6  16
+ATOM     16  N2  DQU d          19.375  17.856  16.823  0.00  0.00    -0.233 N 
+ATOM     17  H5  DQU d          19.842  17.391  16.031  0.00  0.00     0.174 HD
+ATOM     18  H6  DQU d          19.806  18.682  17.262  0.00  0.00     0.174 HD
+ENDBRANCH   6  16
+TORSDOF 2
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -5.8      4.356      5.694
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_1  and  N4_2 
+REMARK    2  A    between atoms: C8_7  and  N2_8 
+ROOT
+ATOM      1  C6  DQU d          17.402  16.975  17.919  0.00  0.00     0.026 C 
+ATOM      2  C1  DQU d          16.905  16.446  19.114  0.00  0.00     0.031 C 
+ATOM      3  C2  DQU d          15.581  16.078  19.221  0.00  0.00     0.035 C 
+ATOM      4  C3  DQU d          14.759  16.113  18.072  0.00  0.00     0.091 A 
+ATOM      5  N3  DQU d          13.464  15.642  18.118  0.00  0.00    -0.064 NA
+ATOM      6  C8  DQU d          12.667  15.688  17.084  0.00  0.00     0.701 A 
+ATOM      7  N1  DQU d          13.100  16.135  15.814  0.00  0.00    -0.154 N 
+ATOM      8  C7  DQU d          14.438  16.558  15.674  0.00  0.00     0.272 A 
+ATOM      9  O1  DQU d          14.838  17.064  14.614  0.00  0.00    -0.267 OA
+ATOM     10  C4  DQU d          15.306  16.539  16.844  0.00  0.00     0.064 A 
+ATOM     11  C5  DQU d          16.642  16.916  16.774  0.00  0.00     0.048 C 
+ATOM     12  H7  DQU d          12.473  16.150  15.035  0.00  0.00     0.187 HD
+ENDROOT
+BRANCH   1  13
+ATOM     13  N4  DQU d          18.861  17.292  17.822  0.00  0.00    -0.399 N 
+ATOM     14  H1  DQU d          19.170  18.268  17.717  0.00  0.00     0.156 HD
+ATOM     15  H2  DQU d          19.556  16.533  17.861  0.00  0.00     0.156 HD
+ENDBRANCH   1  13
+BRANCH   6  16
+ATOM     16  N2  DQU d          11.349  15.245  17.134  0.00  0.00    -0.233 N 
+ATOM     17  H5  DQU d          11.138  14.243  17.025  0.00  0.00     0.174 HD
+ATOM     18  H6  DQU d          10.583  15.920  17.279  0.00  0.00     0.174 HD
+ENDBRANCH   6  16
+TORSDOF 2
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -5.8      3.717      4.722
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_1  and  N4_2 
+REMARK    2  A    between atoms: C8_7  and  N2_8 
+ROOT
+ATOM      1  C6  DQU d          17.820  17.335  16.776  0.00  0.00     0.026 C 
+ATOM      2  C1  DQU d          17.081  17.546  15.608  0.00  0.00     0.031 C 
+ATOM      3  C2  DQU d          15.787  17.083  15.504  0.00  0.00     0.035 C 
+ATOM      4  C3  DQU d          15.164  16.512  16.637  0.00  0.00     0.091 A 
+ATOM      5  N3  DQU d          13.835  16.146  16.600  0.00  0.00    -0.064 NA
+ATOM      6  C8  DQU d          13.237  15.587  17.617  0.00  0.00     0.701 A 
+ATOM      7  N1  DQU d          13.878  15.402  18.864  0.00  0.00    -0.154 N 
+ATOM      8  C7  DQU d          15.216  15.827  18.998  0.00  0.00     0.272 A 
+ATOM      9  O1  DQU d          15.860  15.586  20.031  0.00  0.00    -0.267 OA
+ATOM     10  C4  DQU d          15.885  16.412  17.844  0.00  0.00     0.064 A 
+ATOM     11  C5  DQU d          17.193  16.877  17.911  0.00  0.00     0.048 C 
+ATOM     12  H7  DQU d          13.394  14.981  19.632  0.00  0.00     0.187 HD
+ENDROOT
+BRANCH   1  13
+ATOM     13  N4  DQU d          19.194  17.919  16.875  0.00  0.00    -0.399 N 
+ATOM     14  H1  DQU d          19.318  18.939  16.926  0.00  0.00     0.156 HD
+ATOM     15  H2  DQU d          20.017  17.300  16.891  0.00  0.00     0.156 HD
+ENDBRANCH   1  13
+BRANCH   6  16
+ATOM     16  N2  DQU d          11.905  15.185  17.575  0.00  0.00    -0.233 N 
+ATOM     17  H5  DQU d          11.447  15.015  16.669  0.00  0.00     0.174 HD
+ATOM     18  H6  DQU d          11.378  15.058  18.452  0.00  0.00     0.174 HD
+ENDBRANCH   6  16
+TORSDOF 2
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -5.7      2.551      5.582
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_1  and  N4_2 
+REMARK    2  A    between atoms: C8_7  and  N2_8 
+ROOT
+ATOM      1  C6  DQU d          16.340  16.331  21.120  0.00  0.00     0.026 C 
+ATOM      2  C1  DQU d          17.669  16.746  21.258  0.00  0.00     0.031 C 
+ATOM      3  C2  DQU d          18.443  17.003  20.147  0.00  0.00     0.035 C 
+ATOM      4  C3  DQU d          17.844  16.976  18.867  0.00  0.00     0.091 A 
+ATOM      5  N3  DQU d          18.560  17.342  17.747  0.00  0.00    -0.064 NA
+ATOM      6  C8  DQU d          18.048  17.298  16.546  0.00  0.00     0.701 A 
+ATOM      7  N1  DQU d          16.694  16.965  16.312  0.00  0.00    -0.154 N 
+ATOM      8  C7  DQU d          15.880  16.656  17.422  0.00  0.00     0.272 A 
+ATOM      9  O1  DQU d          14.718  16.248  17.265  0.00  0.00    -0.267 OA
+ATOM     10  C4  DQU d          16.472  16.670  18.752  0.00  0.00     0.064 A 
+ATOM     11  C5  DQU d          15.724  16.402  19.893  0.00  0.00     0.048 C 
+ATOM     12  H7  DQU d          16.322  16.949  15.384  0.00  0.00     0.187 HD
+ENDROOT
+BRANCH   1  13
+ATOM     13  N4  DQU d          15.515  16.135  22.352  0.00  0.00    -0.399 N 
+ATOM     14  H1  DQU d          15.196  16.950  22.894  0.00  0.00     0.156 HD
+ATOM     15  H2  DQU d          15.265  15.184  22.659  0.00  0.00     0.156 HD
+ENDBRANCH   1  13
+BRANCH   6  16
+ATOM     16  N2  DQU d          18.776  17.634  15.409  0.00  0.00    -0.233 N 
+ATOM     17  H5  DQU d          19.777  17.863  15.486  0.00  0.00     0.174 HD
+ATOM     18  H6  DQU d          18.312  17.655  14.488  0.00  0.00     0.174 HD
+ENDBRANCH   6  16
+TORSDOF 2
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -5.7      5.847      6.864
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_1  and  N4_2 
+REMARK    2  A    between atoms: C8_7  and  N2_8 
+ROOT
+ATOM      1  C6  DQU d          15.589  17.351  15.680  0.00  0.00     0.026 C 
+ATOM      2  C1  DQU d          14.798  18.102  14.805  0.00  0.00     0.031 C 
+ATOM      3  C2  DQU d          13.452  17.838  14.674  0.00  0.00     0.035 C 
+ATOM      4  C3  DQU d          12.847  16.892  15.531  0.00  0.00     0.091 A 
+ATOM      5  N3  DQU d          11.484  16.689  15.506  0.00  0.00    -0.064 NA
+ATOM      6  C8  DQU d          10.896  15.800  16.260  0.00  0.00     0.701 A 
+ATOM      7  N1  DQU d          11.598  15.046  17.229  0.00  0.00    -0.154 N 
+ATOM      8  C7  DQU d          12.986  15.259  17.366  0.00  0.00     0.272 A 
+ATOM      9  O1  DQU d          13.668  14.547  18.118  0.00  0.00    -0.267 OA
+ATOM     10  C4  DQU d          13.636  16.225  16.490  0.00  0.00     0.064 A 
+ATOM     11  C5  DQU d          14.994  16.505  16.587  0.00  0.00     0.048 C 
+ATOM     12  H7  DQU d          11.123  14.379  17.803  0.00  0.00     0.187 HD
+ENDROOT
+BRANCH   1  13
+ATOM     13  N4  DQU d          17.029  17.719  15.847  0.00  0.00    -0.399 N 
+ATOM     14  H1  DQU d          17.287  18.673  16.136  0.00  0.00     0.156 HD
+ATOM     15  H2  DQU d          17.764  17.019  15.673  0.00  0.00     0.156 HD
+ENDBRANCH   1  13
+BRANCH   6  16
+ATOM     16  N2  DQU d           9.524  15.567  16.216  0.00  0.00    -0.233 N 
+ATOM     17  H5  DQU d           8.866  16.323  16.451  0.00  0.00     0.174 HD
+ATOM     18  H6  DQU d           9.168  14.639  15.947  0.00  0.00     0.174 HD
+ENDBRANCH   6  16
+TORSDOF 2
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -5.7      3.554      6.579
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_1  and  N4_2 
+REMARK    2  A    between atoms: C8_7  and  N2_8 
+ROOT
+ATOM      1  C6  DQU d          16.301  16.302  19.328  0.00  0.00     0.026 C 
+ATOM      2  C1  DQU d          17.625  16.700  19.538  0.00  0.00     0.031 C 
+ATOM      3  C2  DQU d          18.418  17.085  18.478  0.00  0.00     0.035 C 
+ATOM      4  C3  DQU d          17.843  17.204  17.193  0.00  0.00     0.091 A 
+ATOM      5  N3  DQU d          18.578  17.697  16.136  0.00  0.00    -0.064 NA
+ATOM      6  C8  DQU d          18.089  17.791  14.928  0.00  0.00     0.701 A 
+ATOM      7  N1  DQU d          16.740  17.486  14.633  0.00  0.00    -0.154 N 
+ATOM      8  C7  DQU d          15.907  17.050  15.684  0.00  0.00     0.272 A 
+ATOM      9  O1  DQU d          14.750  16.662  15.460  0.00  0.00    -0.267 OA
+ATOM     10  C4  DQU d          16.475  16.912  17.018  0.00  0.00     0.064 A 
+ATOM     11  C5  DQU d          15.707  16.513  18.106  0.00  0.00     0.048 C 
+ATOM     12  H7  DQU d          16.386  17.577  13.702  0.00  0.00     0.187 HD
+ENDROOT
+BRANCH   1  13
+ATOM     13  N4  DQU d          15.454  15.964  20.514  0.00  0.00    -0.399 N 
+ATOM     14  H1  DQU d          15.431  16.595  21.327  0.00  0.00     0.156 HD
+ATOM     15  H2  DQU d          14.893  15.101  20.517  0.00  0.00     0.156 HD
+ENDBRANCH   1  13
+BRANCH   6  16
+ATOM     16  N2  DQU d          18.836  18.257  13.851  0.00  0.00    -0.233 N 
+ATOM     17  H5  DQU d          18.373  18.764  13.084  0.00  0.00     0.174 HD
+ATOM     18  H6  DQU d          19.853  18.095  13.821  0.00  0.00     0.174 HD
+ENDBRANCH   6  16
+TORSDOF 2
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -5.5      5.469      7.772
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_1  and  N4_2 
+REMARK    2  A    between atoms: C8_7  and  N2_8 
+ROOT
+ATOM      1  C6  DQU d          12.953  15.372  17.156  0.00  0.00     0.026 C 
+ATOM      2  C1  DQU d          12.370  14.827  16.007  0.00  0.00     0.031 C 
+ATOM      3  C2  DQU d          12.929  15.046  14.767  0.00  0.00     0.035 C 
+ATOM      4  C3  DQU d          14.172  15.713  14.677  0.00  0.00     0.091 A 
+ATOM      5  N3  DQU d          14.814  15.845  13.464  0.00  0.00    -0.064 NA
+ATOM      6  C8  DQU d          15.947  16.483  13.339  0.00  0.00     0.701 A 
+ATOM      7  N1  DQU d          16.650  17.002  14.451  0.00  0.00    -0.154 N 
+ATOM      8  C7  DQU d          16.089  16.832  15.735  0.00  0.00     0.272 A 
+ATOM      9  O1  DQU d          16.605  17.365  16.729  0.00  0.00    -0.267 OA
+ATOM     10  C4  DQU d          14.806  16.155  15.856  0.00  0.00     0.064 A 
+ATOM     11  C5  DQU d          14.208  15.930  17.091  0.00  0.00     0.048 C 
+ATOM     12  H7  DQU d          17.522  17.476  14.331  0.00  0.00     0.187 HD
+ENDROOT
+BRANCH   1  13
+ATOM     13  N4  DQU d          12.356  15.048  18.490  0.00  0.00    -0.399 N 
+ATOM     14  H1  DQU d          11.333  15.009  18.600  0.00  0.00     0.156 HD
+ATOM     15  H2  DQU d          12.968  14.864  19.297  0.00  0.00     0.156 HD
+ENDBRANCH   1  13
+BRANCH   6  16
+ATOM     16  N2  DQU d          16.583  16.648  12.113  0.00  0.00    -0.233 N 
+ATOM     17  H5  DQU d          16.062  16.498  11.238  0.00  0.00     0.174 HD
+ATOM     18  H6  DQU d          17.577  16.920  12.080  0.00  0.00     0.174 HD
+ENDBRANCH   6  16
+TORSDOF 2
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:      -5.5      4.561      6.279
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_1  and  N4_2 
+REMARK    2  A    between atoms: C8_7  and  N2_8 
+ROOT
+ATOM      1  C6  DQU d          12.736  15.258  16.943  0.00  0.00     0.026 C 
+ATOM      2  C1  DQU d          13.195  14.649  18.116  0.00  0.00     0.031 C 
+ATOM      3  C2  DQU d          14.501  14.813  18.526  0.00  0.00     0.035 C 
+ATOM      4  C3  DQU d          15.337  15.710  17.825  0.00  0.00     0.091 A 
+ATOM      5  N3  DQU d          16.611  15.984  18.277  0.00  0.00    -0.064 NA
+ATOM      6  C8  DQU d          17.422  16.783  17.637  0.00  0.00     0.701 A 
+ATOM      7  N1  DQU d          17.025  17.502  16.486  0.00  0.00    -0.154 N 
+ATOM      8  C7  DQU d          15.707  17.331  16.012  0.00  0.00     0.272 A 
+ATOM      9  O1  DQU d          15.343  17.848  14.945  0.00  0.00    -0.267 OA
+ATOM     10  C4  DQU d          14.825  16.407  16.711  0.00  0.00     0.064 A 
+ATOM     11  C5  DQU d          13.507  16.209  16.316  0.00  0.00     0.048 C 
+ATOM     12  H7  DQU d          17.661  18.117  16.020  0.00  0.00     0.187 HD
+ENDROOT
+BRANCH   1  13
+ATOM     13  N4  DQU d          11.293  15.116  16.575  0.00  0.00    -0.399 N 
+ATOM     14  H1  DQU d          10.609  14.811  17.281  0.00  0.00     0.156 HD
+ATOM     15  H2  DQU d          10.983  15.323  15.615  0.00  0.00     0.156 HD
+ENDBRANCH   1  13
+BRANCH   6  16
+ATOM     16  N2  DQU d          18.720  17.038  18.071  0.00  0.00    -0.233 N 
+ATOM     17  H5  DQU d          19.220  17.873  17.736  0.00  0.00     0.174 HD
+ATOM     18  H6  DQU d          19.180  16.390  18.727  0.00  0.00     0.174 HD
+ENDBRANCH   6  16
+TORSDOF 2
+ENDMDL

@@ -1,0 +1,185 @@
+MODEL 1
+REMARK VINA RESULT:     -11.1      0.000      0.000
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAI_24  and  OAJ_25 
+ROOT
+ATOM      1  CAV SY9 d         -42.533   7.105 -17.049  0.00  0.00     0.239 C 
+ATOM      2  CAU SY9 d         -41.644   6.667 -18.219  0.00  0.00     0.046 C 
+ATOM      3  CAT SY9 d         -40.480   5.836 -17.701  0.00  0.00     0.026 C 
+ATOM      4  CAN SY9 d         -41.033   4.545 -17.092  0.00  0.00     0.047 C 
+ATOM      5  CAK SY9 d         -41.991   4.809 -15.935  0.00  0.00     0.109 C 
+ATOM      6  NAH SY9 d         -42.832   3.604 -15.854  0.00  0.00    -0.347 N 
+ATOM      7  CAA SY9 d         -44.171   3.885 -16.111  0.00  0.00     0.040 A 
+ATOM      8  CAF SY9 d         -45.236   2.998 -16.277  0.00  0.00     0.030 A 
+ATOM      9  CAE SY9 d         -46.496   3.465 -16.614  0.00  0.00     0.002 A 
+ATOM     10  CAD SY9 d         -46.672   4.826 -16.827  0.00  0.00     0.001 A 
+ATOM     11  CAC SY9 d         -45.604   5.711 -16.695  0.00  0.00     0.010 A 
+ATOM     12  CAB SY9 d         -44.337   5.243 -16.381  0.00  0.00    -0.019 A 
+ATOM     13  CAG SY9 d         -42.999   5.961 -16.109  0.00  0.00     0.043 C 
+ATOM     14  CAW SY9 d         -43.193   6.695 -14.784  0.00  0.00     0.049 C 
+ATOM     15  CAX SY9 d         -41.918   7.527 -14.755  0.00  0.00     0.274 C 
+ATOM     16  NAY SY9 d         -41.775   8.034 -16.147  0.00  0.00     0.098 N 
+ATOM     17  CAS SY9 d         -40.326   8.095 -16.416  0.00  0.00     0.307 C 
+ATOM     18  CAR SY9 d         -39.810   6.682 -16.660  0.00  0.00    -0.049 C 
+ATOM     19  CAQ SY9 d         -38.755   6.303 -15.848  0.00  0.00     0.004 C 
+ATOM     20  CAP SY9 d         -38.197   5.031 -15.939  0.00  0.00     0.196 C 
+ATOM     21  OAO SY9 d         -39.036   3.887 -15.645  0.00  0.00    -0.382 OA
+ATOM     22  CAM SY9 d         -39.987   3.500 -16.633  0.00  0.00     0.132 C 
+ATOM     23  CAL SY9 d         -40.655   2.319 -15.844  0.00  0.00     0.086 C 
+ATOM     24  CAI SY9 d         -42.184   2.376 -15.893  0.00  0.00     0.223 C 
+ENDROOT
+BRANCH  24  25
+ATOM     25  OAJ SY9 d         -42.935   1.241 -15.864  0.00  0.00    -0.377 OA
+ATOM     26  H   SY9 d         -42.940   0.840 -16.736  0.00  0.00     0.212 HD
+ENDBRANCH  24  25
+TORSDOF 1
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:     -10.8      1.294      4.830
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAI_24  and  OAJ_25 
+ROOT
+ATOM      1  CAV SY9 d         -41.488   7.164 -15.968  0.00  0.00     0.239 C 
+ATOM      2  CAU SY9 d         -42.337   7.026 -14.699  0.00  0.00     0.046 C 
+ATOM      3  CAT SY9 d         -43.485   6.060 -14.948  0.00  0.00     0.026 C 
+ATOM      4  CAN SY9 d         -42.906   4.669 -15.214  0.00  0.00     0.047 C 
+ATOM      5  CAK SY9 d         -41.982   4.643 -16.427  0.00  0.00     0.109 C 
+ATOM      6  NAH SY9 d         -41.105   3.481 -16.215  0.00  0.00    -0.347 N 
+ATOM      7  CAA SY9 d         -39.770   3.852 -16.080  0.00  0.00     0.040 A 
+ATOM      8  CAF SY9 d         -38.675   3.065 -15.720  0.00  0.00     0.030 A 
+ATOM      9  CAE SY9 d         -37.423   3.636 -15.553  0.00  0.00     0.002 A 
+ATOM     10  CAD SY9 d         -37.285   5.009 -15.710  0.00  0.00     0.001 A 
+ATOM     11  CAC SY9 d         -38.383   5.801 -16.037  0.00  0.00     0.010 A 
+ATOM     12  CAB SY9 d         -39.642   5.236 -16.180  0.00  0.00    -0.019 A 
+ATOM     13  CAG SY9 d         -41.007   5.825 -16.590  0.00  0.00     0.043 C 
+ATOM     14  CAW SY9 d         -40.865   6.190 -18.066  0.00  0.00     0.049 C 
+ATOM     15  CAX SY9 d         -42.166   6.954 -18.274  0.00  0.00     0.274 C 
+ATOM     16  NAY SY9 d         -42.294   7.804 -17.060  0.00  0.00     0.098 N 
+ATOM     17  CAS SY9 d         -43.738   7.899 -16.773  0.00  0.00     0.307 C 
+ATOM     18  CAR SY9 d         -44.204   6.587 -16.154  0.00  0.00    -0.049 C 
+ATOM     19  CAQ SY9 d         -45.265   5.982 -16.806  0.00  0.00     0.004 C 
+ATOM     20  CAP SY9 d         -45.780   4.765 -16.369  0.00  0.00     0.196 C 
+ATOM     21  OAO SY9 d         -44.912   3.605 -16.379  0.00  0.00    -0.382 OA
+ATOM     22  CAM SY9 d         -43.928   3.514 -15.352  0.00  0.00     0.132 C 
+ATOM     23  CAL SY9 d         -43.240   2.184 -15.824  0.00  0.00     0.086 C 
+ATOM     24  CAI SY9 d         -41.713   2.290 -15.837  0.00  0.00     0.223 C 
+ENDROOT
+BRANCH  24  25
+ATOM     25  OAJ SY9 d         -40.928   1.206 -15.591  0.00  0.00    -0.377 OA
+ATOM     26  H   SY9 d         -40.143   1.482 -15.112  0.00  0.00     0.212 HD
+ENDBRANCH  24  25
+TORSDOF 1
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -9.7      1.653      3.019
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAI_24  and  OAJ_25 
+ROOT
+ATOM      1  CAV SY9 d         -43.976   6.073 -16.698  0.00  0.00     0.239 C 
+ATOM      2  CAU SY9 d         -43.461   6.398 -18.105  0.00  0.00     0.046 C 
+ATOM      3  CAT SY9 d         -42.084   7.038 -18.016  0.00  0.00     0.026 C 
+ATOM      4  CAN SY9 d         -41.104   6.012 -17.442  0.00  0.00     0.047 C 
+ATOM      5  CAK SY9 d         -41.506   5.536 -16.051  0.00  0.00     0.109 C 
+ATOM      6  NAH SY9 d         -40.860   4.223 -15.895  0.00  0.00    -0.347 N 
+ATOM      7  CAA SY9 d         -41.790   3.197 -15.752  0.00  0.00     0.040 A 
+ATOM      8  CAF SY9 d         -41.578   1.818 -15.736  0.00  0.00     0.030 A 
+ATOM      9  CAE SY9 d         -42.649   0.941 -15.670  0.00  0.00     0.002 A 
+ATOM     10  CAD SY9 d         -43.939   1.456 -15.663  0.00  0.00     0.001 A 
+ATOM     11  CAC SY9 d         -44.155   2.832 -15.714  0.00  0.00     0.010 A 
+ATOM     12  CAB SY9 d         -43.086   3.710 -15.805  0.00  0.00    -0.019 A 
+ATOM     13  CAG SY9 d         -43.001   5.250 -15.812  0.00  0.00     0.043 C 
+ATOM     14  CAW SY9 d         -43.402   5.687 -14.405  0.00  0.00     0.049 C 
+ATOM     15  CAX SY9 d         -43.501   7.192 -14.614  0.00  0.00     0.274 C 
+ATOM     16  NAY SY9 d         -44.194   7.338 -15.923  0.00  0.00     0.098 N 
+ATOM     17  CAS SY9 d         -43.627   8.544 -16.557  0.00  0.00     0.307 C 
+ATOM     18  CAR SY9 d         -42.240   8.211 -17.096  0.00  0.00    -0.049 C 
+ATOM     19  CAQ SY9 d         -41.228   9.040 -16.643  0.00  0.00     0.004 C 
+ATOM     20  CAP SY9 d         -39.906   8.841 -17.030  0.00  0.00     0.196 C 
+ATOM     21  OAO SY9 d         -39.260   7.597 -16.664  0.00  0.00    -0.382 OA
+ATOM     22  CAM SY9 d         -39.614   6.432 -17.404  0.00  0.00     0.132 C 
+ATOM     23  CAL SY9 d         -38.739   5.395 -16.615  0.00  0.00     0.086 C 
+ATOM     24  CAI SY9 d         -39.520   4.131 -16.250  0.00  0.00     0.223 C 
+ENDROOT
+BRANCH  24  25
+ATOM     25  OAJ SY9 d         -38.903   2.921 -16.160  0.00  0.00    -0.377 OA
+ATOM     26  H   SY9 d         -39.564   2.231 -16.061  0.00  0.00     0.212 HD
+ENDBRANCH  24  25
+TORSDOF 1
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -8.4      2.143      4.414
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAI_24  and  OAJ_25 
+ROOT
+ATOM      1  CAV SY9 d         -41.205   6.343 -15.881  0.00  0.00     0.239 C 
+ATOM      2  CAU SY9 d         -41.960   7.132 -14.805  0.00  0.00     0.046 C 
+ATOM      3  CAT SY9 d         -43.246   7.699 -15.386  0.00  0.00     0.026 C 
+ATOM      4  CAN SY9 d         -44.164   6.536 -15.769  0.00  0.00     0.047 C 
+ATOM      5  CAK SY9 d         -43.534   5.611 -16.804  0.00  0.00     0.109 C 
+ATOM      6  NAH SY9 d         -44.226   4.323 -16.637  0.00  0.00    -0.347 N 
+ATOM      7  CAA SY9 d         -43.359   3.313 -16.230  0.00  0.00     0.040 A 
+ATOM      8  CAF SY9 d         -43.658   2.012 -15.824  0.00  0.00     0.030 A 
+ATOM      9  CAE SY9 d         -42.658   1.168 -15.368  0.00  0.00     0.002 A 
+ATOM     10  CAD SY9 d         -41.359   1.652 -15.282  0.00  0.00     0.001 A 
+ATOM     11  CAC SY9 d         -41.062   2.961 -15.655  0.00  0.00     0.010 A 
+ATOM     12  CAB SY9 d         -42.066   3.815 -16.088  0.00  0.00    -0.019 A 
+ATOM     13  CAG SY9 d         -42.044   5.263 -16.619  0.00  0.00     0.043 C 
+ATOM     14  CAW SY9 d         -41.347   5.190 -17.976  0.00  0.00     0.049 C 
+ATOM     15  CAX SY9 d         -41.188   6.675 -18.271  0.00  0.00     0.274 C 
+ATOM     16  NAY SY9 d         -40.754   7.265 -16.975  0.00  0.00     0.098 N 
+ATOM     17  CAS SY9 d         -41.349   8.613 -16.916  0.00  0.00     0.307 C 
+ATOM     18  CAR SY9 d         -42.833   8.484 -16.595  0.00  0.00    -0.049 C 
+ATOM     19  CAQ SY9 d         -43.678   9.105 -17.499  0.00  0.00     0.004 C 
+ATOM     20  CAP SY9 d         -45.061   9.047 -17.349  0.00  0.00     0.196 C 
+ATOM     21  OAO SY9 d         -45.708   7.753 -17.399  0.00  0.00    -0.382 OA
+ATOM     22  CAM SY9 d         -45.586   6.914 -16.253  0.00  0.00     0.132 C 
+ATOM     23  CAL SY9 d         -46.360   5.667 -16.809  0.00  0.00     0.086 C 
+ATOM     24  CAI SY9 d         -45.612   4.356 -16.556  0.00  0.00     0.223 C 
+ENDROOT
+BRANCH  24  25
+ATOM     25  OAJ SY9 d         -46.282   3.188 -16.358  0.00  0.00    -0.377 OA
+ATOM     26  H   SY9 d         -47.224   3.336 -16.473  0.00  0.00     0.212 HD
+ENDBRANCH  24  25
+TORSDOF 1
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -8.3      2.300      3.996
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAI_24  and  OAJ_25 
+ROOT
+ATOM      1  CAV SY9 d         -40.966   5.262 -15.083  0.00  0.00     0.239 C 
+ATOM      2  CAU SY9 d         -41.361   6.422 -14.162  0.00  0.00     0.046 C 
+ATOM      3  CAT SY9 d         -41.742   7.636 -14.996  0.00  0.00     0.026 C 
+ATOM      4  CAN SY9 d         -42.998   7.301 -15.804  0.00  0.00     0.047 C 
+ATOM      5  CAK SY9 d         -42.789   6.117 -16.742  0.00  0.00     0.109 C 
+ATOM      6  NAH SY9 d         -44.137   5.580 -16.985  0.00  0.00    -0.347 N 
+ATOM      7  CAA SY9 d         -44.275   4.280 -16.506  0.00  0.00     0.040 A 
+ATOM      8  CAF SY9 d         -45.428   3.499 -16.410  0.00  0.00     0.030 A 
+ATOM      9  CAE SY9 d         -45.382   2.246 -15.821  0.00  0.00     0.002 A 
+ATOM     10  CAD SY9 d         -44.181   1.797 -15.289  0.00  0.00     0.001 A 
+ATOM     11  CAC SY9 d         -43.035   2.588 -15.352  0.00  0.00     0.010 A 
+ATOM     12  CAB SY9 d         -43.084   3.853 -15.920  0.00  0.00    -0.019 A 
+ATOM     13  CAG SY9 d         -41.999   4.915 -16.190  0.00  0.00     0.043 C 
+ATOM     14  CAW SY9 d         -41.111   4.322 -17.282  0.00  0.00     0.049 C 
+ATOM     15  CAX SY9 d         -39.980   5.341 -17.284  0.00  0.00     0.274 C 
+ATOM     16  NAY SY9 d         -39.719   5.608 -15.842  0.00  0.00     0.098 N 
+ATOM     17  CAS SY9 d         -39.326   7.026 -15.750  0.00  0.00     0.307 C 
+ATOM     18  CAR SY9 d         -40.571   7.894 -15.897  0.00  0.00    -0.049 C 
+ATOM     19  CAQ SY9 d         -40.500   8.846 -16.899  0.00  0.00     0.004 C 
+ATOM     20  CAP SY9 d         -41.572   9.692 -17.166  0.00  0.00     0.196 C 
+ATOM     21  OAO SY9 d         -42.823   9.105 -17.601  0.00  0.00    -0.382 OA
+ATOM     22  CAM SY9 d         -43.624   8.462 -16.613  0.00  0.00     0.132 C 
+ATOM     23  CAL SY9 d         -44.774   7.959 -17.556  0.00  0.00     0.086 C 
+ATOM     24  CAI SY9 d         -45.134   6.492 -17.304  0.00  0.00     0.223 C 
+ENDROOT
+BRANCH  24  25
+ATOM     25  OAJ SY9 d         -46.402   6.035 -17.492  0.00  0.00    -0.377 OA
+ATOM     26  H   SY9 d         -46.923   6.204 -16.703  0.00  0.00     0.212 HD
+ENDBRANCH  24  25
+TORSDOF 1
+ENDMDL

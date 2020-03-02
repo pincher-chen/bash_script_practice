@@ -1,0 +1,700 @@
+MODEL 1
+REMARK VINA RESULT:      -8.7      0.000      0.000
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_5  and  O3_6 
+REMARK    2  A    between atoms: O3_6  and  C1X_31 
+REMARK    3  A    between atoms: C12_15  and  O12_16 
+REMARK    4  A    between atoms: C14_18  and  O14_19 
+REMARK    5  A    between atoms: C20_25  and  C17_22 
+REMARK    6  A    between atoms: C3X_33  and  O3X_34 
+REMARK    7  A    between atoms: C4X_35  and  O4X_36 
+ROOT
+ATOM      1  C1  DGX d         -11.197  31.576  29.272  0.00  0.00     0.012 C 
+ATOM      2  C2  DGX d         -12.491  32.116  28.670  0.00  0.00     0.033 C 
+ATOM      3  C3  DGX d         -13.597  32.192  29.714  0.00  0.00     0.125 C 
+ATOM      4  C4  DGX d         -13.891  30.795  30.237  0.00  0.00     0.037 C 
+ATOM      5  C5  DGX d         -12.645  30.223  30.903  0.00  0.00    -0.004 C 
+ATOM      6  C6  DGX d         -12.923  28.891  31.588  0.00  0.00     0.006 C 
+ATOM      7  C7  DGX d         -13.125  27.776  30.574  0.00  0.00     0.008 C 
+ATOM      8  C8  DGX d         -11.923  27.693  29.633  0.00  0.00     0.026 C 
+ATOM      9  C9  DGX d         -11.589  29.033  28.967  0.00  0.00     0.003 C 
+ATOM     10  C10 DGX d         -11.397  30.215  29.962  0.00  0.00    -0.036 C 
+ATOM     11  C11 DGX d         -10.374  28.864  28.071  0.00  0.00     0.038 C 
+ATOM     12  C12 DGX d         -10.667  27.817  27.017  0.00  0.00     0.130 C 
+ATOM     13  C13 DGX d         -10.889  26.408  27.637  0.00  0.00     0.021 C 
+ATOM     14  C14 DGX d         -12.079  26.496  28.654  0.00  0.00     0.072 C 
+ATOM     15  C15 DGX d         -13.329  26.489  27.751  0.00  0.00     0.040 C 
+ATOM     16  C16 DGX d         -12.960  25.755  26.463  0.00  0.00     0.013 C 
+ATOM     17  C17 DGX d         -11.439  25.557  26.449  0.00  0.00     0.030 C 
+ATOM     18  C18 DGX d          -9.581  25.907  28.291  0.00  0.00     0.022 C 
+ATOM     19  C19 DGX d         -10.080  30.078  30.746  0.00  0.00     0.016 C 
+ENDROOT
+BRANCH   3  20
+ATOM     20  O3  DGX d         -13.189  33.007  30.825  0.00  0.00    -0.356 OA
+BRANCH  20  21
+ATOM     21  C1X DGX d         -13.787  34.299  30.963  0.00  0.00     0.263 C 
+ATOM     22  O5X DGX d         -14.911  34.344  30.096  0.00  0.00    -0.354 OA
+ATOM     23  C5X DGX d         -15.637  35.555  30.078  0.00  0.00     0.151 C 
+ATOM     24  C4X DGX d         -14.715  36.747  29.768  0.00  0.00     0.175 C 
+ATOM     25  C6X DGX d         -16.637  35.331  28.959  0.00  0.00     0.042 C 
+ATOM     26  C3X DGX d         -13.432  36.750  30.606  0.00  0.00     0.154 C 
+ATOM     27  C2X DGX d         -12.791  35.371  30.517  0.00  0.00     0.095 C 
+BRANCH  24  28
+ATOM     28  O4X DGX d         -15.430  37.967  30.022  0.00  0.00    -0.390 OA
+ATOM     29  H40 DGX d         -14.809  38.668  30.183  0.00  0.00     0.210 HD
+ENDBRANCH  24  28
+BRANCH  26  30
+ATOM     30  O3X DGX d         -13.703  37.132  31.973  0.00  0.00    -0.393 OA
+ATOM     31  H38 DGX d         -12.888  37.353  32.407  0.00  0.00     0.210 HD
+ENDBRANCH  26  30
+ENDBRANCH  20  21
+ENDBRANCH   3  20
+BRANCH  14  32
+ATOM     32  O14 DGX d         -12.186  25.288  29.454  0.00  0.00    -0.389 OA
+ATOM     33  H19 DGX d         -12.991  24.835  29.234  0.00  0.00     0.210 HD
+ENDBRANCH  14  32
+BRANCH  12  34
+ATOM     34  O12 DGX d          -9.652  27.797  26.009  0.00  0.00    -0.395 OA
+ATOM     35  H18 DGX d          -9.616  26.934  25.615  0.00  0.00     0.210 HD
+ENDBRANCH  12  34
+BRANCH  17  36
+ATOM     36  C20 DGX d         -10.947  24.146  26.346  0.00  0.00    -0.045 A 
+ATOM     37  C22 DGX d          -9.879  23.689  25.677  0.00  0.00     0.087 A 
+ATOM     38  C23 DGX d          -9.722  22.273  25.950  0.00  0.00     0.283 A 
+ATOM     39  O21 DGX d         -10.664  21.886  26.811  0.00  0.00    -0.314 OA
+ATOM     40  O23 DGX d          -8.867  21.482  25.573  0.00  0.00    -0.260 OA
+ATOM     41  C21 DGX d         -11.544  23.003  27.070  0.00  0.00     0.213 A 
+ENDBRANCH  17  36
+TORSDOF 7
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -8.7      1.232      1.585
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_5  and  O3_6 
+REMARK    2  A    between atoms: O3_6  and  C1X_31 
+REMARK    3  A    between atoms: C12_15  and  O12_16 
+REMARK    4  A    between atoms: C14_18  and  O14_19 
+REMARK    5  A    between atoms: C20_25  and  C17_22 
+REMARK    6  A    between atoms: C3X_33  and  O3X_34 
+REMARK    7  A    between atoms: C4X_35  and  O4X_36 
+ROOT
+ATOM      1  C1  DGX d         -11.173  31.570  29.288  0.00  0.00     0.012 C 
+ATOM      2  C2  DGX d         -12.465  32.115  28.685  0.00  0.00     0.033 C 
+ATOM      3  C3  DGX d         -13.573  32.190  29.727  0.00  0.00     0.125 C 
+ATOM      4  C4  DGX d         -13.870  30.792  30.245  0.00  0.00     0.037 C 
+ATOM      5  C5  DGX d         -12.627  30.216  30.913  0.00  0.00    -0.004 C 
+ATOM      6  C6  DGX d         -12.908  28.883  31.593  0.00  0.00     0.006 C 
+ATOM      7  C7  DGX d         -13.110  27.770  30.576  0.00  0.00     0.008 C 
+ATOM      8  C8  DGX d         -11.906  27.688  29.637  0.00  0.00     0.026 C 
+ATOM      9  C9  DGX d         -11.569  29.029  28.974  0.00  0.00     0.003 C 
+ATOM     10  C10 DGX d         -11.377  30.208  29.973  0.00  0.00    -0.036 C 
+ATOM     11  C11 DGX d         -10.353  28.860  28.081  0.00  0.00     0.038 C 
+ATOM     12  C12 DGX d         -10.646  27.816  27.023  0.00  0.00     0.130 C 
+ATOM     13  C13 DGX d         -10.871  26.406  27.639  0.00  0.00     0.021 C 
+ATOM     14  C14 DGX d         -12.063  26.494  28.654  0.00  0.00     0.072 C 
+ATOM     15  C15 DGX d         -13.311  26.492  27.749  0.00  0.00     0.040 C 
+ATOM     16  C16 DGX d         -12.941  25.760  26.459  0.00  0.00     0.013 C 
+ATOM     17  C17 DGX d         -11.421  25.559  26.447  0.00  0.00     0.030 C 
+ATOM     18  C18 DGX d          -9.565  25.902  28.294  0.00  0.00     0.022 C 
+ATOM     19  C19 DGX d         -10.061  30.066  30.759  0.00  0.00     0.016 C 
+ENDROOT
+BRANCH   3  20
+ATOM     20  O3  DGX d         -13.165  33.001  30.840  0.00  0.00    -0.356 OA
+BRANCH  20  21
+ATOM     21  C1X DGX d         -14.074  34.002  31.308  0.00  0.00     0.263 C 
+ATOM     22  O5X DGX d         -14.800  33.445  32.393  0.00  0.00    -0.354 OA
+ATOM     23  C5X DGX d         -15.769  34.282  32.991  0.00  0.00     0.151 C 
+ATOM     24  C4X DGX d         -16.760  34.816  31.943  0.00  0.00     0.175 C 
+ATOM     25  C6X DGX d         -16.457  33.352  33.973  0.00  0.00     0.042 C 
+ATOM     26  C3X DGX d         -16.073  35.377  30.693  0.00  0.00     0.154 C 
+ATOM     27  C2X DGX d         -15.063  34.351  30.194  0.00  0.00     0.095 C 
+BRANCH  24  28
+ATOM     28  O4X DGX d         -17.550  35.858  32.537  0.00  0.00    -0.390 OA
+ATOM     29  H40 DGX d         -17.172  36.101  33.374  0.00  0.00     0.210 HD
+ENDBRANCH  24  28
+BRANCH  26  30
+ATOM     30  O3X DGX d         -15.454  36.653  30.967  0.00  0.00    -0.393 OA
+ATOM     31  H38 DGX d         -14.513  36.577  30.864  0.00  0.00     0.210 HD
+ENDBRANCH  26  30
+ENDBRANCH  20  21
+ENDBRANCH   3  20
+BRANCH  14  32
+ATOM     32  O14 DGX d         -12.174  25.284  29.450  0.00  0.00    -0.389 OA
+ATOM     33  H19 DGX d         -12.257  25.516  30.367  0.00  0.00     0.210 HD
+ENDBRANCH  14  32
+BRANCH  12  34
+ATOM     34  O12 DGX d          -9.629  27.798  26.017  0.00  0.00    -0.395 OA
+ATOM     35  H18 DGX d          -8.913  28.363  26.282  0.00  0.00     0.210 HD
+ENDBRANCH  12  34
+BRANCH  17  36
+ATOM     36  C20 DGX d         -10.931  24.148  26.342  0.00  0.00    -0.045 A 
+ATOM     37  C22 DGX d          -9.862  23.691  25.675  0.00  0.00     0.087 A 
+ATOM     38  C23 DGX d          -9.708  22.274  25.944  0.00  0.00     0.283 A 
+ATOM     39  O21 DGX d         -10.654  21.886  26.800  0.00  0.00    -0.314 OA
+ATOM     40  O23 DGX d          -8.853  21.483  25.568  0.00  0.00    -0.260 OA
+ATOM     41  C21 DGX d         -11.533  23.004  27.060  0.00  0.00     0.213 A 
+ENDBRANCH  17  36
+TORSDOF 7
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -8.6      1.516      2.019
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_5  and  O3_6 
+REMARK    2  A    between atoms: O3_6  and  C1X_31 
+REMARK    3  A    between atoms: C12_15  and  O12_16 
+REMARK    4  A    between atoms: C14_18  and  O14_19 
+REMARK    5  A    between atoms: C20_25  and  C17_22 
+REMARK    6  A    between atoms: C3X_33  and  O3X_34 
+REMARK    7  A    between atoms: C4X_35  and  O4X_36 
+ROOT
+ATOM      1  C1  DGX d         -11.144  31.562  29.295  0.00  0.00     0.012 C 
+ATOM      2  C2  DGX d         -12.431  32.113  28.687  0.00  0.00     0.033 C 
+ATOM      3  C3  DGX d         -13.543  32.192  29.725  0.00  0.00     0.125 C 
+ATOM      4  C4  DGX d         -13.848  30.795  30.240  0.00  0.00     0.037 C 
+ATOM      5  C5  DGX d         -12.609  30.212  30.912  0.00  0.00    -0.004 C 
+ATOM      6  C6  DGX d         -12.899  28.880  31.590  0.00  0.00     0.006 C 
+ATOM      7  C7  DGX d         -13.103  27.770  30.571  0.00  0.00     0.008 C 
+ATOM      8  C8  DGX d         -11.896  27.683  29.637  0.00  0.00     0.026 C 
+ATOM      9  C9  DGX d         -11.550  29.023  28.977  0.00  0.00     0.003 C 
+ATOM     10  C10 DGX d         -11.356  30.200  29.977  0.00  0.00    -0.036 C 
+ATOM     11  C11 DGX d         -10.331  28.850  28.088  0.00  0.00     0.038 C 
+ATOM     12  C12 DGX d         -10.625  27.808  27.028  0.00  0.00     0.130 C 
+ATOM     13  C13 DGX d         -10.859  26.398  27.641  0.00  0.00     0.021 C 
+ATOM     14  C14 DGX d         -12.054  26.490  28.653  0.00  0.00     0.072 C 
+ATOM     15  C15 DGX d         -13.298  26.495  27.742  0.00  0.00     0.040 C 
+ATOM     16  C16 DGX d         -12.927  25.763  26.454  0.00  0.00     0.013 C 
+ATOM     17  C17 DGX d         -11.407  25.555  26.447  0.00  0.00     0.030 C 
+ATOM     18  C18 DGX d          -9.557  25.888  28.302  0.00  0.00     0.022 C 
+ATOM     19  C19 DGX d         -10.044  30.052  30.768  0.00  0.00     0.016 C 
+ENDROOT
+BRANCH   3  20
+ATOM     20  O3  DGX d         -13.135  33.000  30.841  0.00  0.00    -0.356 OA
+BRANCH  20  21
+ATOM     21  C1X DGX d         -14.109  33.293  31.847  0.00  0.00     0.263 C 
+ATOM     22  O5X DGX d         -14.457  34.663  31.719  0.00  0.00    -0.354 OA
+ATOM     23  C5X DGX d         -15.407  35.155  32.642  0.00  0.00     0.151 C 
+ATOM     24  C4X DGX d         -14.965  34.881  34.089  0.00  0.00     0.175 C 
+ATOM     25  C6X DGX d         -15.424  36.642  32.346  0.00  0.00     0.042 C 
+ATOM     26  C3X DGX d         -14.499  33.438  34.315  0.00  0.00     0.154 C 
+ATOM     27  C2X DGX d         -13.491  33.079  33.230  0.00  0.00     0.095 C 
+BRANCH  24  28
+ATOM     28  O4X DGX d         -16.066  35.148  34.972  0.00  0.00    -0.390 OA
+ATOM     29  H40 DGX d         -15.856  34.832  35.843  0.00  0.00     0.210 HD
+ENDBRANCH  24  28
+BRANCH  26  30
+ATOM     30  O3X DGX d         -15.619  32.525  34.333  0.00  0.00    -0.393 OA
+ATOM     31  H38 DGX d         -16.234  32.795  35.004  0.00  0.00     0.210 HD
+ENDBRANCH  26  30
+ENDBRANCH  20  21
+ENDBRANCH   3  20
+BRANCH  14  32
+ATOM     32  O14 DGX d         -12.173  25.280  29.447  0.00  0.00    -0.389 OA
+ATOM     33  H19 DGX d         -11.563  24.629  29.122  0.00  0.00     0.210 HD
+ENDBRANCH  14  32
+BRANCH  12  34
+ATOM     34  O12 DGX d          -9.604  27.786  26.026  0.00  0.00    -0.395 OA
+ATOM     35  H18 DGX d          -9.906  28.256  25.258  0.00  0.00     0.210 HD
+ENDBRANCH  12  34
+BRANCH  17  36
+ATOM     36  C20 DGX d         -10.923  24.142  26.342  0.00  0.00    -0.045 A 
+ATOM     37  C22 DGX d          -9.852  23.681  25.681  0.00  0.00     0.087 A 
+ATOM     38  C23 DGX d          -9.707  22.263  25.948  0.00  0.00     0.283 A 
+ATOM     39  O21 DGX d         -10.659  21.878  26.798  0.00  0.00    -0.314 OA
+ATOM     40  O23 DGX d          -8.853  21.468  25.576  0.00  0.00    -0.260 OA
+ATOM     41  C21 DGX d         -11.535  22.999  27.055  0.00  0.00     0.213 A 
+ENDBRANCH  17  36
+TORSDOF 7
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -8.6      1.004      1.726
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_5  and  O3_6 
+REMARK    2  A    between atoms: O3_6  and  C1X_31 
+REMARK    3  A    between atoms: C12_15  and  O12_16 
+REMARK    4  A    between atoms: C14_18  and  O14_19 
+REMARK    5  A    between atoms: C20_25  and  C17_22 
+REMARK    6  A    between atoms: C3X_33  and  O3X_34 
+REMARK    7  A    between atoms: C4X_35  and  O4X_36 
+ROOT
+ATOM      1  C1  DGX d         -11.134  31.581  29.255  0.00  0.00     0.012 C 
+ATOM      2  C2  DGX d         -12.428  32.129  28.659  0.00  0.00     0.033 C 
+ATOM      3  C3  DGX d         -13.528  32.214  29.709  0.00  0.00     0.125 C 
+ATOM      4  C4  DGX d         -13.827  30.820  30.237  0.00  0.00     0.037 C 
+ATOM      5  C5  DGX d         -12.580  30.242  30.898  0.00  0.00    -0.004 C 
+ATOM      6  C6  DGX d         -12.862  28.914  31.587  0.00  0.00     0.006 C 
+ATOM      7  C7  DGX d         -13.078  27.797  30.578  0.00  0.00     0.008 C 
+ATOM      8  C8  DGX d         -11.882  27.705  29.629  0.00  0.00     0.026 C 
+ATOM      9  C9  DGX d         -11.544  29.040  28.958  0.00  0.00     0.003 C 
+ATOM     10  C10 DGX d         -11.338  30.223  29.948  0.00  0.00    -0.036 C 
+ATOM     11  C11 DGX d         -10.335  28.862  28.055  0.00  0.00     0.038 C 
+ATOM     12  C12 DGX d         -10.642  27.814  27.005  0.00  0.00     0.130 C 
+ATOM     13  C13 DGX d         -10.869  26.408  27.630  0.00  0.00     0.021 C 
+ATOM     14  C14 DGX d         -12.052  26.506  28.655  0.00  0.00     0.072 C 
+ATOM     15  C15 DGX d         -13.307  26.505  27.759  0.00  0.00     0.040 C 
+ATOM     16  C16 DGX d         -12.951  25.765  26.471  0.00  0.00     0.013 C 
+ATOM     17  C17 DGX d         -11.431  25.557  26.447  0.00  0.00     0.030 C 
+ATOM     18  C18 DGX d          -9.560  25.901  28.278  0.00  0.00     0.022 C 
+ATOM     19  C19 DGX d         -10.017  30.080  30.725  0.00  0.00     0.016 C 
+ENDROOT
+BRANCH   3  20
+ATOM     20  O3  DGX d         -13.107  33.029  30.816  0.00  0.00    -0.356 OA
+BRANCH  20  21
+ATOM     21  C1X DGX d         -13.017  34.442  30.610  0.00  0.00     0.263 C 
+ATOM     22  O5X DGX d         -11.672  34.824  30.856  0.00  0.00    -0.354 OA
+ATOM     23  C5X DGX d         -11.378  36.199  30.717  0.00  0.00     0.151 C 
+ATOM     24  C4X DGX d         -12.312  37.055  31.589  0.00  0.00     0.175 C 
+ATOM     25  C6X DGX d          -9.943  36.287  31.201  0.00  0.00     0.042 C 
+ATOM     26  C3X DGX d         -13.789  36.670  31.449  0.00  0.00     0.154 C 
+ATOM     27  C2X DGX d         -13.914  35.161  31.619  0.00  0.00     0.095 C 
+BRANCH  24  28
+ATOM     28  O4X DGX d         -12.162  38.434  31.218  0.00  0.00    -0.390 OA
+ATOM     29  H40 DGX d         -11.796  38.488  30.344  0.00  0.00     0.210 HD
+ENDBRANCH  24  28
+BRANCH  26  30
+ATOM     30  O3X DGX d         -14.326  37.117  30.184  0.00  0.00    -0.393 OA
+ATOM     31  H38 DGX d         -14.964  36.486  29.872  0.00  0.00     0.210 HD
+ENDBRANCH  26  30
+ENDBRANCH  20  21
+ENDBRANCH   3  20
+BRANCH  14  32
+ATOM     32  O14 DGX d         -12.162  25.301  29.457  0.00  0.00    -0.389 OA
+ATOM     33  H19 DGX d         -11.423  24.733  29.276  0.00  0.00     0.210 HD
+ENDBRANCH  14  32
+BRANCH  12  34
+ATOM     34  O12 DGX d          -9.633  27.785  25.991  0.00  0.00    -0.395 OA
+ATOM     35  H18 DGX d          -9.054  27.048  26.143  0.00  0.00     0.210 HD
+ENDBRANCH  12  34
+BRANCH  17  36
+ATOM     36  C20 DGX d         -10.949  24.143  26.345  0.00  0.00    -0.045 A 
+ATOM     37  C22 DGX d          -9.881  23.680  25.681  0.00  0.00     0.087 A 
+ATOM     38  C23 DGX d          -9.735  22.262  25.953  0.00  0.00     0.283 A 
+ATOM     39  O21 DGX d         -10.684  21.881  26.808  0.00  0.00    -0.314 OA
+ATOM     40  O23 DGX d          -8.884  21.465  25.579  0.00  0.00    -0.260 OA
+ATOM     41  C21 DGX d         -11.558  23.004  27.065  0.00  0.00     0.213 A 
+ENDBRANCH  17  36
+TORSDOF 7
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -8.4      6.700     11.408
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_5  and  O3_6 
+REMARK    2  A    between atoms: O3_6  and  C1X_31 
+REMARK    3  A    between atoms: C12_15  and  O12_16 
+REMARK    4  A    between atoms: C14_18  and  O14_19 
+REMARK    5  A    between atoms: C20_25  and  C17_22 
+REMARK    6  A    between atoms: C3X_33  and  O3X_34 
+REMARK    7  A    between atoms: C4X_35  and  O4X_36 
+ROOT
+ATOM      1  C1  DGX d         -15.360  23.373  31.400  0.00  0.00     0.012 C 
+ATOM      2  C2  DGX d         -15.544  23.548  29.895  0.00  0.00     0.033 C 
+ATOM      3  C3  DGX d         -14.740  24.732  29.373  0.00  0.00     0.125 C 
+ATOM      4  C4  DGX d         -15.232  26.006  30.041  0.00  0.00     0.037 C 
+ATOM      5  C5  DGX d         -15.021  25.913  31.548  0.00  0.00    -0.004 C 
+ATOM      6  C6  DGX d         -15.346  27.222  32.253  0.00  0.00     0.006 C 
+ATOM      7  C7  DGX d         -16.844  27.479  32.287  0.00  0.00     0.008 C 
+ATOM      8  C8  DGX d         -17.569  26.292  32.925  0.00  0.00     0.026 C 
+ATOM      9  C9  DGX d         -17.222  24.953  32.265  0.00  0.00     0.003 C 
+ATOM     10  C10 DGX d         -15.697  24.654  32.183  0.00  0.00    -0.036 C 
+ATOM     11  C11 DGX d         -17.966  23.833  32.973  0.00  0.00     0.038 C 
+ATOM     12  C12 DGX d         -19.456  24.085  32.886  0.00  0.00     0.130 C 
+ATOM     13  C13 DGX d         -19.878  25.372  33.651  0.00  0.00     0.021 C 
+ATOM     14  C14 DGX d         -19.090  26.587  33.048  0.00  0.00     0.072 C 
+ATOM     15  C15 DGX d         -19.851  26.900  31.745  0.00  0.00     0.040 C 
+ATOM     16  C16 DGX d         -21.294  26.436  31.932  0.00  0.00     0.013 C 
+ATOM     17  C17 DGX d         -21.360  25.599  33.216  0.00  0.00     0.030 C 
+ATOM     18  C18 DGX d         -19.628  25.191  35.166  0.00  0.00     0.022 C 
+ATOM     19  C19 DGX d         -15.116  24.321  33.569  0.00  0.00     0.016 C 
+ENDROOT
+BRANCH   3  20
+ATOM     20  O3  DGX d         -13.346  24.573  29.688  0.00  0.00    -0.356 OA
+BRANCH  20  21
+ATOM     21  C1X DGX d         -12.453  24.242  28.621  0.00  0.00     0.263 C 
+ATOM     22  O5X DGX d         -11.277  25.019  28.793  0.00  0.00    -0.354 OA
+ATOM     23  C5X DGX d         -10.266  24.844  27.821  0.00  0.00     0.151 C 
+ATOM     24  C4X DGX d         -10.817  25.072  26.403  0.00  0.00     0.175 C 
+ATOM     25  C6X DGX d          -9.254  25.911  28.193  0.00  0.00     0.042 C 
+ATOM     26  C3X DGX d         -12.132  24.328  26.141  0.00  0.00     0.154 C 
+ATOM     27  C2X DGX d         -13.093  24.624  27.285  0.00  0.00     0.095 C 
+BRANCH  24  28
+ATOM     28  O4X DGX d          -9.842  24.627  25.447  0.00  0.00    -0.390 OA
+ATOM     29  H40 DGX d          -9.250  24.012  25.864  0.00  0.00     0.210 HD
+ENDBRANCH  24  28
+BRANCH  26  30
+ATOM     30  O3X DGX d         -11.905  22.910  25.980  0.00  0.00    -0.393 OA
+ATOM     31  H38 DGX d         -11.525  22.747  25.126  0.00  0.00     0.210 HD
+ENDBRANCH  26  30
+ENDBRANCH  20  21
+ENDBRANCH   3  20
+BRANCH  14  32
+ATOM     32  O14 DGX d         -19.241  27.777  33.867  0.00  0.00    -0.389 OA
+ATOM     33  H19 DGX d         -18.425  27.953  34.320  0.00  0.00     0.210 HD
+ENDBRANCH  14  32
+BRANCH  12  34
+ATOM     34  O12 DGX d         -20.202  22.944  33.321  0.00  0.00    -0.395 OA
+ATOM     35  H18 DGX d         -20.008  22.207  32.754  0.00  0.00     0.210 HD
+ENDBRANCH  12  34
+BRANCH  17  36
+ATOM     36  C20 DGX d         -22.309  26.069  34.275  0.00  0.00    -0.045 A 
+ATOM     37  C22 DGX d         -22.541  27.326  34.680  0.00  0.00     0.087 A 
+ATOM     38  C23 DGX d         -23.621  27.318  35.648  0.00  0.00     0.283 A 
+ATOM     39  O21 DGX d         -24.065  26.070  35.798  0.00  0.00    -0.314 OA
+ATOM     40  O23 DGX d         -24.165  28.243  36.238  0.00  0.00    -0.260 OA
+ATOM     41  C21 DGX d         -23.238  25.183  35.010  0.00  0.00     0.213 A 
+ENDBRANCH  17  36
+TORSDOF 7
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -8.4      2.265      3.935
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_5  and  O3_6 
+REMARK    2  A    between atoms: O3_6  and  C1X_31 
+REMARK    3  A    between atoms: C12_15  and  O12_16 
+REMARK    4  A    between atoms: C14_18  and  O14_19 
+REMARK    5  A    between atoms: C20_25  and  C17_22 
+REMARK    6  A    between atoms: C3X_33  and  O3X_34 
+REMARK    7  A    between atoms: C4X_35  and  O4X_36 
+ROOT
+ATOM      1  C1  DGX d         -12.905  30.875  31.118  0.00  0.00     0.012 C 
+ATOM      2  C2  DGX d         -11.681  31.148  31.989  0.00  0.00     0.033 C 
+ATOM      3  C3  DGX d         -10.868  32.317  31.449  0.00  0.00     0.125 C 
+ATOM      4  C4  DGX d         -10.365  31.978  30.056  0.00  0.00     0.037 C 
+ATOM      5  C5  DGX d         -11.549  31.750  29.122  0.00  0.00    -0.004 C 
+ATOM      6  C6  DGX d         -11.111  31.564  27.676  0.00  0.00     0.006 C 
+ATOM      7  C7  DGX d         -10.440  30.216  27.466  0.00  0.00     0.008 C 
+ATOM      8  C8  DGX d         -11.364  29.089  27.930  0.00  0.00     0.026 C 
+ATOM      9  C9  DGX d         -11.861  29.275  29.368  0.00  0.00     0.003 C 
+ATOM     10  C10 DGX d         -12.534  30.652  29.642  0.00  0.00    -0.036 C 
+ATOM     11  C11 DGX d         -12.785  28.127  29.736  0.00  0.00     0.038 C 
+ATOM     12  C12 DGX d         -12.037  26.817  29.609  0.00  0.00     0.130 C 
+ATOM     13  C13 DGX d         -11.619  26.521  28.141  0.00  0.00     0.021 C 
+ATOM     14  C14 DGX d         -10.724  27.704  27.632  0.00  0.00     0.072 C 
+ATOM     15  C15 DGX d          -9.349  27.417  28.268  0.00  0.00     0.040 C 
+ATOM     16  C16 DGX d          -9.254  25.909  28.494  0.00  0.00     0.013 C 
+ATOM     17  C17 DGX d         -10.645  25.306  28.265  0.00  0.00     0.030 C 
+ATOM     18  C18 DGX d         -12.876  26.306  27.268  0.00  0.00     0.022 C 
+ATOM     19  C19 DGX d         -13.914  30.744  28.967  0.00  0.00     0.016 C 
+ENDROOT
+BRANCH   3  20
+ATOM     20  O3  DGX d         -11.683  33.498  31.354  0.00  0.00    -0.356 OA
+BRANCH  20  21
+ATOM     21  C1X DGX d         -11.494  34.522  32.335  0.00  0.00     0.263 C 
+ATOM     22  O5X DGX d         -10.329  34.194  33.076  0.00  0.00    -0.354 OA
+ATOM     23  C5X DGX d          -9.976  35.086  34.113  0.00  0.00     0.151 C 
+ATOM     24  C4X DGX d         -11.149  35.294  35.086  0.00  0.00     0.175 C 
+ATOM     25  C6X DGX d          -8.821  34.374  34.791  0.00  0.00     0.042 C 
+ATOM     26  C3X DGX d         -12.477  35.585  34.376  0.00  0.00     0.154 C 
+ATOM     27  C2X DGX d         -12.687  34.535  33.293  0.00  0.00     0.095 C 
+BRANCH  24  28
+ATOM     28  O4X DGX d         -10.845  36.396  35.955  0.00  0.00    -0.390 OA
+ATOM     29  H40 DGX d         -10.386  37.067  35.463  0.00  0.00     0.210 HD
+ENDBRANCH  24  28
+BRANCH  26  30
+ATOM     30  O3X DGX d         -12.498  36.926  33.840  0.00  0.00    -0.393 OA
+ATOM     31  H38 DGX d         -12.762  37.534  34.520  0.00  0.00     0.210 HD
+ENDBRANCH  26  30
+ENDBRANCH  20  21
+ENDBRANCH   3  20
+BRANCH  14  32
+ATOM     32  O14 DGX d         -10.501  27.624  26.200  0.00  0.00    -0.389 OA
+ATOM     33  H19 DGX d         -11.218  28.047  25.745  0.00  0.00     0.210 HD
+ENDBRANCH  14  32
+BRANCH  12  34
+ATOM     34  O12 DGX d         -12.784  25.736  30.175  0.00  0.00    -0.395 OA
+ATOM     35  H18 DGX d         -13.189  25.234  29.478  0.00  0.00     0.210 HD
+ENDBRANCH  12  34
+BRANCH  17  36
+ATOM     36  C20 DGX d         -10.753  24.246  27.213  0.00  0.00    -0.045 A 
+ATOM     37  C22 DGX d         -10.148  24.203  26.017  0.00  0.00     0.087 A 
+ATOM     38  C23 DGX d         -10.455  22.937  25.379  0.00  0.00     0.283 A 
+ATOM     39  O21 DGX d         -11.207  22.204  26.200  0.00  0.00    -0.314 OA
+ATOM     40  O23 DGX d         -10.085  22.479  24.305  0.00  0.00    -0.260 OA
+ATOM     41  C21 DGX d         -11.512  22.987  27.376  0.00  0.00     0.213 A 
+ENDBRANCH  17  36
+TORSDOF 7
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -8.4      2.290      3.782
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_5  and  O3_6 
+REMARK    2  A    between atoms: O3_6  and  C1X_31 
+REMARK    3  A    between atoms: C12_15  and  O12_16 
+REMARK    4  A    between atoms: C14_18  and  O14_19 
+REMARK    5  A    between atoms: C20_25  and  C17_22 
+REMARK    6  A    between atoms: C3X_33  and  O3X_34 
+REMARK    7  A    between atoms: C4X_35  and  O4X_36 
+ROOT
+ATOM      1  C1  DGX d         -12.867  30.893  31.005  0.00  0.00     0.012 C 
+ATOM      2  C2  DGX d         -11.646  31.173  31.876  0.00  0.00     0.033 C 
+ATOM      3  C3  DGX d         -10.829  32.334  31.326  0.00  0.00     0.125 C 
+ATOM      4  C4  DGX d         -10.322  31.978  29.938  0.00  0.00     0.037 C 
+ATOM      5  C5  DGX d         -11.504  31.743  29.004  0.00  0.00    -0.004 C 
+ATOM      6  C6  DGX d         -11.062  31.541  27.561  0.00  0.00     0.006 C 
+ATOM      7  C7  DGX d         -10.394  30.188  27.367  0.00  0.00     0.008 C 
+ATOM      8  C8  DGX d         -11.321  29.069  27.841  0.00  0.00     0.026 C 
+ATOM      9  C9  DGX d         -11.822  29.271  29.275  0.00  0.00     0.003 C 
+ATOM     10  C10 DGX d         -12.492  30.653  29.532  0.00  0.00    -0.036 C 
+ATOM     11  C11 DGX d         -12.750  28.130  29.653  0.00  0.00     0.038 C 
+ATOM     12  C12 DGX d         -12.004  26.817  29.543  0.00  0.00     0.130 C 
+ATOM     13  C13 DGX d         -11.583  26.503  28.079  0.00  0.00     0.021 C 
+ATOM     14  C14 DGX d         -10.684  27.679  27.560  0.00  0.00     0.072 C 
+ATOM     15  C15 DGX d          -9.312  27.396  28.202  0.00  0.00     0.040 C 
+ATOM     16  C16 DGX d          -9.220  25.890  28.445  0.00  0.00     0.013 C 
+ATOM     17  C17 DGX d         -10.613  25.288  28.219  0.00  0.00     0.030 C 
+ATOM     18  C18 DGX d         -12.839  26.282  27.205  0.00  0.00     0.022 C 
+ATOM     19  C19 DGX d         -13.870  30.741  28.853  0.00  0.00     0.016 C 
+ENDROOT
+BRANCH   3  20
+ATOM     20  O3  DGX d         -11.641  33.515  31.216  0.00  0.00    -0.356 OA
+BRANCH  20  21
+ATOM     21  C1X DGX d         -10.996  34.785  31.352  0.00  0.00     0.263 C 
+ATOM     22  O5X DGX d         -10.352  35.071  30.119  0.00  0.00    -0.354 OA
+ATOM     23  C5X DGX d          -9.641  36.290  30.055  0.00  0.00     0.151 C 
+ATOM     24  C4X DGX d          -8.613  36.391  31.195  0.00  0.00     0.175 C 
+ATOM     25  C6X DGX d          -8.955  36.208  28.704  0.00  0.00     0.042 C 
+ATOM     26  C3X DGX d          -9.196  36.029  32.566  0.00  0.00     0.154 C 
+ATOM     27  C2X DGX d          -9.929  34.700  32.445  0.00  0.00     0.095 C 
+BRANCH  24  28
+ATOM     28  O4X DGX d          -8.111  37.735  31.252  0.00  0.00    -0.390 OA
+ATOM     29  H40 DGX d          -7.830  38.004  30.385  0.00  0.00     0.210 HD
+ENDBRANCH  24  28
+BRANCH  26  30
+ATOM     30  O3X DGX d         -10.059  37.078  33.059  0.00  0.00    -0.393 OA
+ATOM     31  H38 DGX d         -10.953  36.761  33.092  0.00  0.00     0.210 HD
+ENDBRANCH  26  30
+ENDBRANCH  20  21
+ENDBRANCH   3  20
+BRANCH  14  32
+ATOM     32  O14 DGX d         -10.457  27.583  26.129  0.00  0.00    -0.389 OA
+ATOM     33  H19 DGX d          -9.853  28.264  25.859  0.00  0.00     0.210 HD
+ENDBRANCH  14  32
+BRANCH  12  34
+ATOM     34  O12 DGX d         -12.755  25.743  30.118  0.00  0.00    -0.395 OA
+ATOM     35  H18 DGX d         -13.594  26.071  30.419  0.00  0.00     0.210 HD
+ENDBRANCH  12  34
+BRANCH  17  36
+ATOM     36  C20 DGX d         -10.720  24.217  27.178  0.00  0.00    -0.045 A 
+ATOM     37  C22 DGX d         -10.106  24.156  25.988  0.00  0.00     0.087 A 
+ATOM     38  C23 DGX d         -10.417  22.885  25.361  0.00  0.00     0.283 A 
+ATOM     39  O21 DGX d         -11.181  22.167  26.185  0.00  0.00    -0.314 OA
+ATOM     40  O23 DGX d         -10.042  22.412  24.296  0.00  0.00    -0.260 OA
+ATOM     41  C21 DGX d         -11.489  22.965  27.350  0.00  0.00     0.213 A 
+ENDBRANCH  17  36
+TORSDOF 7
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -7.6      3.223     10.156
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_5  and  O3_6 
+REMARK    2  A    between atoms: O3_6  and  C1X_31 
+REMARK    3  A    between atoms: C12_15  and  O12_16 
+REMARK    4  A    between atoms: C14_18  and  O14_19 
+REMARK    5  A    between atoms: C20_25  and  C17_22 
+REMARK    6  A    between atoms: C3X_33  and  O3X_34 
+REMARK    7  A    between atoms: C4X_35  and  O4X_36 
+ROOT
+ATOM      1  C1  DGX d          -9.311  30.060  28.776  0.00  0.00     0.012 C 
+ATOM      2  C2  DGX d          -8.888  28.651  29.180  0.00  0.00     0.033 C 
+ATOM      3  C3  DGX d          -9.942  27.623  28.789  0.00  0.00     0.125 C 
+ATOM      4  C4  DGX d         -11.240  27.933  29.517  0.00  0.00     0.037 C 
+ATOM      5  C5  DGX d         -11.743  29.312  29.107  0.00  0.00    -0.004 C 
+ATOM      6  C6  DGX d         -13.122  29.612  29.680  0.00  0.00     0.006 C 
+ATOM      7  C7  DGX d         -13.059  29.870  31.177  0.00  0.00     0.008 C 
+ATOM      8  C8  DGX d         -12.061  30.989  31.478  0.00  0.00     0.026 C 
+ATOM      9  C9  DGX d         -10.676  30.737  30.871  0.00  0.00     0.003 C 
+ATOM     10  C10 DGX d         -10.689  30.443  29.342  0.00  0.00    -0.036 C 
+ATOM     11  C11 DGX d          -9.760  31.904  31.199  0.00  0.00     0.038 C 
+ATOM     12  C12 DGX d          -9.651  32.051  32.702  0.00  0.00     0.130 C 
+ATOM     13  C13 DGX d         -11.010  32.432  33.354  0.00  0.00     0.021 C 
+ATOM     14  C14 DGX d         -12.060  31.323  32.996  0.00  0.00     0.072 C 
+ATOM     15  C15 DGX d         -11.717  30.174  33.965  0.00  0.00     0.040 C 
+ATOM     16  C16 DGX d         -11.065  30.794  35.200  0.00  0.00     0.013 C 
+ATOM     17  C17 DGX d         -10.754  32.263  34.885  0.00  0.00     0.030 C 
+ATOM     18  C18 DGX d         -11.445  33.839  32.883  0.00  0.00     0.022 C 
+ATOM     19  C19 DGX d         -11.007  31.711  28.530  0.00  0.00     0.016 C 
+ENDROOT
+BRANCH   3  20
+ATOM     20  O3  DGX d         -10.199  27.678  27.376  0.00  0.00    -0.356 OA
+BRANCH  20  21
+ATOM     21  C1X DGX d         -10.442  26.445  26.692  0.00  0.00     0.263 C 
+ATOM     22  O5X DGX d         -11.842  26.211  26.719  0.00  0.00    -0.354 OA
+ATOM     23  C5X DGX d         -12.288  25.022  26.100  0.00  0.00     0.151 C 
+ATOM     24  C4X DGX d         -11.561  23.794  26.673  0.00  0.00     0.175 C 
+ATOM     25  C6X DGX d         -13.765  24.996  26.446  0.00  0.00     0.042 C 
+ATOM     26  C3X DGX d         -10.041  23.975  26.754  0.00  0.00     0.154 C 
+ATOM     27  C2X DGX d          -9.748  25.304  27.438  0.00  0.00     0.095 C 
+BRANCH  24  28
+ATOM     28  O4X DGX d         -11.842  22.656  25.843  0.00  0.00    -0.390 OA
+ATOM     29  H40 DGX d         -11.473  21.876  26.242  0.00  0.00     0.210 HD
+ENDBRANCH  24  28
+BRANCH  26  30
+ATOM     30  O3X DGX d          -9.437  23.899  25.443  0.00  0.00    -0.393 OA
+ATOM     31  H38 DGX d          -8.908  24.673  25.295  0.00  0.00     0.210 HD
+ENDBRANCH  26  30
+ENDBRANCH  20  21
+ENDBRANCH   3  20
+BRANCH  14  32
+ATOM     32  O14 DGX d         -13.407  31.729  33.356  0.00  0.00    -0.389 OA
+ATOM     33  H19 DGX d         -13.778  32.249  32.653  0.00  0.00     0.210 HD
+ENDBRANCH  14  32
+BRANCH  12  34
+ATOM     34  O12 DGX d          -8.616  32.972  33.060  0.00  0.00    -0.395 OA
+ATOM     35  H18 DGX d          -8.986  33.842  33.152  0.00  0.00     0.210 HD
+ENDBRANCH  12  34
+BRANCH  17  36
+ATOM     36  C20 DGX d         -11.368  33.287  35.789  0.00  0.00    -0.045 A 
+ATOM     37  C22 DGX d         -12.599  33.290  36.320  0.00  0.00     0.087 A 
+ATOM     38  C23 DGX d         -12.721  34.420  37.221  0.00  0.00     0.283 A 
+ATOM     39  O21 DGX d         -11.559  35.072  37.265  0.00  0.00    -0.314 OA
+ATOM     40  O23 DGX d         -13.655  34.773  37.931  0.00  0.00    -0.260 OA
+ATOM     41  C21 DGX d         -10.647  34.462  36.324  0.00  0.00     0.213 A 
+ENDBRANCH  17  36
+TORSDOF 7
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -7.5      2.487     10.314
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_5  and  O3_6 
+REMARK    2  A    between atoms: O3_6  and  C1X_31 
+REMARK    3  A    between atoms: C12_15  and  O12_16 
+REMARK    4  A    between atoms: C14_18  and  O14_19 
+REMARK    5  A    between atoms: C20_25  and  C17_22 
+REMARK    6  A    between atoms: C3X_33  and  O3X_34 
+REMARK    7  A    between atoms: C4X_35  and  O4X_36 
+ROOT
+ATOM      1  C1  DGX d         -10.081  27.940  29.374  0.00  0.00     0.012 C 
+ATOM      2  C2  DGX d         -11.462  27.300  29.262  0.00  0.00     0.033 C 
+ATOM      3  C3  DGX d         -12.081  27.557  27.894  0.00  0.00     0.125 C 
+ATOM      4  C4  DGX d         -12.259  29.054  27.697  0.00  0.00     0.037 C 
+ATOM      5  C5  DGX d         -10.900  29.744  27.742  0.00  0.00    -0.004 C 
+ATOM      6  C6  DGX d         -10.996  31.222  27.390  0.00  0.00     0.006 C 
+ATOM      7  C7  DGX d         -11.651  32.019  28.508  0.00  0.00     0.008 C 
+ATOM      8  C8  DGX d         -10.905  31.793  29.824  0.00  0.00     0.026 C 
+ATOM      9  C9  DGX d         -10.750  30.310  30.179  0.00  0.00     0.003 C 
+ATOM     10  C10 DGX d         -10.107  29.445  29.056  0.00  0.00    -0.036 C 
+ATOM     11  C11 DGX d          -9.981  30.180  31.483  0.00  0.00     0.038 C 
+ATOM     12  C12 DGX d         -10.730  30.903  32.583  0.00  0.00     0.130 C 
+ATOM     13  C13 DGX d         -10.805  32.436  32.331  0.00  0.00     0.021 C 
+ATOM     14  C14 DGX d         -11.511  32.677  30.950  0.00  0.00     0.072 C 
+ATOM     15  C15 DGX d         -13.006  32.477  31.269  0.00  0.00     0.040 C 
+ATOM     16  C16 DGX d         -13.209  32.811  32.746  0.00  0.00     0.013 C 
+ATOM     17  C17 DGX d         -11.827  32.943  33.397  0.00  0.00     0.030 C 
+ATOM     18  C18 DGX d          -9.388  33.051  32.391  0.00  0.00     0.022 C 
+ATOM     19  C19 DGX d          -8.605  29.747  28.908  0.00  0.00     0.016 C 
+ENDROOT
+BRANCH   3  20
+ATOM     20  O3  DGX d         -11.222  27.068  26.851  0.00  0.00    -0.356 OA
+BRANCH  20  21
+ATOM     21  C1X DGX d         -11.279  25.674  26.535  0.00  0.00     0.263 C 
+ATOM     22  O5X DGX d         -11.963  25.024  27.596  0.00  0.00    -0.354 OA
+ATOM     23  C5X DGX d         -12.113  23.624  27.476  0.00  0.00     0.151 C 
+ATOM     24  C4X DGX d         -10.753  22.940  27.261  0.00  0.00     0.175 C 
+ATOM     25  C6X DGX d         -12.717  23.236  28.813  0.00  0.00     0.042 C 
+ATOM     26  C3X DGX d          -9.902  23.615  26.179  0.00  0.00     0.154 C 
+ATOM     27  C2X DGX d          -9.858  25.111  26.461  0.00  0.00     0.095 C 
+BRANCH  24  28
+ATOM     28  O4X DGX d         -10.974  21.573  26.880  0.00  0.00    -0.390 OA
+ATOM     29  H40 DGX d         -11.156  21.055  27.656  0.00  0.00     0.210 HD
+ENDBRANCH  24  28
+BRANCH  26  30
+ATOM     30  O3X DGX d         -10.416  23.330  24.859  0.00  0.00    -0.393 OA
+ATOM     31  H38 DGX d         -11.233  23.797  24.731  0.00  0.00     0.210 HD
+ENDBRANCH  26  30
+ENDBRANCH  20  21
+ENDBRANCH   3  20
+BRANCH  14  32
+ATOM     32  O14 DGX d         -11.397  34.062  30.530  0.00  0.00    -0.389 OA
+ATOM     33  H19 DGX d         -11.229  34.095  29.596  0.00  0.00     0.210 HD
+ENDBRANCH  14  32
+BRANCH  12  34
+ATOM     34  O12 DGX d         -10.177  30.605  33.868  0.00  0.00    -0.395 OA
+ATOM     35  H18 DGX d          -9.919  29.692  33.897  0.00  0.00     0.210 HD
+ENDBRANCH  12  34
+BRANCH  17  36
+ATOM     36  C20 DGX d         -11.518  34.251  34.058  0.00  0.00    -0.045 A 
+ATOM     37  C22 DGX d         -11.834  35.484  33.639  0.00  0.00     0.087 A 
+ATOM     38  C23 DGX d         -11.433  36.443  34.651  0.00  0.00     0.283 A 
+ATOM     39  O21 DGX d         -10.915  35.790  35.692  0.00  0.00    -0.314 OA
+ATOM     40  O23 DGX d         -11.564  37.660  34.688  0.00  0.00    -0.260 OA
+ATOM     41  C21 DGX d         -10.861  34.380  35.377  0.00  0.00     0.213 A 
+ENDBRANCH  17  36
+TORSDOF 7
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:      -7.5      1.431      3.025
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_5  and  O3_6 
+REMARK    2  A    between atoms: O3_6  and  C1X_31 
+REMARK    3  A    between atoms: C12_15  and  O12_16 
+REMARK    4  A    between atoms: C14_18  and  O14_19 
+REMARK    5  A    between atoms: C20_25  and  C17_22 
+REMARK    6  A    between atoms: C3X_33  and  O3X_34 
+REMARK    7  A    between atoms: C4X_35  and  O4X_36 
+ROOT
+ATOM      1  C1  DGX d         -14.320  29.920  30.954  0.00  0.00     0.012 C 
+ATOM      2  C2  DGX d         -13.301  30.309  32.021  0.00  0.00     0.033 C 
+ATOM      3  C3  DGX d         -12.620  31.628  31.680  0.00  0.00     0.125 C 
+ATOM      4  C4  DGX d         -11.868  31.481  30.368  0.00  0.00     0.037 C 
+ATOM      5  C5  DGX d         -12.847  31.147  29.248  0.00  0.00    -0.004 C 
+ATOM      6  C6  DGX d         -12.176  31.146  27.881  0.00  0.00     0.006 C 
+ATOM      7  C7  DGX d         -11.269  29.938  27.708  0.00  0.00     0.008 C 
+ATOM      8  C8  DGX d         -12.054  28.649  27.959  0.00  0.00     0.026 C 
+ATOM      9  C9  DGX d         -12.781  28.642  29.308  0.00  0.00     0.003 C 
+ATOM     10  C10 DGX d         -13.704  29.874  29.546  0.00  0.00    -0.036 C 
+ATOM     11  C11 DGX d         -13.549  27.341  29.462  0.00  0.00     0.038 C 
+ATOM     12  C12 DGX d         -12.585  26.176  29.385  0.00  0.00     0.130 C 
+ATOM     13  C13 DGX d         -11.912  26.063  27.988  0.00  0.00     0.021 C 
+ATOM     14  C14 DGX d         -11.158  27.407  27.691  0.00  0.00     0.072 C 
+ATOM     15  C15 DGX d          -9.864  27.286  28.520  0.00  0.00     0.040 C 
+ATOM     16  C16 DGX d          -9.557  25.797  28.676  0.00  0.00     0.013 C 
+ATOM     17  C17 DGX d         -10.781  25.007  28.198  0.00  0.00     0.030 C 
+ATOM     18  C18 DGX d         -12.974  25.727  26.916  0.00  0.00     0.022 C 
+ATOM     19  C19 DGX d         -14.966  29.805  28.667  0.00  0.00     0.016 C 
+ENDROOT
+BRANCH   3  20
+ATOM     20  O3  DGX d         -13.595  32.673  31.522  0.00  0.00    -0.356 OA
+BRANCH  20  21
+ATOM     21  C1X DGX d         -13.121  34.018  31.407  0.00  0.00     0.263 C 
+ATOM     22  O5X DGX d         -13.379  34.667  32.643  0.00  0.00    -0.354 OA
+ATOM     23  C5X DGX d         -12.992  36.024  32.728  0.00  0.00     0.151 C 
+ATOM     24  C4X DGX d         -13.613  36.848  31.587  0.00  0.00     0.175 C 
+ATOM     25  C6X DGX d         -13.547  36.448  34.075  0.00  0.00     0.042 C 
+ATOM     26  C3X DGX d         -13.451  36.192  30.211  0.00  0.00     0.154 C 
+ATOM     27  C2X DGX d         -13.905  34.741  30.310  0.00  0.00     0.095 C 
+BRANCH  24  28
+ATOM     28  O4X DGX d         -12.990  38.141  31.553  0.00  0.00    -0.390 OA
+ATOM     29  H40 DGX d         -12.390  38.182  30.817  0.00  0.00     0.210 HD
+ENDBRANCH  24  28
+BRANCH  26  30
+ATOM     30  O3X DGX d         -12.090  36.300  29.740  0.00  0.00    -0.393 OA
+ATOM     31  H38 DGX d         -12.052  36.049  28.825  0.00  0.00     0.210 HD
+ENDBRANCH  26  30
+ENDBRANCH  20  21
+ENDBRANCH   3  20
+BRANCH  14  32
+ATOM     32  O14 DGX d         -10.716  27.475  26.310  0.00  0.00    -0.389 OA
+ATOM     33  H19 DGX d          -9.840  27.115  26.241  0.00  0.00     0.210 HD
+ENDBRANCH  14  32
+BRANCH  12  34
+ATOM     34  O12 DGX d         -13.219  24.951  29.767  0.00  0.00    -0.395 OA
+ATOM     35  H18 DGX d         -14.158  25.033  29.649  0.00  0.00     0.210 HD
+ENDBRANCH  12  34
+BRANCH  17  36
+ATOM     36  C20 DGX d         -10.557  24.029  27.086  0.00  0.00    -0.045 A 
+ATOM     37  C22 DGX d          -9.712  24.133  26.052  0.00  0.00     0.087 A 
+ATOM     38  C23 DGX d          -9.748  22.901  25.287  0.00  0.00     0.283 A 
+ATOM     39  O21 DGX d         -10.580  22.043  25.879  0.00  0.00    -0.314 OA
+ATOM     40  O23 DGX d          -9.115  22.563  24.295  0.00  0.00    -0.260 OA
+ATOM     41  C21 DGX d         -11.204  22.701  27.005  0.00  0.00     0.213 A 
+ENDBRANCH  17  36
+TORSDOF 7
+ENDMDL

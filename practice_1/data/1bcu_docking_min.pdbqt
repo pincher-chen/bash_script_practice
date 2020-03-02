@@ -1,0 +1,310 @@
+MODEL 1
+REMARK VINA RESULT:      -7.5      0.000      0.000
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_3  and  N15_15 
+ROOT
+ATOM      1  C1  PRL d           8.908  23.358  49.537  0.00  0.00     0.016 A 
+ATOM      2  C2  PRL d           9.645  23.723  48.489  0.00  0.00     0.030 A 
+ATOM      3  C3  PRL d          10.662  22.860  47.930  0.00  0.00     0.028 A 
+ATOM      4  C4  PRL d          10.865  21.630  48.525  0.00  0.00     0.061 A 
+ATOM      5  C5  PRL d           9.740  18.208  51.687  0.00  0.00     0.061 A 
+ATOM      6  C6  PRL d           8.982  17.697  52.726  0.00  0.00     0.028 A 
+ATOM      7  C7  PRL d           7.951  18.540  53.295  0.00  0.00     0.030 A 
+ATOM      8  C8  PRL d           7.724  19.775  52.845  0.00  0.00     0.016 A 
+ATOM      9  C9  PRL d           8.315  21.602  51.224  0.00  0.00     0.027 A 
+ATOM     10  N10 PRL d          10.265  19.982  50.164  0.00  0.00    -0.247 NA
+ATOM     11  C11 PRL d          10.108  21.232  49.606  0.00  0.00     0.070 A 
+ATOM     12  C12 PRL d           8.499  20.336  51.757  0.00  0.00    -0.006 A 
+ATOM     13  C13 PRL d           9.080  22.073  50.171  0.00  0.00    -0.006 A 
+ATOM     14  C14 PRL d           9.520  19.480  51.208  0.00  0.00     0.070 A 
+ATOM     15  N16 PRL d           9.176  16.442  53.192  0.00  0.00    -0.399 N 
+ATOM     16  H10 PRL d           9.912  15.848  52.782  0.00  0.00     0.156 HD
+ATOM     17  H11 PRL d           8.588  16.079  53.956  0.00  0.00     0.156 HD
+ENDROOT
+BRANCH   3  18
+ATOM     18  N15 PRL d          11.323  23.228  46.809  0.00  0.00    -0.399 N 
+ATOM     19  H8  PRL d          12.272  22.869  46.631  0.00  0.00     0.156 HD
+ATOM     20  H9  PRL d          10.879  23.866  46.134  0.00  0.00     0.156 HD
+ENDBRANCH   3  18
+TORSDOF 1
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -7.4      1.617      6.191
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_3  and  N15_15 
+ROOT
+ATOM      1  C1  PRL d           9.725  19.149  51.370  0.00  0.00     0.016 A 
+ATOM      2  C2  PRL d           8.929  18.963  52.422  0.00  0.00     0.030 A 
+ATOM      3  C3  PRL d           7.995  19.975  52.864  0.00  0.00     0.028 A 
+ATOM      4  C4  PRL d           7.955  21.168  52.166  0.00  0.00     0.061 A 
+ATOM      5  C5  PRL d           9.254  23.999  48.524  0.00  0.00     0.061 A 
+ATOM      6  C6  PRL d           9.977  24.267  47.375  0.00  0.00     0.028 A 
+ATOM      7  C7  PRL d          10.911  23.264  46.908  0.00  0.00     0.030 A 
+ATOM      8  C8  PRL d          11.083  22.109  47.552  0.00  0.00     0.016 A 
+ATOM      9  C9  PRL d          10.449  20.617  49.472  0.00  0.00     0.027 A 
+ATOM     10  N10 PRL d           8.686  22.538  50.337  0.00  0.00    -0.247 NA
+ATOM     11  C11 PRL d           8.767  21.376  51.072  0.00  0.00     0.070 A 
+ATOM     12  C12 PRL d          10.339  21.797  48.755  0.00  0.00    -0.006 A 
+ATOM     13  C13 PRL d           9.696  20.374  50.608  0.00  0.00    -0.006 A 
+ATOM     14  C14 PRL d           9.417  22.811  49.203  0.00  0.00     0.070 A 
+ATOM     15  N16 PRL d           9.811  25.422  46.689  0.00  0.00    -0.399 N 
+ATOM     16  H10 PRL d           9.145  26.131  47.029  0.00  0.00     0.156 HD
+ATOM     17  H11 PRL d          10.350  25.592  45.828  0.00  0.00     0.156 HD
+ENDROOT
+BRANCH   3  18
+ATOM     18  N15 PRL d           7.138  19.713  53.876  0.00  0.00    -0.399 N 
+ATOM     19  H8  PRL d           7.343  20.055  54.826  0.00  0.00     0.156 HD
+ATOM     20  H9  PRL d           6.281  19.170  53.699  0.00  0.00     0.156 HD
+ENDBRANCH   3  18
+TORSDOF 1
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -7.4      0.208      5.667
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_3  and  N15_15 
+ROOT
+ATOM      1  C1  PRL d           7.847  19.708  52.713  0.00  0.00     0.016 A 
+ATOM      2  C2  PRL d           8.156  18.503  53.188  0.00  0.00     0.030 A 
+ATOM      3  C3  PRL d           9.197  17.690  52.598  0.00  0.00     0.028 A 
+ATOM      4  C4  PRL d           9.867  18.195  51.500  0.00  0.00     0.061 A 
+ATOM      5  C5  PRL d          10.848  21.683  48.362  0.00  0.00     0.061 A 
+ATOM      6  C6  PRL d          10.662  22.950  47.836  0.00  0.00     0.028 A 
+ATOM      7  C7  PRL d           9.633  23.785  48.419  0.00  0.00     0.030 A 
+ATOM      8  C8  PRL d           8.875  23.363  49.433  0.00  0.00     0.016 A 
+ATOM      9  C9  PRL d           8.314  21.540  51.068  0.00  0.00     0.027 A 
+ATOM     10  N10 PRL d          10.272  19.976  49.943  0.00  0.00    -0.247 NA
+ATOM     11  C11 PRL d           9.565  19.443  50.997  0.00  0.00     0.070 A 
+ATOM     12  C12 PRL d           9.048  22.045  50.007  0.00  0.00    -0.006 A 
+ATOM     13  C13 PRL d           8.540  20.274  51.581  0.00  0.00    -0.006 A 
+ATOM     14  C14 PRL d          10.077  21.230  49.410  0.00  0.00     0.070 A 
+ATOM     15  N16 PRL d          11.427  23.412  46.820  0.00  0.00    -0.399 N 
+ATOM     16  H10 PRL d          12.157  22.811  46.411  0.00  0.00     0.156 HD
+ATOM     17  H11 PRL d          11.279  24.364  46.456  0.00  0.00     0.156 HD
+ENDROOT
+BRANCH   3  18
+ATOM     18  N15 PRL d           9.545  16.514  53.166  0.00  0.00    -0.399 N 
+ATOM     19  H8  PRL d          10.465  16.096  52.963  0.00  0.00     0.156 HD
+ATOM     20  H9  PRL d           8.892  16.035  53.803  0.00  0.00     0.156 HD
+ENDBRANCH   3  18
+TORSDOF 1
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -7.1      1.610      2.514
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_3  and  N15_15 
+ROOT
+ATOM      1  C1  PRL d          11.105  21.739  47.804  0.00  0.00     0.016 A 
+ATOM      2  C2  PRL d          11.078  22.896  47.144  0.00  0.00     0.030 A 
+ATOM      3  C3  PRL d          10.191  23.974  47.522  0.00  0.00     0.028 A 
+ATOM      4  C4  PRL d           9.345  23.769  48.595  0.00  0.00     0.061 A 
+ATOM      5  C5  PRL d           7.730  21.182  52.293  0.00  0.00     0.061 A 
+ATOM      6  C6  PRL d           7.729  20.054  53.095  0.00  0.00     0.028 A 
+ATOM      7  C7  PRL d           8.617  18.966  52.741  0.00  0.00     0.030 A 
+ATOM      8  C8  PRL d           9.420  19.030  51.678  0.00  0.00     0.016 A 
+ATOM      9  C9  PRL d          10.260  20.348  49.711  0.00  0.00     0.027 A 
+ATOM     10  N10 PRL d           8.565  22.397  50.403  0.00  0.00    -0.247 NA
+ATOM     11  C11 PRL d           9.362  22.581  49.295  0.00  0.00     0.070 A 
+ATOM     12  C12 PRL d           9.446  20.198  50.822  0.00  0.00    -0.006 A 
+ATOM     13  C13 PRL d          10.249  21.499  48.941  0.00  0.00    -0.006 A 
+ATOM     14  C14 PRL d           8.553  21.268  51.191  0.00  0.00     0.070 A 
+ATOM     15  N16 PRL d           6.939  19.967  54.190  0.00  0.00    -0.399 N 
+ATOM     16  H10 PRL d           6.310  20.746  54.435  0.00  0.00     0.156 HD
+ATOM     17  H11 PRL d           6.967  19.123  54.780  0.00  0.00     0.156 HD
+ENDROOT
+BRANCH   3  18
+ATOM     18  N15 PRL d          10.261  25.165  46.887  0.00  0.00    -0.399 N 
+ATOM     19  H8  PRL d           9.493  25.845  46.982  0.00  0.00     0.156 HD
+ATOM     20  H9  PRL d          11.082  25.394  46.308  0.00  0.00     0.156 HD
+ENDBRANCH   3  18
+TORSDOF 1
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -6.5      2.294      3.179
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_3  and  N15_15 
+ROOT
+ATOM      1  C1  PRL d          10.274  20.456  49.826  0.00  0.00     0.016 A 
+ATOM      2  C2  PRL d          10.543  21.418  48.944  0.00  0.00     0.030 A 
+ATOM      3  C3  PRL d           9.753  22.626  48.863  0.00  0.00     0.028 A 
+ATOM      4  C4  PRL d           8.683  22.758  49.728  0.00  0.00     0.061 A 
+ATOM      5  C5  PRL d           6.000  21.284  53.416  0.00  0.00     0.061 A 
+ATOM      6  C6  PRL d           5.678  20.386  54.419  0.00  0.00     0.028 A 
+ATOM      7  C7  PRL d           6.463  19.174  54.525  0.00  0.00     0.030 A 
+ATOM      8  C8  PRL d           7.470  18.912  53.690  0.00  0.00     0.016 A 
+ATOM      9  C9  PRL d           8.872  19.641  51.737  0.00  0.00     0.027 A 
+ATOM     10  N10 PRL d           7.365  21.932  51.556  0.00  0.00    -0.247 NA
+ATOM     11  C11 PRL d           8.392  21.777  50.651  0.00  0.00     0.070 A 
+ATOM     12  C12 PRL d           7.832  19.833  52.632  0.00  0.00    -0.006 A 
+ATOM     13  C13 PRL d           9.177  20.570  50.756  0.00  0.00    -0.006 A 
+ATOM     14  C14 PRL d           7.036  21.032  52.544  0.00  0.00     0.070 A 
+ATOM     15  N16 PRL d           4.675  20.633  55.292  0.00  0.00    -0.399 N 
+ATOM     16  H10 PRL d           4.121  21.498  55.209  0.00  0.00     0.156 HD
+ATOM     17  H11 PRL d           4.465  19.956  56.040  0.00  0.00     0.156 HD
+ENDROOT
+BRANCH   3  18
+ATOM     18  N15 PRL d          10.114  23.619  48.020  0.00  0.00    -0.399 N 
+ATOM     19  H8  PRL d          11.106  23.885  47.933  0.00  0.00     0.156 HD
+ATOM     20  H9  PRL d           9.399  24.110  47.465  0.00  0.00     0.156 HD
+ENDBRANCH   3  18
+TORSDOF 1
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -6.5      2.531      6.160
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_3  and  N15_15 
+ROOT
+ATOM      1  C1  PRL d           6.846  18.886  54.224  0.00  0.00     0.016 A 
+ATOM      2  C2  PRL d           6.267  19.399  55.309  0.00  0.00     0.030 A 
+ATOM      3  C3  PRL d           6.322  20.812  55.611  0.00  0.00     0.028 A 
+ATOM      4  C4  PRL d           7.014  21.633  54.741  0.00  0.00     0.061 A 
+ATOM      5  C5  PRL d           9.433  22.436  50.682  0.00  0.00     0.061 A 
+ATOM      6  C6  PRL d          10.004  22.023  49.491  0.00  0.00     0.028 A 
+ATOM      7  C7  PRL d           9.951  20.614  49.162  0.00  0.00     0.030 A 
+ATOM      8  C8  PRL d           9.374  19.724  49.972  0.00  0.00     0.016 A 
+ATOM      9  C9  PRL d           8.136  19.266  52.109  0.00  0.00     0.027 A 
+ATOM     10  N10 PRL d           8.252  21.945  52.709  0.00  0.00    -0.247 NA
+ATOM     11  C11 PRL d           7.615  21.122  53.610  0.00  0.00     0.070 A 
+ATOM     12  C12 PRL d           8.767  20.125  51.223  0.00  0.00    -0.006 A 
+ATOM     13  C13 PRL d           7.559  19.717  53.285  0.00  0.00    -0.006 A 
+ATOM     14  C14 PRL d           8.833  21.532  51.531  0.00  0.00     0.070 A 
+ATOM     15  N16 PRL d          10.579  22.904  48.641  0.00  0.00    -0.399 N 
+ATOM     16  H10 PRL d          10.613  23.905  48.882  0.00  0.00     0.156 HD
+ATOM     17  H11 PRL d          10.984  22.574  47.752  0.00  0.00     0.156 HD
+ENDROOT
+BRANCH   3  18
+ATOM     18  N15 PRL d           5.643  21.307  56.670  0.00  0.00    -0.399 N 
+ATOM     19  H8  PRL d           4.631  21.484  56.596  0.00  0.00     0.156 HD
+ATOM     20  H9  PRL d           6.137  21.509  57.551  0.00  0.00     0.156 HD
+ENDBRANCH   3  18
+TORSDOF 1
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -6.5      1.337      1.342
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_3  and  N15_15 
+ROOT
+ATOM      1  C1  PRL d           8.865  23.178  49.435  0.00  0.00     0.016 A 
+ATOM      2  C2  PRL d           9.837  23.449  48.566  0.00  0.00     0.030 A 
+ATOM      3  C3  PRL d          10.710  22.420  48.046  0.00  0.00     0.028 A 
+ATOM      4  C4  PRL d          10.520  21.125  48.491  0.00  0.00     0.061 A 
+ATOM      5  C5  PRL d           8.110  17.796  50.958  0.00  0.00     0.061 A 
+ATOM      6  C6  PRL d           7.087  17.391  51.796  0.00  0.00     0.028 A 
+ATOM      7  C7  PRL d           6.194  18.403  52.320  0.00  0.00     0.030 A 
+ATOM      8  C8  PRL d           6.337  19.694  52.015  0.00  0.00     0.016 A 
+ATOM      9  C9  PRL d           7.602  21.466  50.762  0.00  0.00     0.027 A 
+ATOM     10  N10 PRL d           9.283  19.526  49.784  0.00  0.00    -0.247 NA
+ATOM     11  C11 PRL d           9.516  20.824  49.386  0.00  0.00     0.070 A 
+ATOM     12  C12 PRL d           7.396  20.149  51.138  0.00  0.00    -0.006 A 
+ATOM     13  C13 PRL d           8.626  21.834  49.905  0.00  0.00    -0.006 A 
+ATOM     14  C14 PRL d           8.274  19.124  50.630  0.00  0.00     0.070 A 
+ATOM     15  N16 PRL d           6.904  16.087  52.109  0.00  0.00    -0.399 N 
+ATOM     16  H10 PRL d           7.544  15.373  51.733  0.00  0.00     0.156 HD
+ATOM     17  H11 PRL d           6.126  15.809  52.724  0.00  0.00     0.156 HD
+ENDROOT
+BRANCH   3  18
+ATOM     18  N15 PRL d          11.623  22.719  47.094  0.00  0.00    -0.399 N 
+ATOM     19  H8  PRL d          12.009  21.973  46.499  0.00  0.00     0.156 HD
+ATOM     20  H9  PRL d          11.931  23.693  46.964  0.00  0.00     0.156 HD
+ENDBRANCH   3  18
+TORSDOF 1
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -6.4      3.185      3.536
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_3  and  N15_15 
+ROOT
+ATOM      1  C1  PRL d           9.093  22.904  49.823  0.00  0.00     0.016 A 
+ATOM      2  C2  PRL d          10.284  22.648  49.283  0.00  0.00     0.030 A 
+ATOM      3  C3  PRL d          10.625  21.343  48.763  0.00  0.00     0.028 A 
+ATOM      4  C4  PRL d           9.676  20.342  48.853  0.00  0.00     0.061 A 
+ATOM      5  C5  PRL d           5.278  18.746  49.895  0.00  0.00     0.061 A 
+ATOM      6  C6  PRL d           3.988  18.921  50.364  0.00  0.00     0.028 A 
+ATOM      7  C7  PRL d           3.621  20.223  50.879  0.00  0.00     0.030 A 
+ATOM      8  C8  PRL d           4.487  21.237  50.910  0.00  0.00     0.016 A 
+ATOM      9  C9  PRL d           6.795  22.093  50.408  0.00  0.00     0.027 A 
+ATOM     10  N10 PRL d           7.466  19.612  49.437  0.00  0.00    -0.247 NA
+ATOM     11  C11 PRL d           8.436  20.589  49.403  0.00  0.00     0.070 A 
+ATOM     12  C12 PRL d           5.843  21.087  50.425  0.00  0.00    -0.006 A 
+ATOM     13  C13 PRL d           8.072  21.888  49.914  0.00  0.00    -0.006 A 
+ATOM     14  C14 PRL d           6.187  19.781  49.918  0.00  0.00     0.070 A 
+ATOM     15  N16 PRL d           3.082  17.916  50.328  0.00  0.00    -0.399 N 
+ATOM     16  H10 PRL d           3.351  16.992  49.960  0.00  0.00     0.156 HD
+ATOM     17  H11 PRL d           2.123  18.075  50.669  0.00  0.00     0.156 HD
+ENDROOT
+BRANCH   3  18
+ATOM     18  N15 PRL d          11.808  21.148  48.138  0.00  0.00    -0.399 N 
+ATOM     19  H8  PRL d          12.629  20.832  48.675  0.00  0.00     0.156 HD
+ATOM     20  H9  PRL d          11.890  21.316  47.125  0.00  0.00     0.156 HD
+ENDBRANCH   3  18
+TORSDOF 1
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -6.3      2.981      4.336
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_3  and  N15_15 
+ROOT
+ATOM      1  C1  PRL d           8.469  18.523  50.860  0.00  0.00     0.016 A 
+ATOM      2  C2  PRL d           9.236  18.972  49.868  0.00  0.00     0.030 A 
+ATOM      3  C3  PRL d           9.705  20.339  49.821  0.00  0.00     0.028 A 
+ATOM      4  C4  PRL d           9.323  21.190  50.840  0.00  0.00     0.061 A 
+ATOM      5  C5  PRL d           7.199  22.094  55.041  0.00  0.00     0.061 A 
+ATOM      6  C6  PRL d           6.472  21.716  56.156  0.00  0.00     0.028 A 
+ATOM      7  C7  PRL d           6.000  20.349  56.229  0.00  0.00     0.030 A 
+ATOM      8  C8  PRL d           6.249  19.465  55.261  0.00  0.00     0.016 A 
+ATOM      9  C9  PRL d           7.321  18.970  53.043  0.00  0.00     0.027 A 
+ATOM     10  N10 PRL d           8.202  21.570  52.928  0.00  0.00    -0.247 NA
+ATOM     11  C11 PRL d           8.534  20.742  51.879  0.00  0.00     0.070 A 
+ATOM     12  C12 PRL d           7.008  19.831  54.083  0.00  0.00    -0.006 A 
+ATOM     13  C13 PRL d           8.067  19.379  51.950  0.00  0.00    -0.006 A 
+ATOM     14  C14 PRL d           7.466  21.197  54.030  0.00  0.00     0.070 A 
+ATOM     15  N16 PRL d           6.220  22.583  57.163  0.00  0.00    -0.399 N 
+ATOM     16  H10 PRL d           6.559  23.555  57.103  0.00  0.00     0.156 HD
+ATOM     17  H11 PRL d           5.689  22.273  57.990  0.00  0.00     0.156 HD
+ENDROOT
+BRANCH   3  18
+ATOM     18  N15 PRL d          10.559  20.731  48.848  0.00  0.00    -0.399 N 
+ATOM     19  H8  PRL d          10.684  20.149  48.007  0.00  0.00     0.156 HD
+ATOM     20  H9  PRL d          11.084  21.612  48.947  0.00  0.00     0.156 HD
+ENDBRANCH   3  18
+TORSDOF 1
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:      -6.0      6.647      7.066
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_3  and  N15_15 
+ROOT
+ATOM      1  C1  PRL d           2.126  19.229  45.879  0.00  0.00     0.016 A 
+ATOM      2  C2  PRL d           2.428  18.424  44.861  0.00  0.00     0.030 A 
+ATOM      3  C3  PRL d           3.538  17.499  44.919  0.00  0.00     0.028 A 
+ATOM      4  C4  PRL d           4.301  17.476  46.071  0.00  0.00     0.061 A 
+ATOM      5  C5  PRL d           5.229  18.828  50.575  0.00  0.00     0.061 A 
+ATOM      6  C6  PRL d           4.959  19.561  51.717  0.00  0.00     0.028 A 
+ATOM      7  C7  PRL d           3.846  20.486  51.685  0.00  0.00     0.030 A 
+ATOM      8  C8  PRL d           3.091  20.641  50.596  0.00  0.00     0.016 A 
+ATOM      9  C9  PRL d           2.602  19.980  48.222  0.00  0.00     0.027 A 
+ATOM     10  N10 PRL d           4.721  18.233  48.309  0.00  0.00    -0.247 NA
+ATOM     11  C11 PRL d           4.001  18.297  47.137  0.00  0.00     0.070 A 
+ATOM     12  C12 PRL d           3.347  19.887  49.387  0.00  0.00    -0.006 A 
+ATOM     13  C13 PRL d           2.890  19.217  47.103  0.00  0.00    -0.006 A 
+ATOM     14  C14 PRL d           4.461  18.973  49.440  0.00  0.00     0.070 A 
+ATOM     15  N16 PRL d           5.695  19.411  52.842  0.00  0.00    -0.399 N 
+ATOM     16  H10 PRL d           6.486  18.751  52.857  0.00  0.00     0.156 HD
+ATOM     17  H11 PRL d           5.465  19.957  53.685  0.00  0.00     0.156 HD
+ENDROOT
+BRANCH   3  18
+ATOM     18  N15 PRL d           3.755  16.633  43.903  0.00  0.00    -0.399 N 
+ATOM     19  H8  PRL d           3.121  16.623  43.091  0.00  0.00     0.156 HD
+ATOM     20  H9  PRL d           4.554  15.984  43.941  0.00  0.00     0.156 HD
+ENDBRANCH   3  18
+TORSDOF 1
+ENDMDL

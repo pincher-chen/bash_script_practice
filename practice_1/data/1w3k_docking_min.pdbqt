@@ -1,0 +1,670 @@
+MODEL 1
+REMARK VINA RESULT:      -7.4      0.000      0.000
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_1  and  O2_7 
+REMARK    2  A    between atoms: C3_2  and  O3_8 
+REMARK    3  A    between atoms: C4_3  and  O4_9 
+REMARK    4  A    between atoms: C5_4  and  C6_5 
+REMARK    5  A    between atoms: C6_5  and  O6_11 
+REMARK    6  A    between atoms: O4_19  and  C1_6 
+REMARK    7  A    between atoms: C5_13  and  C6_12 
+REMARK    8  A    between atoms: C6_12  and  O6_17 
+REMARK    9  A    between atoms: C4_14  and  O4_19 
+REMARK   10  A    between atoms: C3_15  and  O3_20 
+ROOT
+ATOM      1  C2  BGC d          61.232  47.676  36.353  0.00  0.00     0.204 C 
+ATOM      2  C3  BGC d          60.568  48.668  37.321  0.00  0.00     0.183 C 
+ATOM      3  C4  BGC d          59.056  48.446  37.395  0.00  0.00     0.180 C 
+ATOM      4  C5  BGC d          58.782  46.977  37.716  0.00  0.00     0.179 C 
+ATOM      5  C1  BGC d          60.831  46.254  36.714  0.00  0.00     0.292 C 
+ATOM      6  O5  BGC d          59.407  46.177  36.706  0.00  0.00    -0.348 OA
+ENDROOT
+BRANCH   5   7
+ATOM      7  O4  BGC d          61.235  45.444  35.708  0.00  0.00    -0.348 OA
+BRANCH   7   8
+ATOM      8  C4  BGC d          61.122  44.039  35.894  0.00  0.00     0.188 C 
+ATOM      9  C5  BGC d          62.513  43.397  36.035  0.00  0.00     0.213 C 
+ATOM     10  O5  BGC d          62.356  41.992  36.215  0.00  0.00    -0.195 OA
+ATOM     11  N1  BGC d          61.712  41.417  35.052  0.00  0.00     0.042 N 
+ATOM     12  C2  BGC d          60.355  41.907  34.791  0.00  0.00     0.302 C 
+ATOM     13  H21 BGC d          62.280  41.624  34.246  0.00  0.00     0.315 HD
+ATOM     14  H22 BGC d          61.665  40.418  35.182  0.00  0.00     0.315 HD
+ATOM     15  C3  BGC d          60.404  43.446  34.673  0.00  0.00     0.178 C 
+BRANCH   9  16
+ATOM     16  C6  BGC d          63.265  43.857  37.268  0.00  0.00     0.201 C 
+BRANCH  16  17
+ATOM     17  O6  BGC d          64.072  44.994  36.975  0.00  0.00    -0.398 OA
+ATOM     18  H19 BGC d          64.196  45.505  37.766  0.00  0.00     0.209 HD
+ENDBRANCH  16  17
+ENDBRANCH   9  16
+BRANCH  15  19
+ATOM     19  O3  BGC d          59.099  43.901  34.545  0.00  0.00    -0.391 OA
+ATOM     20  H20 BGC d          58.692  43.488  33.793  0.00  0.00     0.210 HD
+ENDBRANCH  15  19
+ENDBRANCH   7   8
+ENDBRANCH   5   7
+BRANCH   1  21
+ATOM     21  O2  BGC d          62.642  47.816  36.356  0.00  0.00    -0.388 OA
+ATOM     22  H8  BGC d          63.045  46.957  36.352  0.00  0.00     0.210 HD
+ENDBRANCH   1  21
+BRANCH   2  23
+ATOM     23  O3  BGC d          60.829  50.003  36.916  0.00  0.00    -0.390 OA
+ATOM     24  H9  BGC d          61.767  50.158  36.922  0.00  0.00     0.210 HD
+ENDBRANCH   2  23
+BRANCH   4  25
+ATOM     25  C6  BGC d          57.309  46.614  37.789  0.00  0.00     0.198 C 
+BRANCH  25  26
+ATOM     26  O6  BGC d          56.632  47.256  36.722  0.00  0.00    -0.398 OA
+ATOM     27  H11 BGC d          57.237  47.830  36.265  0.00  0.00     0.209 HD
+ENDBRANCH  25  26
+ENDBRANCH   4  25
+BRANCH   3  28
+ATOM     28  O4  BGC d          58.470  49.273  38.392  0.00  0.00    -0.390 OA
+ATOM     29  H10 BGC d          57.540  49.090  38.448  0.00  0.00     0.210 HD
+ENDBRANCH   3  28
+TORSDOF 10
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -7.0      0.775      2.383
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_1  and  O2_7 
+REMARK    2  A    between atoms: C3_2  and  O3_8 
+REMARK    3  A    between atoms: C4_3  and  O4_9 
+REMARK    4  A    between atoms: C5_4  and  C6_5 
+REMARK    5  A    between atoms: C6_5  and  O6_11 
+REMARK    6  A    between atoms: O4_19  and  C1_6 
+REMARK    7  A    between atoms: C5_13  and  C6_12 
+REMARK    8  A    between atoms: C6_12  and  O6_17 
+REMARK    9  A    between atoms: C4_14  and  O4_19 
+REMARK   10  A    between atoms: C3_15  and  O3_20 
+ROOT
+ATOM      1  C2  BGC d          61.274  47.525  36.272  0.00  0.00     0.204 C 
+ATOM      2  C3  BGC d          60.595  48.455  37.290  0.00  0.00     0.183 C 
+ATOM      3  C4  BGC d          59.090  48.190  37.369  0.00  0.00     0.180 C 
+ATOM      4  C5  BGC d          58.858  46.702  37.628  0.00  0.00     0.179 C 
+ATOM      5  C1  BGC d          60.913  46.078  36.574  0.00  0.00     0.292 C 
+ATOM      6  O5  BGC d          59.491  45.964  36.576  0.00  0.00    -0.348 OA
+ENDROOT
+BRANCH   5   7
+ATOM      7  O4  BGC d          61.327  45.324  35.528  0.00  0.00    -0.348 OA
+BRANCH   7   8
+ATOM      8  C4  BGC d          61.953  44.080  35.808  0.00  0.00     0.188 C 
+ATOM      9  C5  BGC d          60.901  43.001  36.121  0.00  0.00     0.213 C 
+ATOM     10  O5  BGC d          61.568  41.773  36.399  0.00  0.00    -0.195 OA
+ATOM     11  N1  BGC d          62.413  41.927  37.566  0.00  0.00     0.042 N 
+ATOM     12  C2  BGC d          63.494  42.907  37.421  0.00  0.00     0.302 C 
+ATOM     13  H21 BGC d          61.831  42.214  38.337  0.00  0.00     0.315 HD
+ATOM     14  H22 BGC d          62.828  41.032  37.773  0.00  0.00     0.315 HD
+ATOM     15  C3  BGC d          62.875  44.264  37.022  0.00  0.00     0.178 C 
+BRANCH   9  16
+ATOM     16  C6  BGC d          59.998  42.685  34.946  0.00  0.00     0.201 C 
+BRANCH  16  17
+ATOM     17  O6  BGC d          59.308  43.852  34.508  0.00  0.00    -0.398 OA
+ATOM     18  H19 BGC d          59.091  43.764  33.588  0.00  0.00     0.209 HD
+ENDBRANCH  16  17
+ENDBRANCH   9  16
+BRANCH  15  19
+ATOM     19  O3  BGC d          63.917  45.147  36.775  0.00  0.00    -0.391 OA
+ATOM     20  H20 BGC d          64.363  44.893  35.975  0.00  0.00     0.210 HD
+ENDBRANCH  15  19
+ENDBRANCH   7   8
+ENDBRANCH   5   7
+BRANCH   1  21
+ATOM     21  O2  BGC d          62.679  47.701  36.268  0.00  0.00    -0.388 OA
+ATOM     22  H8  BGC d          63.070  47.142  36.929  0.00  0.00     0.210 HD
+ENDBRANCH   1  21
+BRANCH   2  23
+ATOM     23  O3  BGC d          60.817  49.813  36.943  0.00  0.00    -0.390 OA
+ATOM     24  H9  BGC d          60.187  50.362  37.394  0.00  0.00     0.210 HD
+ENDBRANCH   2  23
+BRANCH   4  25
+ATOM     25  C6  BGC d          57.395  46.298  37.699  0.00  0.00     0.198 C 
+BRANCH  25  26
+ATOM     26  O6  BGC d          56.655  47.121  36.813  0.00  0.00    -0.398 OA
+ATOM     27  H11 BGC d          56.453  47.944  37.242  0.00  0.00     0.209 HD
+ENDBRANCH  25  26
+ENDBRANCH   4  25
+BRANCH   3  28
+ATOM     28  O4  BGC d          58.495  48.956  38.408  0.00  0.00    -0.390 OA
+ATOM     29  H10 BGC d          58.374  49.851  38.112  0.00  0.00     0.210 HD
+ENDBRANCH   3  28
+TORSDOF 10
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -6.4      3.754      5.445
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_1  and  O2_7 
+REMARK    2  A    between atoms: C3_2  and  O3_8 
+REMARK    3  A    between atoms: C4_3  and  O4_9 
+REMARK    4  A    between atoms: C5_4  and  C6_5 
+REMARK    5  A    between atoms: C6_5  and  O6_11 
+REMARK    6  A    between atoms: O4_19  and  C1_6 
+REMARK    7  A    between atoms: C5_13  and  C6_12 
+REMARK    8  A    between atoms: C6_12  and  O6_17 
+REMARK    9  A    between atoms: C4_14  and  O4_19 
+REMARK   10  A    between atoms: C3_15  and  O3_20 
+ROOT
+ATOM      1  C2  BGC d          61.668  42.405  36.435  0.00  0.00     0.204 C 
+ATOM      2  C3  BGC d          62.265  43.776  36.080  0.00  0.00     0.183 C 
+ATOM      3  C4  BGC d          61.336  44.915  36.503  0.00  0.00     0.180 C 
+ATOM      4  C5  BGC d          60.984  44.749  37.981  0.00  0.00     0.179 C 
+ATOM      5  C1  BGC d          61.282  42.376  37.907  0.00  0.00     0.292 C 
+ATOM      6  O5  BGC d          60.387  43.459  38.154  0.00  0.00    -0.348 OA
+ENDROOT
+BRANCH   5   7
+ATOM      7  O4  BGC d          60.550  41.257  38.119  0.00  0.00    -0.348 OA
+BRANCH   7   8
+ATOM      8  C4  BGC d          60.897  40.430  39.220  0.00  0.00     0.188 C 
+ATOM      9  C5  BGC d          60.803  41.216  40.540  0.00  0.00     0.213 C 
+ATOM     10  O5  BGC d          61.162  40.355  41.617  0.00  0.00    -0.195 OA
+ATOM     11  N1  BGC d          62.532  39.913  41.456  0.00  0.00     0.042 N 
+ATOM     12  C2  BGC d          62.788  39.119  40.250  0.00  0.00     0.302 C 
+ATOM     13  H21 BGC d          63.122  40.730  41.424  0.00  0.00     0.315 HD
+ATOM     14  H22 BGC d          62.776  39.353  42.257  0.00  0.00     0.315 HD
+ATOM     15  C3  BGC d          62.338  39.937  39.020  0.00  0.00     0.178 C 
+BRANCH   9  16
+ATOM     16  C6  BGC d          59.394  41.669  40.869  0.00  0.00     0.201 C 
+BRANCH  16  17
+ATOM     17  O6  BGC d          58.434  40.913  40.135  0.00  0.00    -0.398 OA
+ATOM     18  H19 BGC d          58.594  41.018  39.205  0.00  0.00     0.209 HD
+ENDBRANCH  16  17
+ENDBRANCH   9  16
+BRANCH  15  19
+ATOM     19  O3  BGC d          62.476  39.127  37.901  0.00  0.00    -0.391 OA
+ATOM     20  H20 BGC d          62.797  39.646  37.172  0.00  0.00     0.210 HD
+ENDBRANCH  15  19
+ENDBRANCH   7   8
+ENDBRANCH   5   7
+BRANCH   1  21
+ATOM     21  O2  BGC d          62.568  41.355  36.133  0.00  0.00    -0.388 OA
+ATOM     22  H8  BGC d          62.452  40.649  36.757  0.00  0.00     0.210 HD
+ENDBRANCH   1  21
+BRANCH   2  23
+ATOM     23  O3  BGC d          62.509  43.860  34.684  0.00  0.00    -0.390 OA
+ATOM     24  H9  BGC d          61.890  44.464  34.291  0.00  0.00     0.210 HD
+ENDBRANCH   2  23
+BRANCH   4  25
+ATOM     25  C6  BGC d          60.037  45.806  38.524  0.00  0.00     0.198 C 
+BRANCH  25  26
+ATOM     26  O6  BGC d          60.740  47.033  38.625  0.00  0.00    -0.398 OA
+ATOM     27  H11 BGC d          60.126  47.755  38.554  0.00  0.00     0.209 HD
+ENDBRANCH  25  26
+ENDBRANCH   4  25
+BRANCH   3  28
+ATOM     28  O4  BGC d          61.955  46.178  36.296  0.00  0.00    -0.390 OA
+ATOM     29  H10 BGC d          62.018  46.639  37.125  0.00  0.00     0.210 HD
+ENDBRANCH   3  28
+TORSDOF 10
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -6.4      3.781      5.472
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_1  and  O2_7 
+REMARK    2  A    between atoms: C3_2  and  O3_8 
+REMARK    3  A    between atoms: C4_3  and  O4_9 
+REMARK    4  A    between atoms: C5_4  and  C6_5 
+REMARK    5  A    between atoms: C6_5  and  O6_11 
+REMARK    6  A    between atoms: O4_19  and  C1_6 
+REMARK    7  A    between atoms: C5_13  and  C6_12 
+REMARK    8  A    between atoms: C6_12  and  O6_17 
+REMARK    9  A    between atoms: C4_14  and  O4_19 
+REMARK   10  A    between atoms: C3_15  and  O3_20 
+ROOT
+ATOM      1  C2  BGC d          61.589  42.170  36.275  0.00  0.00     0.204 C 
+ATOM      2  C3  BGC d          61.804  43.555  35.646  0.00  0.00     0.183 C 
+ATOM      3  C4  BGC d          60.842  44.590  36.234  0.00  0.00     0.180 C 
+ATOM      4  C5  BGC d          60.957  44.569  37.757  0.00  0.00     0.179 C 
+ATOM      5  C1  BGC d          61.645  42.277  37.792  0.00  0.00     0.292 C 
+ATOM      6  O5  BGC d          60.676  43.239  38.207  0.00  0.00    -0.348 OA
+ENDROOT
+BRANCH   5   7
+ATOM      7  O4  BGC d          61.217  41.100  38.305  0.00  0.00    -0.348 OA
+BRANCH   7   8
+ATOM      8  C4  BGC d          61.668  40.732  39.601  0.00  0.00     0.188 C 
+ATOM      9  C5  BGC d          62.337  39.347  39.569  0.00  0.00     0.213 C 
+ATOM     10  O5  BGC d          62.771  39.013  40.885  0.00  0.00    -0.195 OA
+ATOM     11  N1  BGC d          61.629  38.939  41.773  0.00  0.00     0.042 N 
+ATOM     12  C2  BGC d          60.891  40.196  41.938  0.00  0.00     0.302 C 
+ATOM     13  H21 BGC d          60.993  38.248  41.408  0.00  0.00     0.315 HD
+ATOM     14  H22 BGC d          61.958  38.648  42.681  0.00  0.00     0.315 HD
+ATOM     15  C3  BGC d          60.455  40.694  40.542  0.00  0.00     0.178 C 
+BRANCH   9  16
+ATOM     16  C6  BGC d          63.600  39.309  38.732  0.00  0.00     0.201 C 
+BRANCH  16  17
+ATOM     17  O6  BGC d          63.296  39.039  37.366  0.00  0.00    -0.398 OA
+ATOM     18  H19 BGC d          63.124  38.111  37.259  0.00  0.00     0.209 HD
+ENDBRANCH  16  17
+ENDBRANCH   9  16
+BRANCH  15  19
+ATOM     19  O3  BGC d          59.864  41.939  40.705  0.00  0.00    -0.391 OA
+ATOM     20  H20 BGC d          60.435  42.609  40.348  0.00  0.00     0.210 HD
+ENDBRANCH  15  19
+ENDBRANCH   7   8
+ENDBRANCH   5   7
+BRANCH   1  21
+ATOM     21  O2  BGC d          62.541  41.234  35.803  0.00  0.00    -0.388 OA
+ATOM     22  H8  BGC d          63.092  40.953  36.524  0.00  0.00     0.210 HD
+ENDBRANCH   1  21
+BRANCH   2  23
+ATOM     23  O3  BGC d          61.625  43.491  34.239  0.00  0.00    -0.390 OA
+ATOM     24  H9  BGC d          61.970  42.667  33.914  0.00  0.00     0.210 HD
+ENDBRANCH   2  23
+BRANCH   4  25
+ATOM     25  C6  BGC d          60.027  45.536  38.471  0.00  0.00     0.198 C 
+BRANCH  25  26
+ATOM     26  O6  BGC d          60.675  46.792  38.573  0.00  0.00    -0.398 OA
+ATOM     27  H11 BGC d          60.186  47.351  39.166  0.00  0.00     0.209 HD
+ENDBRANCH  25  26
+ENDBRANCH   4  25
+BRANCH   3  28
+ATOM     28  O4  BGC d          61.139  45.892  35.747  0.00  0.00    -0.390 OA
+ATOM     29  H10 BGC d          60.810  45.981  34.861  0.00  0.00     0.210 HD
+ENDBRANCH   3  28
+TORSDOF 10
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -6.4      4.700      8.411
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_1  and  O2_7 
+REMARK    2  A    between atoms: C3_2  and  O3_8 
+REMARK    3  A    between atoms: C4_3  and  O4_9 
+REMARK    4  A    between atoms: C5_4  and  C6_5 
+REMARK    5  A    between atoms: C6_5  and  O6_11 
+REMARK    6  A    between atoms: O4_19  and  C1_6 
+REMARK    7  A    between atoms: C5_13  and  C6_12 
+REMARK    8  A    between atoms: C6_12  and  O6_17 
+REMARK    9  A    between atoms: C4_14  and  O4_19 
+REMARK   10  A    between atoms: C3_15  and  O3_20 
+ROOT
+ATOM      1  C2  BGC d          61.985  39.389  40.274  0.00  0.00     0.204 C 
+ATOM      2  C3  BGC d          63.138  38.548  40.846  0.00  0.00     0.183 C 
+ATOM      3  C4  BGC d          63.736  37.627  39.781  0.00  0.00     0.180 C 
+ATOM      4  C5  BGC d          64.114  38.459  38.557  0.00  0.00     0.179 C 
+ATOM      5  C1  BGC d          62.446  40.111  39.017  0.00  0.00     0.292 C 
+ATOM      6  O5  BGC d          62.939  39.137  38.099  0.00  0.00    -0.348 OA
+ENDROOT
+BRANCH   5   7
+ATOM      7  O4  BGC d          61.352  40.638  38.420  0.00  0.00    -0.348 OA
+BRANCH   7   8
+ATOM      8  C4  BGC d          61.444  41.958  37.900  0.00  0.00     0.188 C 
+ATOM      9  C5  BGC d          60.196  42.776  38.273  0.00  0.00     0.213 C 
+ATOM     10  O5  BGC d          60.325  44.088  37.732  0.00  0.00    -0.195 OA
+ATOM     11  N1  BGC d          60.400  44.017  36.287  0.00  0.00     0.042 N 
+ATOM     12  C2  BGC d          61.559  43.287  35.762  0.00  0.00     0.302 C 
+ATOM     13  H21 BGC d          59.565  43.561  35.953  0.00  0.00     0.315 HD
+ATOM     14  H22 BGC d          60.434  44.959  35.928  0.00  0.00     0.315 HD
+ATOM     15  C3  BGC d          61.561  41.868  36.372  0.00  0.00     0.178 C 
+BRANCH   9  16
+ATOM     16  C6  BGC d          60.045  42.995  39.766  0.00  0.00     0.201 C 
+BRANCH  16  17
+ATOM     17  O6  BGC d          61.319  43.060  40.400  0.00  0.00    -0.398 OA
+ATOM     18  H19 BGC d          61.948  42.555  39.898  0.00  0.00     0.209 HD
+ENDBRANCH  16  17
+ENDBRANCH   9  16
+BRANCH  15  19
+ATOM     19  O3  BGC d          62.725  41.234  35.959  0.00  0.00    -0.391 OA
+ATOM     20  H20 BGC d          62.851  40.442  36.468  0.00  0.00     0.210 HD
+ENDBRANCH  15  19
+ENDBRANCH   7   8
+ENDBRANCH   5   7
+BRANCH   1  21
+ATOM     21  O2  BGC d          61.494  40.311  41.231  0.00  0.00    -0.388 OA
+ATOM     22  H8  BGC d          61.412  41.168  40.830  0.00  0.00     0.210 HD
+ENDBRANCH   1  21
+BRANCH   2  23
+ATOM     23  O3  BGC d          62.684  37.770  41.942  0.00  0.00    -0.390 OA
+ATOM     24  H9  BGC d          63.227  36.995  42.026  0.00  0.00     0.210 HD
+ENDBRANCH   2  23
+BRANCH   4  25
+ATOM     25  C6  BGC d          64.697  37.654  37.406  0.00  0.00     0.198 C 
+BRANCH  25  26
+ATOM     26  O6  BGC d          66.036  37.316  37.725  0.00  0.00    -0.398 OA
+ATOM     27  H11 BGC d          66.365  36.695  37.085  0.00  0.00     0.209 HD
+ENDBRANCH  25  26
+ENDBRANCH   4  25
+BRANCH   3  28
+ATOM     28  O4  BGC d          64.886  36.956  40.280  0.00  0.00    -0.390 OA
+ATOM     29  H10 BGC d          65.668  37.380  39.947  0.00  0.00     0.210 HD
+ENDBRANCH   3  28
+TORSDOF 10
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -6.3      2.477      5.683
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_1  and  O2_7 
+REMARK    2  A    between atoms: C3_2  and  O3_8 
+REMARK    3  A    between atoms: C4_3  and  O4_9 
+REMARK    4  A    between atoms: C5_4  and  C6_5 
+REMARK    5  A    between atoms: C6_5  and  O6_11 
+REMARK    6  A    between atoms: O4_19  and  C1_6 
+REMARK    7  A    between atoms: C5_13  and  C6_12 
+REMARK    8  A    between atoms: C6_12  and  O6_17 
+REMARK    9  A    between atoms: C4_14  and  O4_19 
+REMARK   10  A    between atoms: C3_15  and  O3_20 
+ROOT
+ATOM      1  C2  BGC d          61.930  45.532  36.869  0.00  0.00     0.204 C 
+ATOM      2  C3  BGC d          62.834  44.339  36.519  0.00  0.00     0.183 C 
+ATOM      3  C4  BGC d          62.014  43.070  36.277  0.00  0.00     0.180 C 
+ATOM      4  C5  BGC d          60.935  43.366  35.235  0.00  0.00     0.179 C 
+ATOM      5  C1  BGC d          60.847  45.686  35.812  0.00  0.00     0.292 C 
+ATOM      6  O5  BGC d          60.137  44.452  35.718  0.00  0.00    -0.348 OA
+ENDROOT
+BRANCH   5   7
+ATOM      7  O4  BGC d          59.943  46.580  36.276  0.00  0.00    -0.348 OA
+BRANCH   7   8
+ATOM      8  C4  BGC d          60.109  47.072  37.599  0.00  0.00     0.188 C 
+ATOM      9  C5  BGC d          58.954  46.604  38.501  0.00  0.00     0.213 C 
+ATOM     10  O5  BGC d          59.155  47.119  39.814  0.00  0.00    -0.195 OA
+ATOM     11  N1  BGC d          59.138  48.567  39.779  0.00  0.00     0.042 N 
+ATOM     12  C2  BGC d          60.202  49.180  38.977  0.00  0.00     0.302 C 
+ATOM     13  H21 BGC d          58.251  48.861  39.400  0.00  0.00     0.315 HD
+ATOM     14  H22 BGC d          59.226  48.904  40.726  0.00  0.00     0.315 HD
+ATOM     15  C3  BGC d          60.127  48.607  37.545  0.00  0.00     0.178 C 
+BRANCH   9  16
+ATOM     16  C6  BGC d          58.910  45.099  38.687  0.00  0.00     0.201 C 
+BRANCH  16  17
+ATOM     17  O6  BGC d          59.998  44.656  39.492  0.00  0.00    -0.398 OA
+ATOM     18  H19 BGC d          59.830  44.876  40.400  0.00  0.00     0.209 HD
+ENDBRANCH  16  17
+ENDBRANCH   9  16
+BRANCH  15  19
+ATOM     19  O3  BGC d          61.211  49.105  36.835  0.00  0.00    -0.391 OA
+ATOM     20  H20 BGC d          60.940  49.308  35.947  0.00  0.00     0.210 HD
+ENDBRANCH  15  19
+ENDBRANCH   7   8
+ENDBRANCH   5   7
+BRANCH   1  21
+ATOM     21  O2  BGC d          62.679  46.727  36.999  0.00  0.00    -0.388 OA
+ATOM     22  H8  BGC d          62.121  47.413  37.347  0.00  0.00     0.210 HD
+ENDBRANCH   1  21
+BRANCH   2  23
+ATOM     23  O3  BGC d          63.768  44.105  37.562  0.00  0.00    -0.390 OA
+ATOM     24  H9  BGC d          63.341  44.229  38.402  0.00  0.00     0.210 HD
+ENDBRANCH   2  23
+BRANCH   4  25
+ATOM     25  C6  BGC d          60.026  42.189  34.923  0.00  0.00     0.198 C 
+BRANCH  25  26
+ATOM     26  O6  BGC d          60.635  41.404  33.912  0.00  0.00    -0.398 OA
+ATOM     27  H11 BGC d          61.105  40.682  34.314  0.00  0.00     0.209 HD
+ENDBRANCH  25  26
+ENDBRANCH   4  25
+BRANCH   3  28
+ATOM     28  O4  BGC d          62.844  42.010  35.821  0.00  0.00    -0.390 OA
+ATOM     29  H10 BGC d          62.953  42.076  34.879  0.00  0.00     0.210 HD
+ENDBRANCH   3  28
+TORSDOF 10
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -6.3      3.778      6.748
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_1  and  O2_7 
+REMARK    2  A    between atoms: C3_2  and  O3_8 
+REMARK    3  A    between atoms: C4_3  and  O4_9 
+REMARK    4  A    between atoms: C5_4  and  C6_5 
+REMARK    5  A    between atoms: C6_5  and  O6_11 
+REMARK    6  A    between atoms: O4_19  and  C1_6 
+REMARK    7  A    between atoms: C5_13  and  C6_12 
+REMARK    8  A    between atoms: C6_12  and  O6_17 
+REMARK    9  A    between atoms: C4_14  and  O4_19 
+REMARK   10  A    between atoms: C3_15  and  O3_20 
+ROOT
+ATOM      1  C2  BGC d          62.706  40.482  38.263  0.00  0.00     0.204 C 
+ATOM      2  C3  BGC d          62.467  39.335  39.257  0.00  0.00     0.183 C 
+ATOM      3  C4  BGC d          62.000  39.862  40.615  0.00  0.00     0.180 C 
+ATOM      4  C5  BGC d          60.792  40.774  40.408  0.00  0.00     0.179 C 
+ATOM      5  C1  BGC d          61.473  41.371  38.193  0.00  0.00     0.292 C 
+ATOM      6  O5  BGC d          61.175  41.824  39.513  0.00  0.00    -0.348 OA
+ENDROOT
+BRANCH   5   7
+ATOM      7  O4  BGC d          61.807  42.486  37.503  0.00  0.00    -0.348 OA
+BRANCH   7   8
+ATOM      8  C4  BGC d          60.770  43.394  37.158  0.00  0.00     0.188 C 
+ATOM      9  C5  BGC d          60.745  43.637  35.639  0.00  0.00     0.213 C 
+ATOM     10  O5  BGC d          59.697  44.553  35.334  0.00  0.00    -0.195 OA
+ATOM     11  N1  BGC d          59.951  45.821  35.986  0.00  0.00     0.042 N 
+ATOM     12  C2  BGC d          59.978  45.769  37.452  0.00  0.00     0.302 C 
+ATOM     13  H21 BGC d          60.844  46.164  35.668  0.00  0.00     0.315 HD
+ATOM     14  H22 BGC d          59.226  46.466  35.710  0.00  0.00     0.315 HD
+ATOM     15  C3  BGC d          61.028  44.722  37.884  0.00  0.00     0.178 C 
+BRANCH   9  16
+ATOM     16  C6  BGC d          60.408  42.394  34.838  0.00  0.00     0.201 C 
+BRANCH  16  17
+ATOM     17  O6  BGC d          61.548  41.549  34.709  0.00  0.00    -0.398 OA
+ATOM     18  H19 BGC d          61.347  40.692  35.064  0.00  0.00     0.209 HD
+ENDBRANCH  16  17
+ENDBRANCH   9  16
+BRANCH  15  19
+ATOM     19  O3  BGC d          60.957  44.600  39.266  0.00  0.00    -0.391 OA
+ATOM     20  H20 BGC d          60.949  45.465  39.660  0.00  0.00     0.210 HD
+ENDBRANCH  15  19
+ENDBRANCH   7   8
+ENDBRANCH   5   7
+BRANCH   1  21
+ATOM     21  O2  BGC d          63.044  39.992  36.978  0.00  0.00    -0.388 OA
+ATOM     22  H8  BGC d          63.354  40.709  36.438  0.00  0.00     0.210 HD
+ENDBRANCH   1  21
+BRANCH   2  23
+ATOM     23  O3  BGC d          63.654  38.575  39.428  0.00  0.00    -0.390 OA
+ATOM     24  H9  BGC d          63.500  37.889  40.067  0.00  0.00     0.210 HD
+ENDBRANCH   2  23
+BRANCH   4  25
+ATOM     25  C6  BGC d          60.245  41.391  41.684  0.00  0.00     0.198 C 
+BRANCH  25  26
+ATOM     26  O6  BGC d          60.694  42.733  41.765  0.00  0.00    -0.398 OA
+ATOM     27  H11 BGC d          60.258  43.253  41.100  0.00  0.00     0.209 HD
+ENDBRANCH  25  26
+ENDBRANCH   4  25
+BRANCH   3  28
+ATOM     28  O4  BGC d          61.651  38.791  41.482  0.00  0.00    -0.390 OA
+ATOM     29  H10 BGC d          61.046  39.104  42.144  0.00  0.00     0.210 HD
+ENDBRANCH   3  28
+TORSDOF 10
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -6.2      2.290      2.757
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_1  and  O2_7 
+REMARK    2  A    between atoms: C3_2  and  O3_8 
+REMARK    3  A    between atoms: C4_3  and  O4_9 
+REMARK    4  A    between atoms: C5_4  and  C6_5 
+REMARK    5  A    between atoms: C6_5  and  O6_11 
+REMARK    6  A    between atoms: O4_19  and  C1_6 
+REMARK    7  A    between atoms: C5_13  and  C6_12 
+REMARK    8  A    between atoms: C6_12  and  O6_17 
+REMARK    9  A    between atoms: C4_14  and  O4_19 
+REMARK   10  A    between atoms: C3_15  and  O3_20 
+ROOT
+ATOM      1  C2  BGC d          61.627  46.062  36.521  0.00  0.00     0.204 C 
+ATOM      2  C3  BGC d          61.651  47.584  36.735  0.00  0.00     0.183 C 
+ATOM      3  C4  BGC d          60.238  48.146  36.902  0.00  0.00     0.180 C 
+ATOM      4  C5  BGC d          59.520  47.370  38.006  0.00  0.00     0.179 C 
+ATOM      5  C1  BGC d          60.823  45.398  37.630  0.00  0.00     0.292 C 
+ATOM      6  O5  BGC d          59.522  45.983  37.648  0.00  0.00    -0.348 OA
+ENDROOT
+BRANCH   5   7
+ATOM      7  O4  BGC d          60.624  44.106  37.277  0.00  0.00    -0.348 OA
+BRANCH   7   8
+ATOM      8  C4  BGC d          60.948  43.098  38.225  0.00  0.00     0.188 C 
+ATOM      9  C5  BGC d          61.537  41.862  37.523  0.00  0.00     0.213 C 
+ATOM     10  O5  BGC d          61.843  40.875  38.504  0.00  0.00    -0.195 OA
+ATOM     11  N1  BGC d          60.631  40.469  39.185  0.00  0.00     0.042 N 
+ATOM     12  C2  BGC d          59.955  41.534  39.934  0.00  0.00     0.302 C 
+ATOM     13  H21 BGC d          59.988  40.115  38.494  0.00  0.00     0.315 HD
+ATOM     14  H22 BGC d          60.868  39.733  39.833  0.00  0.00     0.315 HD
+ATOM     15  C3  BGC d          59.663  42.702  38.967  0.00  0.00     0.178 C 
+BRANCH   9  16
+ATOM     16  C6  BGC d          62.859  42.137  36.834  0.00  0.00     0.201 C 
+BRANCH  16  17
+ATOM     17  O6  BGC d          62.663  42.884  35.637  0.00  0.00    -0.398 OA
+ATOM     18  H19 BGC d          61.982  42.474  35.118  0.00  0.00     0.209 HD
+ENDBRANCH  16  17
+ENDBRANCH   9  16
+BRANCH  15  19
+ATOM     19  O3  BGC d          59.132  43.745  39.714  0.00  0.00    -0.391 OA
+ATOM     20  H20 BGC d          59.517  43.739  40.583  0.00  0.00     0.210 HD
+ENDBRANCH  15  19
+ENDBRANCH   7   8
+ENDBRANCH   5   7
+BRANCH   1  21
+ATOM     21  O2  BGC d          62.937  45.527  36.463  0.00  0.00    -0.388 OA
+ATOM     22  H8  BGC d          63.420  45.788  37.238  0.00  0.00     0.210 HD
+ENDBRANCH   1  21
+BRANCH   2  23
+ATOM     23  O3  BGC d          62.287  48.225  35.640  0.00  0.00    -0.390 OA
+ATOM     24  H9  BGC d          62.716  49.017  35.943  0.00  0.00     0.210 HD
+ENDBRANCH   2  23
+BRANCH   4  25
+ATOM     25  C6  BGC d          58.088  47.812  38.254  0.00  0.00     0.198 C 
+BRANCH  25  26
+ATOM     26  O6  BGC d          57.654  48.579  37.144  0.00  0.00    -0.398 OA
+ATOM     27  H11 BGC d          57.776  48.077  36.346  0.00  0.00     0.209 HD
+ENDBRANCH  25  26
+ENDBRANCH   4  25
+BRANCH   3  28
+ATOM     28  O4  BGC d          60.279  49.527  37.235  0.00  0.00    -0.390 OA
+ATOM     29  H10 BGC d          59.413  49.903  37.129  0.00  0.00     0.210 HD
+ENDBRANCH   3  28
+TORSDOF 10
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -5.9      3.675      5.569
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_1  and  O2_7 
+REMARK    2  A    between atoms: C3_2  and  O3_8 
+REMARK    3  A    between atoms: C4_3  and  O4_9 
+REMARK    4  A    between atoms: C5_4  and  C6_5 
+REMARK    5  A    between atoms: C6_5  and  O6_11 
+REMARK    6  A    between atoms: O4_19  and  C1_6 
+REMARK    7  A    between atoms: C5_13  and  C6_12 
+REMARK    8  A    between atoms: C6_12  and  O6_17 
+REMARK    9  A    between atoms: C4_14  and  O4_19 
+REMARK   10  A    between atoms: C3_15  and  O3_20 
+ROOT
+ATOM      1  C2  BGC d          61.309  41.367  39.478  0.00  0.00     0.204 C 
+ATOM      2  C3  BGC d          60.283  40.515  40.243  0.00  0.00     0.183 C 
+ATOM      3  C4  BGC d          59.261  41.393  40.968  0.00  0.00     0.180 C 
+ATOM      4  C5  BGC d          58.643  42.369  39.967  0.00  0.00     0.179 C 
+ATOM      5  C1  BGC d          60.587  42.355  38.573  0.00  0.00     0.292 C 
+ATOM      6  O5  BGC d          59.702  43.131  39.378  0.00  0.00    -0.348 OA
+ENDROOT
+BRANCH   5   7
+ATOM      7  O4  BGC d          61.506  43.233  38.108  0.00  0.00    -0.348 OA
+BRANCH   7   8
+ATOM      8  C4  BGC d          61.375  43.691  36.769  0.00  0.00     0.188 C 
+ATOM      9  C5  BGC d          60.254  44.739  36.661  0.00  0.00     0.213 C 
+ATOM     10  O5  BGC d          60.151  45.169  35.306  0.00  0.00    -0.195 OA
+ATOM     11  N1  BGC d          59.798  44.046  34.462  0.00  0.00     0.042 N 
+ATOM     12  C2  BGC d          60.785  42.961  34.430  0.00  0.00     0.302 C 
+ATOM     13  H21 BGC d          58.926  43.667  34.795  0.00  0.00     0.315 HD
+ATOM     14  H22 BGC d          59.678  44.388  33.521  0.00  0.00     0.315 HD
+ATOM     15  C3  BGC d          61.038  42.487  35.877  0.00  0.00     0.178 C 
+BRANCH   9  16
+ATOM     16  C6  BGC d          60.541  46.007  37.441  0.00  0.00     0.201 C 
+BRANCH  16  17
+ATOM     17  O6  BGC d          60.378  45.790  38.840  0.00  0.00    -0.398 OA
+ATOM     18  H19 BGC d          60.438  44.860  39.024  0.00  0.00     0.209 HD
+ENDBRANCH  16  17
+ENDBRANCH   9  16
+BRANCH  15  19
+ATOM     19  O3  BGC d          62.058  41.545  35.840  0.00  0.00    -0.391 OA
+ATOM     20  H20 BGC d          61.690  40.689  35.657  0.00  0.00     0.210 HD
+ENDBRANCH  15  19
+ENDBRANCH   7   8
+ENDBRANCH   5   7
+BRANCH   1  21
+ATOM     21  O2  BGC d          62.197  40.557  38.728  0.00  0.00    -0.388 OA
+ATOM     22  H8  BGC d          62.187  40.834  37.820  0.00  0.00     0.210 HD
+ENDBRANCH   1  21
+BRANCH   2  23
+ATOM     23  O3  BGC d          60.940  39.680  41.185  0.00  0.00    -0.390 OA
+ATOM     24  H9  BGC d          61.488  40.212  41.750  0.00  0.00     0.210 HD
+ENDBRANCH   2  23
+BRANCH   4  25
+ATOM     25  C6  BGC d          57.626  43.324  40.569  0.00  0.00     0.198 C 
+BRANCH  25  26
+ATOM     26  O6  BGC d          57.863  44.622  40.049  0.00  0.00    -0.398 OA
+ATOM     27  H11 BGC d          58.418  45.105  40.649  0.00  0.00     0.209 HD
+ENDBRANCH  25  26
+ENDBRANCH   4  25
+BRANCH   3  28
+ATOM     28  O4  BGC d          58.240  40.599  41.557  0.00  0.00    -0.390 OA
+ATOM     29  H10 BGC d          58.258  40.710  42.501  0.00  0.00     0.210 HD
+ENDBRANCH   3  28
+TORSDOF 10
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:      -5.9      2.695      5.842
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_1  and  O2_7 
+REMARK    2  A    between atoms: C3_2  and  O3_8 
+REMARK    3  A    between atoms: C4_3  and  O4_9 
+REMARK    4  A    between atoms: C5_4  and  C6_5 
+REMARK    5  A    between atoms: C6_5  and  O6_11 
+REMARK    6  A    between atoms: O4_19  and  C1_6 
+REMARK    7  A    between atoms: C5_13  and  C6_12 
+REMARK    8  A    between atoms: C6_12  and  O6_17 
+REMARK    9  A    between atoms: C4_14  and  O4_19 
+REMARK   10  A    between atoms: C3_15  and  O3_20 
+ROOT
+ATOM      1  C2  BGC d          61.329  43.306  35.608  0.00  0.00     0.204 C 
+ATOM      2  C3  BGC d          61.507  41.884  36.165  0.00  0.00     0.183 C 
+ATOM      3  C4  BGC d          61.517  41.882  37.694  0.00  0.00     0.180 C 
+ATOM      4  C5  BGC d          60.269  42.603  38.203  0.00  0.00     0.179 C 
+ATOM      5  C1  BGC d          60.107  43.958  36.237  0.00  0.00     0.292 C 
+ATOM      6  O5  BGC d          60.265  43.926  37.654  0.00  0.00    -0.348 OA
+ENDROOT
+BRANCH   5   7
+ATOM      7  O4  BGC d          60.125  45.271  35.909  0.00  0.00    -0.348 OA
+BRANCH   7   8
+ATOM      8  C4  BGC d          60.397  46.213  36.937  0.00  0.00     0.188 C 
+ATOM      9  C5  BGC d          59.222  47.193  37.099  0.00  0.00     0.213 C 
+ATOM     10  O5  BGC d          59.534  48.121  38.134  0.00  0.00    -0.195 OA
+ATOM     11  N1  BGC d          60.708  48.886  37.769  0.00  0.00     0.042 N 
+ATOM     12  C2  BGC d          61.933  48.097  37.602  0.00  0.00     0.302 C 
+ATOM     13  H21 BGC d          60.517  49.356  36.898  0.00  0.00     0.315 HD
+ATOM     14  H22 BGC d          60.873  49.571  38.490  0.00  0.00     0.315 HD
+ATOM     15  C3  BGC d          61.665  46.991  36.558  0.00  0.00     0.178 C 
+BRANCH   9  16
+ATOM     16  C6  BGC d          57.942  46.524  37.561  0.00  0.00     0.201 C 
+BRANCH  16  17
+ATOM     17  O6  BGC d          58.210  45.563  38.578  0.00  0.00    -0.398 OA
+ATOM     18  H19 BGC d          59.041  45.139  38.399  0.00  0.00     0.209 HD
+ENDBRANCH  16  17
+ENDBRANCH   9  16
+BRANCH  15  19
+ATOM     19  O3  BGC d          62.793  46.183  36.500  0.00  0.00    -0.391 OA
+ATOM     20  H20 BGC d          62.720  45.592  35.759  0.00  0.00     0.210 HD
+ENDBRANCH  15  19
+ENDBRANCH   7   8
+ENDBRANCH   5   7
+BRANCH   1  21
+ATOM     21  O2  BGC d          61.222  43.298  34.196  0.00  0.00    -0.388 OA
+ATOM     22  H8  BGC d          60.331  43.511  33.945  0.00  0.00     0.210 HD
+ENDBRANCH   1  21
+BRANCH   2  23
+ATOM     23  O3  BGC d          62.715  41.314  35.684  0.00  0.00    -0.390 OA
+ATOM     24  H9  BGC d          62.527  40.479  35.270  0.00  0.00     0.210 HD
+ENDBRANCH   2  23
+BRANCH   4  25
+ATOM     25  C6  BGC d          60.171  42.697  39.716  0.00  0.00     0.198 C 
+BRANCH  25  26
+ATOM     26  O6  BGC d          60.368  44.049  40.097  0.00  0.00    -0.398 OA
+ATOM     27  H11 BGC d          59.617  44.347  40.598  0.00  0.00     0.209 HD
+ENDBRANCH  25  26
+ENDBRANCH   4  25
+BRANCH   3  28
+ATOM     28  O4  BGC d          61.544  40.554  38.199  0.00  0.00    -0.390 OA
+ATOM     29  H10 BGC d          61.888  40.558  39.084  0.00  0.00     0.210 HD
+ENDBRANCH   3  28
+TORSDOF 10
+ENDMDL

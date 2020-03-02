@@ -1,0 +1,550 @@
+MODEL 1
+REMARK VINA RESULT:      -9.7      0.000      0.000
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: P_1  and  O5'_5 
+REMARK    2  A    between atoms: O5'_5  and  C5'_6 
+REMARK    3  A    between atoms: C5'_6  and  C4'_7 
+REMARK    4  A    between atoms: C3'_9  and  O3'_10 
+REMARK    5  A    between atoms: C2'_11  and  O2'_12 
+REMARK    6  A    between atoms: C1'_13  and  N1_14 
+REMARK    7  A    between atoms: C6_21  and  O1_22 
+ROOT
+ATOM      1  C4' BMP d          39.281  37.976  37.575  0.00  0.00     0.180 C 
+ATOM      2  O4' BMP d          40.159  38.724  38.425  0.00  0.00    -0.353 OA
+ATOM      3  C3' BMP d          38.719  38.960  36.570  0.00  0.00     0.182 C 
+ATOM      4  C2' BMP d          39.853  39.983  36.464  0.00  0.00     0.198 C 
+ATOM      5  C1' BMP d          40.472  39.959  37.863  0.00  0.00     0.266 C 
+ENDROOT
+BRANCH   5   6
+ATOM      6  N1  BMP d          41.894  40.294  38.050  0.00  0.00    -0.249 N 
+ATOM      7  C6  BMP d          42.277  41.186  39.070  0.00  0.00     0.153 A 
+ATOM      8  C5  BMP d          43.563  41.505  39.253  0.00  0.00     0.130 A 
+ATOM      9  C4  BMP d          44.599  40.954  38.422  0.00  0.00     0.253 A 
+ATOM     10  N3  BMP d          44.145  40.072  37.441  0.00  0.00    -0.275 N 
+ATOM     11  O4  BMP d          45.795  41.165  38.489  0.00  0.00    -0.268 OA
+ATOM     12  C2  BMP d          42.850  39.704  37.205  0.00  0.00     0.333 A 
+ATOM     13  H9  BMP d          44.841  39.666  36.849  0.00  0.00     0.173 HD
+ATOM     14  O2  BMP d          42.509  38.919  36.340  0.00  0.00    -0.246 OA
+BRANCH   7  15
+ATOM     15  O1  BMP d          41.360  41.648  39.792  0.00  0.00    -0.346 OA
+ATOM     16  H11 BMP d          40.587  41.101  39.709  0.00  0.00     0.219 HD
+ENDBRANCH   7  15
+ENDBRANCH   5   6
+BRANCH   4  17
+ATOM     17  O2' BMP d          39.415  41.290  36.046  0.00  0.00    -0.388 OA
+ATOM     18  H7  BMP d          40.075  41.932  36.278  0.00  0.00     0.210 HD
+ENDBRANCH   4  17
+BRANCH   1  19
+ATOM     19  C5' BMP d          40.020  36.752  37.084  0.00  0.00     0.217 C 
+BRANCH  19  20
+ATOM     20  O5' BMP d          39.049  35.828  36.607  0.00  0.00    -0.280 OA
+BRANCH  20  21
+ATOM     21  P   BMP d          39.223  35.039  35.229  0.00  0.00     0.422 P 
+ATOM     22  O3P BMP d          39.255  33.466  35.605  0.00  0.00    -0.617 OA
+ATOM     23  O2P BMP d          37.970  35.272  34.479  0.00  0.00    -0.617 OA
+ATOM     24  O1P BMP d          40.392  35.516  34.412  0.00  0.00    -0.617 OA
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+BRANCH   3  25
+ATOM     25  O3' BMP d          37.511  39.592  37.031  0.00  0.00    -0.390 OA
+ATOM     26  H5  BMP d          37.022  38.982  37.572  0.00  0.00     0.210 HD
+ENDBRANCH   3  25
+TORSDOF 7
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -9.1      0.807      1.970
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: P_1  and  O5'_5 
+REMARK    2  A    between atoms: O5'_5  and  C5'_6 
+REMARK    3  A    between atoms: C5'_6  and  C4'_7 
+REMARK    4  A    between atoms: C3'_9  and  O3'_10 
+REMARK    5  A    between atoms: C2'_11  and  O2'_12 
+REMARK    6  A    between atoms: C1'_13  and  N1_14 
+REMARK    7  A    between atoms: C6_21  and  O1_22 
+ROOT
+ATOM      1  C4' BMP d          39.562  37.894  37.579  0.00  0.00     0.180 C 
+ATOM      2  O4' BMP d          40.359  38.661  38.489  0.00  0.00    -0.353 OA
+ATOM      3  C3' BMP d          38.914  38.887  36.637  0.00  0.00     0.182 C 
+ATOM      4  C2' BMP d          39.945  40.018  36.614  0.00  0.00     0.198 C 
+ATOM      5  C1' BMP d          40.556  39.956  38.016  0.00  0.00     0.266 C 
+ENDROOT
+BRANCH   5   6
+ATOM      6  N1  BMP d          41.938  40.411  38.243  0.00  0.00    -0.249 N 
+ATOM      7  C6  BMP d          42.968  39.990  37.380  0.00  0.00     0.153 A 
+ATOM      8  C5  BMP d          44.230  40.389  37.573  0.00  0.00     0.130 A 
+ATOM      9  C4  BMP d          44.583  41.260  38.662  0.00  0.00     0.253 A 
+ATOM     10  N3  BMP d          43.511  41.643  39.467  0.00  0.00    -0.275 N 
+ATOM     11  O4  BMP d          45.686  41.690  38.939  0.00  0.00    -0.268 OA
+ATOM     12  C2  BMP d          42.203  41.273  39.322  0.00  0.00     0.333 A 
+ATOM     13  H9  BMP d          43.721  42.254  40.230  0.00  0.00     0.173 HD
+ATOM     14  O2  BMP d          41.302  41.648  40.049  0.00  0.00    -0.246 OA
+BRANCH   7  15
+ATOM     15  O1  BMP d          42.638  39.239  36.430  0.00  0.00    -0.346 OA
+ATOM     16  H11 BMP d          43.418  38.861  36.041  0.00  0.00     0.219 HD
+ENDBRANCH   7  15
+ENDBRANCH   5   6
+BRANCH   4  17
+ATOM     17  O2' BMP d          39.387  41.303  36.283  0.00  0.00    -0.388 OA
+ATOM     18  H7  BMP d          38.440  41.262  36.350  0.00  0.00     0.210 HD
+ENDBRANCH   4  17
+BRANCH   1  19
+ATOM     19  C5' BMP d          40.418  36.782  37.014  0.00  0.00     0.217 C 
+BRANCH  19  20
+ATOM     20  O5' BMP d          39.935  36.493  35.707  0.00  0.00    -0.280 OA
+BRANCH  20  21
+ATOM     21  P   BMP d          39.516  35.018  35.257  0.00  0.00     0.422 P 
+ATOM     22  O3P BMP d          40.774  34.418  34.435  0.00  0.00    -0.617 OA
+ATOM     23  O2P BMP d          39.414  34.237  36.509  0.00  0.00    -0.617 OA
+ATOM     24  O1P BMP d          38.203  34.967  34.527  0.00  0.00    -0.617 OA
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+BRANCH   3  25
+ATOM     25  O3' BMP d          37.648  39.367  37.125  0.00  0.00    -0.390 OA
+ATOM     26  H5  BMP d          36.965  38.751  36.889  0.00  0.00     0.210 HD
+ENDBRANCH   3  25
+TORSDOF 7
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -8.9      0.728      1.990
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: P_1  and  O5'_5 
+REMARK    2  A    between atoms: O5'_5  and  C5'_6 
+REMARK    3  A    between atoms: C5'_6  and  C4'_7 
+REMARK    4  A    between atoms: C3'_9  and  O3'_10 
+REMARK    5  A    between atoms: C2'_11  and  O2'_12 
+REMARK    6  A    between atoms: C1'_13  and  N1_14 
+REMARK    7  A    between atoms: C6_21  and  O1_22 
+ROOT
+ATOM      1  C4' BMP d          39.327  38.012  37.578  0.00  0.00     0.180 C 
+ATOM      2  O4' BMP d          40.205  38.729  38.455  0.00  0.00    -0.353 OA
+ATOM      3  C3' BMP d          38.739  39.037  36.631  0.00  0.00     0.182 C 
+ATOM      4  C2' BMP d          39.857  40.080  36.562  0.00  0.00     0.198 C 
+ATOM      5  C1' BMP d          40.494  39.995  37.951  0.00  0.00     0.266 C 
+ENDROOT
+BRANCH   5   6
+ATOM      6  N1  BMP d          41.913  40.342  38.138  0.00  0.00    -0.249 N 
+ATOM      7  C6  BMP d          42.887  39.806  37.274  0.00  0.00     0.153 A 
+ATOM      8  C5  BMP d          44.181  40.106  37.431  0.00  0.00     0.130 A 
+ATOM      9  C4  BMP d          44.626  40.982  38.480  0.00  0.00     0.253 A 
+ATOM     10  N3  BMP d          43.606  41.482  39.288  0.00  0.00    -0.275 N 
+ATOM     11  O4  BMP d          45.767  41.329  38.723  0.00  0.00    -0.268 OA
+ATOM     12  C2  BMP d          42.270  41.217  39.179  0.00  0.00     0.333 A 
+ATOM     13  H9  BMP d          43.881  42.100  40.025  0.00  0.00     0.173 HD
+ATOM     14  O2  BMP d          41.417  41.690  39.907  0.00  0.00    -0.246 OA
+BRANCH   7  15
+ATOM     15  O1  BMP d          42.478  39.052  36.358  0.00  0.00    -0.346 OA
+ATOM     16  H11 BMP d          42.728  38.155  36.551  0.00  0.00     0.219 HD
+ENDBRANCH   7  15
+ENDBRANCH   5   6
+BRANCH   4  17
+ATOM     17  O2' BMP d          39.395  41.400  36.217  0.00  0.00    -0.388 OA
+ATOM     18  H7  BMP d          40.142  41.971  36.087  0.00  0.00     0.210 HD
+ENDBRANCH   4  17
+BRANCH   1  19
+ATOM     19  C5' BMP d          40.078  36.825  37.018  0.00  0.00     0.217 C 
+BRANCH  19  20
+ATOM     20  O5' BMP d          39.112  35.893  36.544  0.00  0.00    -0.280 OA
+BRANCH  20  21
+ATOM     21  P   BMP d          38.919  35.577  34.990  0.00  0.00     0.422 P 
+ATOM     22  O3P BMP d          37.567  36.339  34.533  0.00  0.00    -0.617 OA
+ATOM     23  O2P BMP d          40.041  36.256  34.306  0.00  0.00    -0.617 OA
+ATOM     24  O1P BMP d          38.954  34.108  34.671  0.00  0.00    -0.617 OA
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+BRANCH   3  25
+ATOM     25  O3' BMP d          37.528  39.627  37.137  0.00  0.00    -0.390 OA
+ATOM     26  H5  BMP d          37.121  39.030  37.755  0.00  0.00     0.210 HD
+ENDBRANCH   3  25
+TORSDOF 7
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -8.8      1.913      2.972
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: P_1  and  O5'_5 
+REMARK    2  A    between atoms: O5'_5  and  C5'_6 
+REMARK    3  A    between atoms: C5'_6  and  C4'_7 
+REMARK    4  A    between atoms: C3'_9  and  O3'_10 
+REMARK    5  A    between atoms: C2'_11  and  O2'_12 
+REMARK    6  A    between atoms: C1'_13  and  N1_14 
+REMARK    7  A    between atoms: C6_21  and  O1_22 
+ROOT
+ATOM      1  C4' BMP d          38.842  35.905  36.794  0.00  0.00     0.180 C 
+ATOM      2  O4' BMP d          39.148  37.129  37.472  0.00  0.00    -0.353 OA
+ATOM      3  C3' BMP d          38.214  36.293  35.472  0.00  0.00     0.182 C 
+ATOM      4  C2' BMP d          38.877  37.644  35.194  0.00  0.00     0.198 C 
+ATOM      5  C1' BMP d          39.106  38.212  36.596  0.00  0.00     0.266 C 
+ENDROOT
+BRANCH   5   6
+ATOM      6  N1  BMP d          40.212  39.152  36.845  0.00  0.00    -0.249 N 
+ATOM      7  C6  BMP d          41.539  38.684  36.876  0.00  0.00     0.153 A 
+ATOM      8  C5  BMP d          42.557  39.522  37.104  0.00  0.00     0.130 A 
+ATOM      9  C4  BMP d          42.337  40.926  37.324  0.00  0.00     0.253 A 
+ATOM     10  N3  BMP d          41.000  41.318  37.268  0.00  0.00    -0.275 N 
+ATOM     11  O4  BMP d          43.173  41.782  37.539  0.00  0.00    -0.268 OA
+ATOM     12  C2  BMP d          39.919  40.514  37.038  0.00  0.00     0.333 A 
+ATOM     13  H9  BMP d          40.812  42.290  37.411  0.00  0.00     0.173 HD
+ATOM     14  O2  BMP d          38.769  40.911  36.988  0.00  0.00    -0.246 OA
+BRANCH   7  15
+ATOM     15  O1  BMP d          41.711  37.457  36.671  0.00  0.00    -0.346 OA
+ATOM     16  H11 BMP d          42.591  37.312  36.341  0.00  0.00     0.219 HD
+ENDBRANCH   7  15
+ENDBRANCH   5   6
+BRANCH   4  17
+ATOM     17  O2' BMP d          38.100  38.505  34.341  0.00  0.00    -0.388 OA
+ATOM     18  H7  BMP d          37.856  39.288  34.820  0.00  0.00     0.210 HD
+ENDBRANCH   4  17
+BRANCH   1  19
+ATOM     19  C5' BMP d          40.078  35.033  36.803  0.00  0.00     0.217 C 
+BRANCH  19  20
+ATOM     20  O5' BMP d          39.660  33.696  36.554  0.00  0.00    -0.280 OA
+BRANCH  20  21
+ATOM     21  P   BMP d          39.942  32.956  35.166  0.00  0.00     0.422 P 
+ATOM     22  O3P BMP d          39.194  31.524  35.252  0.00  0.00    -0.617 OA
+ATOM     23  O2P BMP d          39.227  33.748  34.143  0.00  0.00    -0.617 OA
+ATOM     24  O1P BMP d          41.403  32.885  34.814  0.00  0.00    -0.617 OA
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+BRANCH   3  25
+ATOM     25  O3' BMP d          36.786  36.440  35.560  0.00  0.00    -0.390 OA
+ATOM     26  H5  BMP d          36.460  35.922  36.287  0.00  0.00     0.210 HD
+ENDBRANCH   3  25
+TORSDOF 7
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -8.3      2.371      4.198
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: P_1  and  O5'_5 
+REMARK    2  A    between atoms: O5'_5  and  C5'_6 
+REMARK    3  A    between atoms: C5'_6  and  C4'_7 
+REMARK    4  A    between atoms: C3'_9  and  O3'_10 
+REMARK    5  A    between atoms: C2'_11  and  O2'_12 
+REMARK    6  A    between atoms: C1'_13  and  N1_14 
+REMARK    7  A    between atoms: C6_21  and  O1_22 
+ROOT
+ATOM      1  C4' BMP d          39.325  36.381  34.790  0.00  0.00     0.180 C 
+ATOM      2  O4' BMP d          40.315  37.362  35.122  0.00  0.00    -0.353 OA
+ATOM      3  C3' BMP d          39.559  35.207  35.718  0.00  0.00     0.182 C 
+ATOM      4  C2' BMP d          40.151  35.893  36.951  0.00  0.00     0.198 C 
+ATOM      5  C1' BMP d          40.902  37.086  36.355  0.00  0.00     0.266 C 
+ENDROOT
+BRANCH   5   6
+ATOM      6  N1  BMP d          41.097  38.311  37.148  0.00  0.00    -0.249 N 
+ATOM      7  C6  BMP d          42.280  39.062  37.004  0.00  0.00     0.153 A 
+ATOM      8  C5  BMP d          42.476  40.175  37.718  0.00  0.00     0.130 A 
+ATOM      9  C4  BMP d          41.493  40.648  38.655  0.00  0.00     0.253 A 
+ATOM     10  N3  BMP d          40.346  39.860  38.737  0.00  0.00    -0.275 N 
+ATOM     11  O4  BMP d          41.555  41.639  39.358  0.00  0.00    -0.268 OA
+ATOM     12  C2  BMP d          40.084  38.717  38.035  0.00  0.00     0.333 A 
+ATOM     13  H9  BMP d          39.639  40.164  39.376  0.00  0.00     0.173 HD
+ATOM     14  O2  BMP d          39.057  38.072  38.136  0.00  0.00    -0.246 OA
+BRANCH   7  15
+ATOM     15  O1  BMP d          43.120  38.638  36.173  0.00  0.00    -0.346 OA
+ATOM     16  H11 BMP d          43.918  39.150  36.242  0.00  0.00     0.219 HD
+ENDBRANCH   7  15
+ENDBRANCH   5   6
+BRANCH   4  17
+ATOM     17  O2' BMP d          40.979  35.029  37.751  0.00  0.00    -0.388 OA
+ATOM     18  H7  BMP d          41.001  34.163  37.362  0.00  0.00     0.210 HD
+ENDBRANCH   4  17
+BRANCH   1  19
+ATOM     19  C5' BMP d          37.972  37.056  34.771  0.00  0.00     0.217 C 
+BRANCH  19  20
+ATOM     20  O5' BMP d          37.395  36.821  33.492  0.00  0.00    -0.280 OA
+BRANCH  20  21
+ATOM     21  P   BMP d          37.345  37.945  32.357  0.00  0.00     0.422 P 
+ATOM     22  O3P BMP d          36.810  37.215  31.015  0.00  0.00    -0.617 OA
+ATOM     23  O2P BMP d          36.286  38.887  32.780  0.00  0.00    -0.617 OA
+ATOM     24  O1P BMP d          38.642  38.689  32.196  0.00  0.00    -0.617 OA
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+BRANCH   3  25
+ATOM     25  O3' BMP d          40.488  34.251  35.176  0.00  0.00    -0.390 OA
+ATOM     26  H5  BMP d          40.186  33.371  35.371  0.00  0.00     0.210 HD
+ENDBRANCH   3  25
+TORSDOF 7
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -8.3      2.393      4.039
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: P_1  and  O5'_5 
+REMARK    2  A    between atoms: O5'_5  and  C5'_6 
+REMARK    3  A    between atoms: C5'_6  and  C4'_7 
+REMARK    4  A    between atoms: C3'_9  and  O3'_10 
+REMARK    5  A    between atoms: C2'_11  and  O2'_12 
+REMARK    6  A    between atoms: C1'_13  and  N1_14 
+REMARK    7  A    between atoms: C6_21  and  O1_22 
+ROOT
+ATOM      1  C4' BMP d          39.262  36.587  34.636  0.00  0.00     0.180 C 
+ATOM      2  O4' BMP d          40.225  37.595  34.969  0.00  0.00    -0.353 OA
+ATOM      3  C3' BMP d          39.634  35.359  35.439  0.00  0.00     0.182 C 
+ATOM      4  C2' BMP d          40.293  35.978  36.674  0.00  0.00     0.198 C 
+ATOM      5  C1' BMP d          40.928  37.256  36.122  0.00  0.00     0.266 C 
+ENDROOT
+BRANCH   5   6
+ATOM      6  N1  BMP d          41.127  38.424  36.998  0.00  0.00    -0.249 N 
+ATOM      7  C6  BMP d          40.076  38.871  37.821  0.00  0.00     0.153 A 
+ATOM      8  C5  BMP d          40.236  39.932  38.620  0.00  0.00     0.130 A 
+ATOM      9  C4  BMP d          41.479  40.652  38.670  0.00  0.00     0.253 A 
+ATOM     10  N3  BMP d          42.475  40.146  37.836  0.00  0.00    -0.275 N 
+ATOM     11  O4  BMP d          41.746  41.624  39.351  0.00  0.00    -0.268 OA
+ATOM     12  C2  BMP d          42.376  39.069  37.001  0.00  0.00     0.333 A 
+ATOM     13  H9  BMP d          43.355  40.621  37.851  0.00  0.00     0.173 HD
+ATOM     14  O2  BMP d          43.284  38.660  36.300  0.00  0.00    -0.246 OA
+BRANCH   7  15
+ATOM     15  O1  BMP d          39.003  38.222  37.772  0.00  0.00    -0.346 OA
+ATOM     16  H11 BMP d          39.055  37.479  38.361  0.00  0.00     0.219 HD
+ENDBRANCH   7  15
+ENDBRANCH   5   6
+BRANCH   4  17
+ATOM     17  O2' BMP d          41.230  35.103  37.329  0.00  0.00    -0.388 OA
+ATOM     18  H7  BMP d          40.933  34.204  37.246  0.00  0.00     0.210 HD
+ENDBRANCH   4  17
+BRANCH   1  19
+ATOM     19  C5' BMP d          37.879  37.182  34.783  0.00  0.00     0.217 C 
+BRANCH  19  20
+ATOM     20  O5' BMP d          37.193  36.978  33.553  0.00  0.00    -0.280 OA
+BRANCH  20  21
+ATOM     21  P   BMP d          37.248  38.037  32.358  0.00  0.00     0.422 P 
+ATOM     22  O3P BMP d          36.743  37.256  31.034  0.00  0.00    -0.617 OA
+ATOM     23  O2P BMP d          36.215  39.046  32.676  0.00  0.00    -0.617 OA
+ATOM     24  O1P BMP d          38.584  38.714  32.221  0.00  0.00    -0.617 OA
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+BRANCH   3  25
+ATOM     25  O3' BMP d          40.562  34.505  34.746  0.00  0.00    -0.390 OA
+ATOM     26  H5  BMP d          40.110  33.723  34.449  0.00  0.00     0.210 HD
+ENDBRANCH   3  25
+TORSDOF 7
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -8.2      3.059      6.431
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: P_1  and  O5'_5 
+REMARK    2  A    between atoms: O5'_5  and  C5'_6 
+REMARK    3  A    between atoms: C5'_6  and  C4'_7 
+REMARK    4  A    between atoms: C3'_9  and  O3'_10 
+REMARK    5  A    between atoms: C2'_11  and  O2'_12 
+REMARK    6  A    between atoms: C1'_13  and  N1_14 
+REMARK    7  A    between atoms: C6_21  and  O1_22 
+ROOT
+ATOM      1  C4' BMP d          41.250  39.687  36.228  0.00  0.00     0.180 C 
+ATOM      2  O4' BMP d          40.828  38.600  35.395  0.00  0.00    -0.353 OA
+ATOM      3  C3' BMP d          40.023  40.140  36.993  0.00  0.00     0.182 C 
+ATOM      4  C2' BMP d          39.217  38.842  37.090  0.00  0.00     0.198 C 
+ATOM      5  C1' BMP d          39.591  38.106  35.802  0.00  0.00     0.266 C 
+ENDROOT
+BRANCH   5   6
+ATOM      6  N1  BMP d          39.553  36.634  35.751  0.00  0.00    -0.249 N 
+ATOM      7  C6  BMP d          40.177  35.879  36.762  0.00  0.00     0.153 A 
+ATOM      8  C5  BMP d          40.156  34.543  36.731  0.00  0.00     0.130 A 
+ATOM      9  C4  BMP d          39.499  33.827  35.671  0.00  0.00     0.253 A 
+ATOM     10  N3  BMP d          38.895  34.640  34.712  0.00  0.00    -0.275 N 
+ATOM     11  O4  BMP d          39.411  32.622  35.532  0.00  0.00    -0.268 OA
+ATOM     12  C2  BMP d          38.879  36.006  34.688  0.00  0.00     0.333 A 
+ATOM     13  H9  BMP d          38.425  34.174  33.963  0.00  0.00     0.173 HD
+ATOM     14  O2  BMP d          38.326  36.669  33.830  0.00  0.00    -0.246 OA
+BRANCH   7  15
+ATOM     15  O1  BMP d          40.735  36.522  37.685  0.00  0.00    -0.346 OA
+ATOM     16  H11 BMP d          41.611  36.771  37.411  0.00  0.00     0.219 HD
+ENDBRANCH   7  15
+ENDBRANCH   5   6
+BRANCH   4  17
+ATOM     17  O2' BMP d          37.801  39.052  37.246  0.00  0.00    -0.388 OA
+ATOM     18  H7  BMP d          37.525  39.767  36.686  0.00  0.00     0.210 HD
+ENDBRANCH   4  17
+BRANCH   1  19
+ATOM     19  C5' BMP d          42.484  39.256  36.988  0.00  0.00     0.217 C 
+BRANCH  19  20
+ATOM     20  O5' BMP d          42.658  40.162  38.071  0.00  0.00    -0.280 OA
+BRANCH  20  21
+ATOM     21  P   BMP d          43.819  41.259  38.090  0.00  0.00     0.422 P 
+ATOM     22  O3P BMP d          45.180  40.488  37.675  0.00  0.00    -0.617 OA
+ATOM     23  O2P BMP d          43.503  42.189  36.985  0.00  0.00    -0.617 OA
+ATOM     24  O1P BMP d          43.897  42.024  39.383  0.00  0.00    -0.617 OA
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+BRANCH   3  25
+ATOM     25  O3' BMP d          39.275  41.148  36.291  0.00  0.00    -0.390 OA
+ATOM     26  H5  BMP d          39.204  41.924  36.835  0.00  0.00     0.210 HD
+ENDBRANCH   3  25
+TORSDOF 7
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -8.0      2.997      6.539
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: P_1  and  O5'_5 
+REMARK    2  A    between atoms: O5'_5  and  C5'_6 
+REMARK    3  A    between atoms: C5'_6  and  C4'_7 
+REMARK    4  A    between atoms: C3'_9  and  O3'_10 
+REMARK    5  A    between atoms: C2'_11  and  O2'_12 
+REMARK    6  A    between atoms: C1'_13  and  N1_14 
+REMARK    7  A    between atoms: C6_21  and  O1_22 
+ROOT
+ATOM      1  C4' BMP d          41.270  39.679  36.229  0.00  0.00     0.180 C 
+ATOM      2  O4' BMP d          40.868  38.552  35.442  0.00  0.00    -0.353 OA
+ATOM      3  C3' BMP d          40.035  40.141  36.975  0.00  0.00     0.182 C 
+ATOM      4  C2' BMP d          39.252  38.835  37.125  0.00  0.00     0.198 C 
+ATOM      5  C1' BMP d          39.639  38.054  35.868  0.00  0.00     0.266 C 
+ENDROOT
+BRANCH   5   6
+ATOM      6  N1  BMP d          39.626  36.581  35.877  0.00  0.00    -0.249 N 
+ATOM      7  C6  BMP d          39.183  35.874  34.743  0.00  0.00     0.153 A 
+ATOM      8  C5  BMP d          39.160  34.537  34.734  0.00  0.00     0.130 A 
+ATOM      9  C4  BMP d          39.586  33.772  35.875  0.00  0.00     0.253 A 
+ATOM     10  N3  BMP d          40.021  34.539  36.955  0.00  0.00    -0.275 N 
+ATOM     11  O4  BMP d          39.612  32.561  35.987  0.00  0.00    -0.268 OA
+ATOM     12  C2  BMP d          40.070  35.902  37.026  0.00  0.00     0.333 A 
+ATOM     13  H9  BMP d          40.329  34.037  37.764  0.00  0.00     0.173 HD
+ATOM     14  O2  BMP d          40.470  36.523  37.994  0.00  0.00    -0.246 OA
+BRANCH   7  15
+ATOM     15  O1  BMP d          38.826  36.560  33.754  0.00  0.00    -0.346 OA
+ATOM     16  H11 BMP d          38.205  36.063  33.233  0.00  0.00     0.219 HD
+ENDBRANCH   7  15
+ENDBRANCH   5   6
+BRANCH   4  17
+ATOM     17  O2' BMP d          37.832  39.027  37.273  0.00  0.00    -0.388 OA
+ATOM     18  H7  BMP d          37.587  38.883  38.179  0.00  0.00     0.210 HD
+ENDBRANCH   4  17
+BRANCH   1  19
+ATOM     19  C5' BMP d          42.511  39.300  37.006  0.00  0.00     0.217 C 
+BRANCH  19  20
+ATOM     20  O5' BMP d          42.648  40.232  38.073  0.00  0.00    -0.280 OA
+BRANCH  20  21
+ATOM     21  P   BMP d          43.836  41.299  38.129  0.00  0.00     0.422 P 
+ATOM     22  O3P BMP d          45.187  40.497  37.740  0.00  0.00    -0.617 OA
+ATOM     23  O2P BMP d          43.570  42.245  37.025  0.00  0.00    -0.617 OA
+ATOM     24  O1P BMP d          43.901  42.052  39.429  0.00  0.00    -0.617 OA
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+BRANCH   3  25
+ATOM     25  O3' BMP d          39.270  41.107  36.233  0.00  0.00    -0.390 OA
+ATOM     26  H5  BMP d          38.688  40.655  35.633  0.00  0.00     0.210 HD
+ENDBRANCH   3  25
+TORSDOF 7
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -7.9      2.488      3.954
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: P_1  and  O5'_5 
+REMARK    2  A    between atoms: O5'_5  and  C5'_6 
+REMARK    3  A    between atoms: C5'_6  and  C4'_7 
+REMARK    4  A    between atoms: C3'_9  and  O3'_10 
+REMARK    5  A    between atoms: C2'_11  and  O2'_12 
+REMARK    6  A    between atoms: C1'_13  and  N1_14 
+REMARK    7  A    between atoms: C6_21  and  O1_22 
+ROOT
+ATOM      1  C4' BMP d          37.886  36.065  34.588  0.00  0.00     0.180 C 
+ATOM      2  O4' BMP d          37.947  37.089  35.590  0.00  0.00    -0.353 OA
+ATOM      3  C3' BMP d          37.848  36.777  33.252  0.00  0.00     0.182 C 
+ATOM      4  C2' BMP d          38.620  38.062  33.559  0.00  0.00     0.198 C 
+ATOM      5  C1' BMP d          38.297  38.316  35.033  0.00  0.00     0.266 C 
+ENDROOT
+BRANCH   5   6
+ATOM      6  N1  BMP d          39.252  39.045  35.886  0.00  0.00    -0.249 N 
+ATOM      7  C6  BMP d          40.493  38.464  36.207  0.00  0.00     0.153 A 
+ATOM      8  C5  BMP d          41.371  39.109  36.984  0.00  0.00     0.130 A 
+ATOM      9  C4  BMP d          41.083  40.413  37.518  0.00  0.00     0.253 A 
+ATOM     10  N3  BMP d          39.841  40.928  37.149  0.00  0.00    -0.275 N 
+ATOM     11  O4  BMP d          41.795  41.096  38.230  0.00  0.00    -0.268 OA
+ATOM     12  C2  BMP d          38.904  40.322  36.360  0.00  0.00     0.333 A 
+ATOM     13  H9  BMP d          39.612  41.836  37.499  0.00  0.00     0.173 HD
+ATOM     14  O2  BMP d          37.836  40.823  36.059  0.00  0.00    -0.246 OA
+BRANCH   7  15
+ATOM     15  O1  BMP d          40.730  37.331  35.722  0.00  0.00    -0.346 OA
+ATOM     16  H11 BMP d          41.646  37.279  35.473  0.00  0.00     0.219 HD
+ENDBRANCH   7  15
+ENDBRANCH   5   6
+BRANCH   4  17
+ATOM     17  O2' BMP d          38.279  39.162  32.694  0.00  0.00    -0.388 OA
+ATOM     18  H7  BMP d          38.456  39.981  33.140  0.00  0.00     0.210 HD
+ENDBRANCH   4  17
+BRANCH   1  19
+ATOM     19  C5' BMP d          38.981  35.060  34.866  0.00  0.00     0.217 C 
+BRANCH  19  20
+ATOM     20  O5' BMP d          39.126  34.965  36.278  0.00  0.00    -0.280 OA
+BRANCH  20  21
+ATOM     21  P   BMP d          40.476  34.459  36.967  0.00  0.00     0.422 P 
+ATOM     22  O3P BMP d          40.744  35.445  38.222  0.00  0.00    -0.617 OA
+ATOM     23  O2P BMP d          40.158  33.129  37.531  0.00  0.00    -0.617 OA
+ATOM     24  O1P BMP d          41.626  34.334  36.006  0.00  0.00    -0.617 OA
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+BRANCH   3  25
+ATOM     25  O3' BMP d          36.508  37.082  32.826  0.00  0.00    -0.390 OA
+ATOM     26  H5  BMP d          36.518  37.329  31.908  0.00  0.00     0.210 HD
+ENDBRANCH   3  25
+TORSDOF 7
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:      -7.7      2.822      6.193
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: P_1  and  O5'_5 
+REMARK    2  A    between atoms: O5'_5  and  C5'_6 
+REMARK    3  A    between atoms: C5'_6  and  C4'_7 
+REMARK    4  A    between atoms: C3'_9  and  O3'_10 
+REMARK    5  A    between atoms: C2'_11  and  O2'_12 
+REMARK    6  A    between atoms: C1'_13  and  N1_14 
+REMARK    7  A    between atoms: C6_21  and  O1_22 
+ROOT
+ATOM      1  C4' BMP d          40.948  40.542  36.857  0.00  0.00     0.180 C 
+ATOM      2  O4' BMP d          40.942  39.327  36.096  0.00  0.00    -0.353 OA
+ATOM      3  C3' BMP d          39.497  40.920  37.069  0.00  0.00     0.182 C 
+ATOM      4  C2' BMP d          38.811  39.552  37.064  0.00  0.00     0.198 C 
+ATOM      5  C1' BMP d          39.682  38.732  36.110  0.00  0.00     0.266 C 
+ENDROOT
+BRANCH   5   6
+ATOM      6  N1  BMP d          39.777  37.270  36.263  0.00  0.00    -0.249 N 
+ATOM      7  C6  BMP d          40.002  36.709  37.535  0.00  0.00     0.153 A 
+ATOM      8  C5  BMP d          40.095  35.384  37.693  0.00  0.00     0.130 A 
+ATOM      9  C4  BMP d          39.967  34.485  36.578  0.00  0.00     0.253 A 
+ATOM     10  N3  BMP d          39.735  35.111  35.354  0.00  0.00    -0.275 N 
+ATOM     11  O4  BMP d          40.031  33.271  36.594  0.00  0.00    -0.268 OA
+ATOM     12  C2  BMP d          39.628  36.455  35.128  0.00  0.00     0.333 A 
+ATOM     13  H9  BMP d          39.635  34.514  34.558  0.00  0.00     0.173 HD
+ATOM     14  O2  BMP d          39.413  36.949  34.036  0.00  0.00    -0.246 OA
+BRANCH   7  15
+ATOM     15  O1  BMP d          40.100  37.510  38.497  0.00  0.00    -0.346 OA
+ATOM     16  H11 BMP d          40.570  38.286  38.215  0.00  0.00     0.219 HD
+ENDBRANCH   7  15
+ENDBRANCH   5   6
+BRANCH   4  17
+ATOM     17  O2' BMP d          37.424  39.602  36.682  0.00  0.00    -0.388 OA
+ATOM     18  H7  BMP d          37.180  40.501  36.496  0.00  0.00     0.210 HD
+ENDBRANCH   4  17
+BRANCH   1  19
+ATOM     19  C5' BMP d          41.850  40.349  38.055  0.00  0.00     0.217 C 
+BRANCH  19  20
+ATOM     20  O5' BMP d          41.290  41.089  39.134  0.00  0.00    -0.280 OA
+BRANCH  20  21
+ATOM     21  P   BMP d          42.116  41.425  40.460  0.00  0.00     0.422 P 
+ATOM     22  O3P BMP d          43.672  41.494  40.023  0.00  0.00    -0.617 OA
+ATOM     23  O2P BMP d          41.718  42.799  40.836  0.00  0.00    -0.617 OA
+ATOM     24  O1P BMP d          41.822  40.489  41.600  0.00  0.00    -0.617 OA
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+BRANCH   3  25
+ATOM     25  O3' BMP d          38.981  41.747  36.011  0.00  0.00    -0.390 OA
+ATOM     26  H5  BMP d          39.000  41.263  35.193  0.00  0.00     0.210 HD
+ENDBRANCH   3  25
+TORSDOF 7
+ENDMDL

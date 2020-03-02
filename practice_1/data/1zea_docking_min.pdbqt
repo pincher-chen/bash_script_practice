@@ -1,0 +1,1990 @@
+MODEL 1
+REMARK VINA RESULT:      -6.7      0.000      0.000
+REMARK  32 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  CB_3 
+REMARK    3  A    between atoms: CA_2  and  C_6 
+REMARK       I    between atoms: C_6  and  N_8 
+REMARK    4  A    between atoms: CA_9  and  C_13 
+REMARK       I    between atoms: C_13  and  N_15 
+REMARK    5  A    between atoms: N_15  and  CA_16 
+REMARK    6  A    between atoms: CA_16  and  C_17 
+REMARK       I    between atoms: C_17  and  N_19 
+REMARK    7  A    between atoms: N_19  and  CA_20 
+REMARK    8  A    between atoms: CA_20  and  C_21 
+REMARK    9  A    between atoms: CA_20  and  CB_23 
+REMARK       I    between atoms: C_21  and  N_25 
+REMARK   10  A    between atoms: CB_23  and  OG_24 
+REMARK   11  A    between atoms: N_25  and  CA_26 
+REMARK   12  A    between atoms: CA_26  and  C_27 
+REMARK   13  A    between atoms: CA_26  and  CB_29 
+REMARK       I    between atoms: C_27  and  N_34 
+REMARK   14  A    between atoms: CB_29  and  CG_30 
+REMARK   15  A    between atoms: CG_30  and  CD_31 
+REMARK       I    between atoms: CD_31  and  NE2_33 
+REMARK   16  A    between atoms: N_34  and  CA_35 
+REMARK   17  A    between atoms: CA_35  and  C_36 
+REMARK   18  A    between atoms: CA_35  and  CB_38 
+REMARK       I    between atoms: C_36  and  N_44 
+REMARK   19  A    between atoms: CB_38  and  CG_39 
+REMARK   20  A    between atoms: N_44  and  CA_45 
+REMARK   21  A    between atoms: CA_45  and  C_46 
+REMARK   22  A    between atoms: CA_45  and  CB_48 
+REMARK       I    between atoms: C_46  and  N_56 
+REMARK   23  A    between atoms: CB_48  and  CG_49 
+REMARK   24  A    between atoms: CZ_54  and  OH_55 
+REMARK   25  A    between atoms: N_56  and  CA_57 
+REMARK   26  A    between atoms: CA_57  and  C_58 
+REMARK   27  A    between atoms: CA_57  and  CB_60 
+REMARK       I    between atoms: C_58  and  N_64 
+REMARK   28  A    between atoms: CB_60  and  CG_61 
+REMARK   29  A    between atoms: N_64  and  CA_65 
+REMARK   30  A    between atoms: CA_65  and  C_66 
+REMARK   31  A    between atoms: CA_65  and  CB_69 
+REMARK   32  A    between atoms: CB_69  and  OG_70 
+ROOT
+ATOM      1  C   DVA d          43.922  55.606  86.831  0.00  0.00     0.241 C 
+ATOM      2  O   DVA d          44.545  56.551  86.337  0.00  0.00    -0.271 OA
+ATOM      3  N   DVA d          44.182  54.331  86.537  0.00  0.00    -0.346 N 
+ATOM      4  H35 DVA d          43.660  53.610  86.994  0.00  0.00     0.163 HD
+ENDROOT
+BRANCH   3   5
+ATOM      5  CA  DVA d          45.221  53.957  85.554  0.00  0.00     0.182 C 
+BRANCH   5   6
+ATOM      6  C   DVA d          46.377  53.204  86.145  0.00  0.00     0.241 C 
+ATOM      7  O   DVA d          47.536  53.608  85.971  0.00  0.00    -0.271 OA
+ATOM      8  N   DVA d          46.065  52.097  86.811  0.00  0.00    -0.346 N 
+ATOM      9  H42 DVA d          45.106  51.872  86.977  0.00  0.00     0.163 HD
+BRANCH   8  10
+ATOM     10  CA  DVA d          47.117  51.207  87.302  0.00  0.00     0.180 C 
+BRANCH  10  11
+ATOM     11  C   DVA d          47.519  51.401  88.758  0.00  0.00     0.241 C 
+ATOM     12  O   DVA d          47.549  52.536  89.243  0.00  0.00    -0.271 OA
+ATOM     13  N   DVA d          47.837  50.299  89.436  0.00  0.00    -0.345 N 
+ATOM     14  H51 DVA d          47.804  49.416  88.968  0.00  0.00     0.163 HD
+BRANCH  13  15
+ATOM     15  CA  DVA d          48.235  50.340  90.850  0.00  0.00     0.186 C 
+BRANCH  15  16
+ATOM     16  C   DVA d          47.063  50.307  91.829  0.00  0.00     0.241 C 
+ATOM     17  O   DVA d          46.569  49.238  92.210  0.00  0.00    -0.271 OA
+ATOM     18  N   DVA d          46.661  51.515  92.229  0.00  0.00    -0.343 N 
+ATOM     19  H55 DVA d          47.136  52.302  91.833  0.00  0.00     0.163 HD
+BRANCH  18  20
+ATOM     20  CA  DVA d          45.594  51.803  93.189  0.00  0.00     0.209 C 
+BRANCH  20  21
+ATOM     21  C   DVA d          46.075  52.503  94.452  0.00  0.00     0.198 C 
+ATOM     22  O   DVA d          46.486  51.803  95.400  0.00  0.00    -0.646 OA
+ATOM     23  OXT DVA d          46.036  53.755  94.464  0.00  0.00    -0.646 OA
+ENDBRANCH  20  21
+BRANCH  20  24
+ATOM     24  CB  DVA d          44.456  52.603  92.543  0.00  0.00     0.200 C 
+BRANCH  24  25
+ATOM     25  OG  DVA d          44.956  53.491  91.550  0.00  0.00    -0.398 OA
+ATOM     26  H59 DVA d          45.818  53.798  91.806  0.00  0.00     0.209 HD
+ENDBRANCH  24  25
+ENDBRANCH  20  24
+ENDBRANCH  18  20
+ENDBRANCH  15  16
+BRANCH  15  27
+ATOM     27  CB  DVA d          49.143  49.155  91.185  0.00  0.00     0.147 C 
+BRANCH  27  28
+ATOM     28  CG  DVA d          49.235  48.159  90.060  0.00  0.00     0.175 C 
+ATOM     29  OD1 DVA d          48.448  47.188  90.056  0.00  0.00    -0.648 OA
+ATOM     30  OD2 DVA d          50.081  48.352  89.170  0.00  0.00    -0.648 OA
+ENDBRANCH  27  28
+ENDBRANCH  15  27
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  31
+ATOM     31  CB  DVA d          46.659  49.763  87.075  0.00  0.00     0.073 C 
+BRANCH  31  32
+ATOM     32  CG  DVA d          45.900  49.584  85.769  0.00  0.00    -0.056 A 
+ATOM     33  CD1 DVA d          46.509  49.865  84.541  0.00  0.00     0.010 A 
+ATOM     34  CE1 DVA d          45.817  49.739  83.325  0.00  0.00     0.037 A 
+ATOM     35  CZ  DVA d          44.475  49.313  83.351  0.00  0.00     0.065 A 
+ATOM     36  CE2 DVA d          43.853  49.031  84.559  0.00  0.00     0.037 A 
+ATOM     37  CD2 DVA d          44.562  49.167  85.766  0.00  0.00     0.010 A 
+BRANCH  35  38
+ATOM     38  OH  DVA d          43.765  49.154  82.182  0.00  0.00    -0.361 OA
+ATOM     39  H50 DVA d          44.340  49.307  81.441  0.00  0.00     0.217 HD
+ENDBRANCH  35  38
+ENDBRANCH  31  32
+ENDBRANCH  10  31
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  40
+ATOM     40  CB  DVA d          44.675  53.020  84.474  0.00  0.00     0.095 C 
+BRANCH  40  41
+ATOM     41  CG  DVA d          43.267  53.312  84.053  0.00  0.00     0.053 A 
+ATOM     42  ND1 DVA d          42.183  53.145  84.894  0.00  0.00    -0.247 NA
+ATOM     43  CE1 DVA d          41.078  53.507  84.259  0.00  0.00     0.207 A 
+ATOM     44  NE2 DVA d          41.408  53.898  83.034  0.00  0.00    -0.359 N 
+ATOM     45  CD2 DVA d          42.772  53.783  82.884  0.00  0.00     0.116 A 
+ATOM     46  H41 DVA d          40.752  54.233  82.314  0.00  0.00     0.166 HD
+ENDBRANCH  40  41
+ENDBRANCH   5  40
+ENDBRANCH   3   5
+BRANCH   1  47
+ATOM     47  CA  DVA d          42.795  55.857  87.829  0.00  0.00     0.177 C 
+BRANCH  47  48
+ATOM     48  N   DVA d          42.136  54.609  88.179  0.00  0.00    -0.346 N 
+ATOM     49  C   DVA d          42.166  54.195  89.433  0.00  0.00     0.243 C 
+ATOM     50  O   DVA d          42.716  54.830  90.319  0.00  0.00    -0.271 OA
+ATOM     51  H27 DVA d          41.666  54.071  87.479  0.00  0.00     0.163 HD
+BRANCH  49  52
+ATOM     52  CA  DVA d          41.504  52.865  89.738  0.00  0.00     0.200 C 
+BRANCH  52  53
+ATOM     53  N   DVA d          41.144  52.864  91.138  0.00  0.00    -0.344 N 
+ATOM     54  C   DVA d          39.882  52.855  91.536  0.00  0.00     0.236 C 
+ATOM     55  O   DVA d          38.929  52.841  90.756  0.00  0.00    -0.272 OA
+ATOM     56  H22 DVA d          41.870  52.872  91.826  0.00  0.00     0.163 HD
+BRANCH  54  57
+ATOM     57  CA  DVA d          39.655  52.859  93.025  0.00  0.00     0.225 C 
+BRANCH  57  58
+ATOM     58  N   DVA d          39.434  54.228  93.421  0.00  0.00    -0.351 N 
+ATOM     59  C   DVA d          40.443  55.007  93.787  0.00  0.00     0.241 C 
+ATOM     60  O   DVA d          41.619  54.631  93.801  0.00  0.00    -0.271 OA
+ATOM     61  H19 DVA d          38.504  54.597  93.420  0.00  0.00     0.163 HD
+BRANCH  59  62
+ATOM     62  CA  DVA d          40.051  56.429  94.183  0.00  0.00     0.179 C 
+ATOM     63  N   DVA d          41.243  57.204  94.559  0.00  0.00    -0.337 N 
+ATOM     64  C   DVA d          42.241  57.805  93.861  0.00  0.00     0.251 C 
+ATOM     65  CD  DVA d          41.313  57.331  96.028  0.00  0.00     0.127 C 
+ATOM     66  O   DVA d          43.174  58.378  94.437  0.00  0.00    -0.271 OA
+ATOM     67  CG  DVA d          40.271  56.335  96.501  0.00  0.00     0.022 C 
+ATOM     68  CB  DVA d          39.218  56.450  95.456  0.00  0.00     0.037 C 
+BRANCH  64  69
+ATOM     69  CA  DVA d          42.240  57.737  92.315  0.00  0.00     0.278 C 
+BRANCH  69  70
+ATOM     70  N   DVA d          43.574  57.268  91.847  0.00  0.00    -0.066 N 
+ATOM     71  H1  DVA d          43.878  56.495  92.418  0.00  0.00     0.275 HD
+ATOM     72  H2  DVA d          44.240  58.022  91.920  0.00  0.00     0.275 HD
+ATOM     73  H3  DVA d          43.507  56.971  90.886  0.00  0.00     0.275 HD
+ENDBRANCH  69  70
+BRANCH  69  74
+ATOM     74  CB  DVA d          41.868  59.058  91.612  0.00  0.00     0.017 C 
+ATOM     75  CG1 DVA d          40.842  59.822  92.434  0.00  0.00     0.012 C 
+ATOM     76  CG2 DVA d          43.135  59.899  91.436  0.00  0.00     0.012 C 
+ENDBRANCH  69  74
+ENDBRANCH  64  69
+ENDBRANCH  59  62
+ENDBRANCH  57  58
+ENDBRANCH  54  57
+ENDBRANCH  52  53
+BRANCH  52  77
+ATOM     77  CB  DVA d          42.534  51.775  89.461  0.00  0.00     0.199 C 
+BRANCH  77  78
+ATOM     78  OG  DVA d          43.733  52.352  88.971  0.00  0.00    -0.398 OA
+ATOM     79  H26 DVA d          44.077  52.959  89.615  0.00  0.00     0.209 HD
+ENDBRANCH  77  78
+ENDBRANCH  52  77
+ENDBRANCH  49  52
+ENDBRANCH  47  48
+BRANCH  47  80
+ATOM     80  CB  DVA d          41.768  56.833  87.241  0.00  0.00     0.044 C 
+BRANCH  80  81
+ATOM     81  CG  DVA d          41.366  57.910  88.278  0.00  0.00     0.105 C 
+BRANCH  81  82
+ATOM     82  CD  DVA d          39.969  58.514  88.051  0.00  0.00     0.215 C 
+ATOM     83  OE1 DVA d          39.506  58.641  86.903  0.00  0.00    -0.274 OA
+ATOM     84  NE2 DVA d          39.301  58.874  89.128  0.00  0.00    -0.370 N 
+ATOM     85  H33 DVA d          38.388  59.273  89.040  0.00  0.00     0.159 HD
+ATOM     86  H34 DVA d          39.706  58.749  90.033  0.00  0.00     0.159 HD
+ENDBRANCH  81  82
+ENDBRANCH  80  81
+ENDBRANCH  47  80
+ENDBRANCH   1  47
+TORSDOF 32
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -6.5      2.395      6.990
+REMARK  32 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  CB_3 
+REMARK    3  A    between atoms: CA_2  and  C_6 
+REMARK       I    between atoms: C_6  and  N_8 
+REMARK    4  A    between atoms: CA_9  and  C_13 
+REMARK       I    between atoms: C_13  and  N_15 
+REMARK    5  A    between atoms: N_15  and  CA_16 
+REMARK    6  A    between atoms: CA_16  and  C_17 
+REMARK       I    between atoms: C_17  and  N_19 
+REMARK    7  A    between atoms: N_19  and  CA_20 
+REMARK    8  A    between atoms: CA_20  and  C_21 
+REMARK    9  A    between atoms: CA_20  and  CB_23 
+REMARK       I    between atoms: C_21  and  N_25 
+REMARK   10  A    between atoms: CB_23  and  OG_24 
+REMARK   11  A    between atoms: N_25  and  CA_26 
+REMARK   12  A    between atoms: CA_26  and  C_27 
+REMARK   13  A    between atoms: CA_26  and  CB_29 
+REMARK       I    between atoms: C_27  and  N_34 
+REMARK   14  A    between atoms: CB_29  and  CG_30 
+REMARK   15  A    between atoms: CG_30  and  CD_31 
+REMARK       I    between atoms: CD_31  and  NE2_33 
+REMARK   16  A    between atoms: N_34  and  CA_35 
+REMARK   17  A    between atoms: CA_35  and  C_36 
+REMARK   18  A    between atoms: CA_35  and  CB_38 
+REMARK       I    between atoms: C_36  and  N_44 
+REMARK   19  A    between atoms: CB_38  and  CG_39 
+REMARK   20  A    between atoms: N_44  and  CA_45 
+REMARK   21  A    between atoms: CA_45  and  C_46 
+REMARK   22  A    between atoms: CA_45  and  CB_48 
+REMARK       I    between atoms: C_46  and  N_56 
+REMARK   23  A    between atoms: CB_48  and  CG_49 
+REMARK   24  A    between atoms: CZ_54  and  OH_55 
+REMARK   25  A    between atoms: N_56  and  CA_57 
+REMARK   26  A    between atoms: CA_57  and  C_58 
+REMARK   27  A    between atoms: CA_57  and  CB_60 
+REMARK       I    between atoms: C_58  and  N_64 
+REMARK   28  A    between atoms: CB_60  and  CG_61 
+REMARK   29  A    between atoms: N_64  and  CA_65 
+REMARK   30  A    between atoms: CA_65  and  C_66 
+REMARK   31  A    between atoms: CA_65  and  CB_69 
+REMARK   32  A    between atoms: CB_69  and  OG_70 
+ROOT
+ATOM      1  C   DVA d          46.687  50.612  88.129  0.00  0.00     0.241 C 
+ATOM      2  O   DVA d          46.699  49.428  87.779  0.00  0.00    -0.271 OA
+ATOM      3  N   DVA d          46.184  51.589  87.373  0.00  0.00    -0.346 N 
+ATOM      4  H35 DVA d          46.178  52.525  87.727  0.00  0.00     0.163 HD
+ENDROOT
+BRANCH   3   5
+ATOM      5  CA  DVA d          45.635  51.325  86.026  0.00  0.00     0.182 C 
+BRANCH   5   6
+ATOM      6  C   DVA d          44.198  51.726  85.864  0.00  0.00     0.241 C 
+ATOM      7  O   DVA d          43.481  51.149  85.034  0.00  0.00    -0.271 OA
+ATOM      8  N   DVA d          43.790  52.733  86.629  0.00  0.00    -0.346 N 
+ATOM      9  H42 DVA d          44.399  53.102  87.330  0.00  0.00     0.163 HD
+BRANCH   8  10
+ATOM     10  CA  DVA d          42.455  53.304  86.451  0.00  0.00     0.180 C 
+BRANCH  10  11
+ATOM     11  C   DVA d          41.761  53.769  87.725  0.00  0.00     0.241 C 
+ATOM     12  O   DVA d          41.605  52.983  88.664  0.00  0.00    -0.271 OA
+ATOM     13  N   DVA d          41.340  55.033  87.742  0.00  0.00    -0.345 N 
+ATOM     14  H51 DVA d          41.489  55.604  86.935  0.00  0.00     0.163 HD
+BRANCH  13  15
+ATOM     15  CA  DVA d          40.664  55.614  88.910  0.00  0.00     0.186 C 
+BRANCH  15  16
+ATOM     16  C   DVA d          41.445  55.480  90.216  0.00  0.00     0.241 C 
+ATOM     17  O   DVA d          42.554  56.010  90.363  0.00  0.00    -0.271 OA
+ATOM     18  N   DVA d          40.812  54.770  91.152  0.00  0.00    -0.343 N 
+ATOM     19  H55 DVA d          39.925  54.383  90.900  0.00  0.00     0.163 HD
+BRANCH  18  20
+ATOM     20  CA  DVA d          41.287  54.504  92.511  0.00  0.00     0.209 C 
+BRANCH  20  21
+ATOM     21  C   DVA d          40.176  54.442  93.549  0.00  0.00     0.198 C 
+ATOM     22  O   DVA d          39.689  53.329  93.836  0.00  0.00    -0.646 OA
+ATOM     23  OXT DVA d          39.815  55.525  94.067  0.00  0.00    -0.646 OA
+ENDBRANCH  20  21
+BRANCH  20  24
+ATOM     24  CB  DVA d          42.138  53.229  92.570  0.00  0.00     0.200 C 
+BRANCH  24  25
+ATOM     25  OG  DVA d          43.001  53.139  91.443  0.00  0.00    -0.398 OA
+ATOM     26  H59 DVA d          43.883  53.379  91.701  0.00  0.00     0.209 HD
+ENDBRANCH  24  25
+ENDBRANCH  20  24
+ENDBRANCH  18  20
+ENDBRANCH  15  16
+BRANCH  15  27
+ATOM     27  CB  DVA d          40.399  57.105  88.689  0.00  0.00     0.147 C 
+BRANCH  27  28
+ATOM     28  CG  DVA d          41.049  57.629  87.435  0.00  0.00     0.175 C 
+ATOM     29  OD1 DVA d          40.315  57.997  86.492  0.00  0.00    -0.648 OA
+ATOM     30  OD2 DVA d          42.289  57.689  87.395  0.00  0.00    -0.648 OA
+ENDBRANCH  27  28
+ENDBRANCH  15  27
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  31
+ATOM     31  CB  DVA d          42.567  54.469  85.463  0.00  0.00     0.073 C 
+BRANCH  31  32
+ATOM     32  CG  DVA d          41.966  54.147  84.103  0.00  0.00    -0.056 A 
+ATOM     33  CD1 DVA d          40.580  54.073  83.931  0.00  0.00     0.010 A 
+ATOM     34  CE1 DVA d          40.004  53.744  82.692  0.00  0.00     0.037 A 
+ATOM     35  CZ  DVA d          40.853  53.489  81.598  0.00  0.00     0.065 A 
+ATOM     36  CE2 DVA d          42.230  53.556  81.749  0.00  0.00     0.037 A 
+ATOM     37  CD2 DVA d          42.788  53.884  82.998  0.00  0.00     0.010 A 
+BRANCH  35  38
+ATOM     38  OH  DVA d          40.332  53.186  80.360  0.00  0.00    -0.361 OA
+ATOM     39  H50 DVA d          40.935  52.619  79.894  0.00  0.00     0.217 HD
+ENDBRANCH  35  38
+ENDBRANCH  31  32
+ENDBRANCH  10  31
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  40
+ATOM     40  CB  DVA d          46.370  52.118  84.943  0.00  0.00     0.095 C 
+BRANCH  40  41
+ATOM     41  CG  DVA d          46.601  51.362  83.670  0.00  0.00     0.053 A 
+ATOM     42  ND1 DVA d          46.848  51.985  82.462  0.00  0.00    -0.247 NA
+ATOM     43  CE1 DVA d          47.038  51.066  81.527  0.00  0.00     0.207 A 
+ATOM     44  NE2 DVA d          46.918  49.868  82.087  0.00  0.00    -0.359 N 
+ATOM     45  CD2 DVA d          46.642  50.031  83.427  0.00  0.00     0.116 A 
+ATOM     46  H41 DVA d          47.015  48.966  81.600  0.00  0.00     0.166 HD
+ENDBRANCH  40  41
+ENDBRANCH   5  40
+ENDBRANCH   3   5
+BRANCH   1  47
+ATOM     47  CA  DVA d          47.263  51.027  89.481  0.00  0.00     0.177 C 
+BRANCH  47  48
+ATOM     48  N   DVA d          47.340  52.475  89.580  0.00  0.00    -0.346 N 
+ATOM     49  C   DVA d          46.474  53.115  90.345  0.00  0.00     0.243 C 
+ATOM     50  O   DVA d          45.614  52.534  90.987  0.00  0.00    -0.271 OA
+ATOM     51  H27 DVA d          48.041  52.980  89.076  0.00  0.00     0.163 HD
+BRANCH  49  52
+ATOM     52  CA  DVA d          46.568  54.629  90.378  0.00  0.00     0.200 C 
+BRANCH  52  53
+ATOM     53  N   DVA d          45.514  55.114  91.240  0.00  0.00    -0.344 N 
+ATOM     54  C   DVA d          45.744  56.005  92.192  0.00  0.00     0.236 C 
+ATOM     55  O   DVA d          46.856  56.486  92.411  0.00  0.00    -0.272 OA
+ATOM     56  H22 DVA d          44.585  54.767  91.114  0.00  0.00     0.163 HD
+BRANCH  54  57
+ATOM     57  CA  DVA d          44.552  56.418  93.016  0.00  0.00     0.225 C 
+BRANCH  57  58
+ATOM     58  N   DVA d          44.076  57.671  92.483  0.00  0.00    -0.351 N 
+ATOM     59  C   DVA d          44.401  58.825  93.050  0.00  0.00     0.241 C 
+ATOM     60  O   DVA d          45.131  58.911  94.042  0.00  0.00    -0.271 OA
+ATOM     61  H19 DVA d          43.490  57.670  91.672  0.00  0.00     0.163 HD
+BRANCH  59  62
+ATOM     62  CA  DVA d          43.818  60.063  92.374  0.00  0.00     0.179 C 
+ATOM     63  N   DVA d          42.608  59.713  91.615  0.00  0.00    -0.337 N 
+ATOM     64  C   DVA d          41.321  59.443  91.955  0.00  0.00     0.251 C 
+ATOM     65  CD  DVA d          42.919  59.666  90.173  0.00  0.00     0.127 C 
+ATOM     66  O   DVA d          40.483  59.129  91.101  0.00  0.00    -0.271 OA
+ATOM     67  CG  DVA d          44.436  59.709  90.155  0.00  0.00     0.022 C 
+ATOM     68  CB  DVA d          44.746  60.610  91.299  0.00  0.00     0.037 C 
+BRANCH  64  69
+ATOM     69  CA  DVA d          40.900  59.485  93.444  0.00  0.00     0.278 C 
+BRANCH  69  70
+ATOM     70  N   DVA d          39.866  58.441  93.687  0.00  0.00    -0.066 N 
+ATOM     71  H1  DVA d          39.787  57.850  92.874  0.00  0.00     0.275 HD
+ATOM     72  H2  DVA d          38.978  58.883  93.869  0.00  0.00     0.275 HD
+ATOM     73  H3  DVA d          40.132  57.883  94.483  0.00  0.00     0.275 HD
+ENDBRANCH  69  70
+BRANCH  69  74
+ATOM     74  CB  DVA d          40.391  60.856  93.931  0.00  0.00     0.017 C 
+ATOM     75  CG1 DVA d          39.039  60.706  94.609  0.00  0.00     0.012 C 
+ATOM     76  CG2 DVA d          41.411  61.442  94.911  0.00  0.00     0.012 C 
+ENDBRANCH  69  74
+ENDBRANCH  64  69
+ENDBRANCH  59  62
+ENDBRANCH  57  58
+ENDBRANCH  54  57
+ENDBRANCH  52  53
+BRANCH  52  77
+ATOM     77  CB  DVA d          46.350  55.125  88.953  0.00  0.00     0.199 C 
+BRANCH  77  78
+ATOM     78  OG  DVA d          45.350  54.348  88.314  0.00  0.00    -0.398 OA
+ATOM     79  H26 DVA d          45.272  54.619  87.407  0.00  0.00     0.209 HD
+ENDBRANCH  77  78
+ENDBRANCH  52  77
+ENDBRANCH  49  52
+ENDBRANCH  47  48
+BRANCH  47  80
+ATOM     80  CB  DVA d          48.659  50.423  89.674  0.00  0.00     0.044 C 
+BRANCH  80  81
+ATOM     81  CG  DVA d          48.835  49.876  91.113  0.00  0.00     0.105 C 
+BRANCH  81  82
+ATOM     82  CD  DVA d          49.476  50.874  92.093  0.00  0.00     0.215 C 
+ATOM     83  OE1 DVA d          48.874  51.907  92.439  0.00  0.00    -0.274 OA
+ATOM     84  NE2 DVA d          50.676  50.568  92.544  0.00  0.00    -0.370 N 
+ATOM     85  H33 DVA d          51.140  51.181  93.184  0.00  0.00     0.159 HD
+ATOM     86  H34 DVA d          51.121  49.724  92.246  0.00  0.00     0.159 HD
+ENDBRANCH  81  82
+ENDBRANCH  80  81
+ENDBRANCH  47  80
+ENDBRANCH   1  47
+TORSDOF 32
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -6.5      4.616      7.678
+REMARK  32 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  CB_3 
+REMARK    3  A    between atoms: CA_2  and  C_6 
+REMARK       I    between atoms: C_6  and  N_8 
+REMARK    4  A    between atoms: CA_9  and  C_13 
+REMARK       I    between atoms: C_13  and  N_15 
+REMARK    5  A    between atoms: N_15  and  CA_16 
+REMARK    6  A    between atoms: CA_16  and  C_17 
+REMARK       I    between atoms: C_17  and  N_19 
+REMARK    7  A    between atoms: N_19  and  CA_20 
+REMARK    8  A    between atoms: CA_20  and  C_21 
+REMARK    9  A    between atoms: CA_20  and  CB_23 
+REMARK       I    between atoms: C_21  and  N_25 
+REMARK   10  A    between atoms: CB_23  and  OG_24 
+REMARK   11  A    between atoms: N_25  and  CA_26 
+REMARK   12  A    between atoms: CA_26  and  C_27 
+REMARK   13  A    between atoms: CA_26  and  CB_29 
+REMARK       I    between atoms: C_27  and  N_34 
+REMARK   14  A    between atoms: CB_29  and  CG_30 
+REMARK   15  A    between atoms: CG_30  and  CD_31 
+REMARK       I    between atoms: CD_31  and  NE2_33 
+REMARK   16  A    between atoms: N_34  and  CA_35 
+REMARK   17  A    between atoms: CA_35  and  C_36 
+REMARK   18  A    between atoms: CA_35  and  CB_38 
+REMARK       I    between atoms: C_36  and  N_44 
+REMARK   19  A    between atoms: CB_38  and  CG_39 
+REMARK   20  A    between atoms: N_44  and  CA_45 
+REMARK   21  A    between atoms: CA_45  and  C_46 
+REMARK   22  A    between atoms: CA_45  and  CB_48 
+REMARK       I    between atoms: C_46  and  N_56 
+REMARK   23  A    between atoms: CB_48  and  CG_49 
+REMARK   24  A    between atoms: CZ_54  and  OH_55 
+REMARK   25  A    between atoms: N_56  and  CA_57 
+REMARK   26  A    between atoms: CA_57  and  C_58 
+REMARK   27  A    between atoms: CA_57  and  CB_60 
+REMARK       I    between atoms: C_58  and  N_64 
+REMARK   28  A    between atoms: CB_60  and  CG_61 
+REMARK   29  A    between atoms: N_64  and  CA_65 
+REMARK   30  A    between atoms: CA_65  and  C_66 
+REMARK   31  A    between atoms: CA_65  and  CB_69 
+REMARK   32  A    between atoms: CB_69  and  OG_70 
+ROOT
+ATOM      1  C   DVA d          46.578  58.120  80.948  0.00  0.00     0.241 C 
+ATOM      2  O   DVA d          45.897  58.159  79.919  0.00  0.00    -0.271 OA
+ATOM      3  N   DVA d          47.326  57.069  81.286  0.00  0.00    -0.346 N 
+ATOM      4  H35 DVA d          47.878  57.111  82.119  0.00  0.00     0.163 HD
+ENDROOT
+BRANCH   3   5
+ATOM      5  CA  DVA d          47.359  55.842  80.461  0.00  0.00     0.182 C 
+BRANCH   5   6
+ATOM      6  C   DVA d          46.314  54.830  80.831  0.00  0.00     0.241 C 
+ATOM      7  O   DVA d          45.289  54.715  80.144  0.00  0.00    -0.271 OA
+ATOM      8  N   DVA d          46.556  54.126  81.932  0.00  0.00    -0.346 N 
+ATOM      9  H42 DVA d          47.437  54.216  82.395  0.00  0.00     0.163 HD
+BRANCH   8  10
+ATOM     10  CA  DVA d          45.542  53.219  82.469  0.00  0.00     0.180 C 
+BRANCH  10  11
+ATOM     11  C   DVA d          46.074  51.981  83.180  0.00  0.00     0.241 C 
+ATOM     12  O   DVA d          46.974  51.313  82.664  0.00  0.00    -0.271 OA
+ATOM     13  N   DVA d          45.506  51.679  84.346  0.00  0.00    -0.345 N 
+ATOM     14  H51 DVA d          44.770  52.260  84.692  0.00  0.00     0.163 HD
+BRANCH  13  15
+ATOM     15  CA  DVA d          45.928  50.517  85.142  0.00  0.00     0.186 C 
+BRANCH  15  16
+ATOM     16  C   DVA d          46.545  50.876  86.492  0.00  0.00     0.241 C 
+ATOM     17  O   DVA d          46.163  51.862  87.136  0.00  0.00    -0.271 OA
+ATOM     18  N   DVA d          47.494  50.027  86.893  0.00  0.00    -0.343 N 
+ATOM     19  H55 DVA d          47.719  49.278  86.271  0.00  0.00     0.163 HD
+BRANCH  18  20
+ATOM     20  CA  DVA d          48.235  50.085  88.154  0.00  0.00     0.209 C 
+BRANCH  20  21
+ATOM     21  C   DVA d          47.458  49.553  89.350  0.00  0.00     0.198 C 
+ATOM     22  O   DVA d          46.762  50.351  90.011  0.00  0.00    -0.646 OA
+ATOM     23  OXT DVA d          47.559  48.329  89.599  0.00  0.00    -0.646 OA
+ENDBRANCH  20  21
+BRANCH  20  24
+ATOM     24  CB  DVA d          49.589  49.373  88.044  0.00  0.00     0.200 C 
+BRANCH  24  25
+ATOM     25  OG  DVA d          49.449  48.106  87.413  0.00  0.00    -0.398 OA
+ATOM     26  H59 DVA d          50.307  47.712  87.302  0.00  0.00     0.209 HD
+ENDBRANCH  24  25
+ENDBRANCH  20  24
+ENDBRANCH  18  20
+ENDBRANCH  15  16
+BRANCH  15  27
+ATOM     27  CB  DVA d          44.738  49.595  85.415  0.00  0.00     0.147 C 
+BRANCH  27  28
+ATOM     28  CG  DVA d          43.842  49.433  84.216  0.00  0.00     0.175 C 
+ATOM     29  OD1 DVA d          43.926  48.380  83.546  0.00  0.00    -0.648 OA
+ATOM     30  OD2 DVA d          43.043  50.346  83.949  0.00  0.00    -0.648 OA
+ENDBRANCH  27  28
+ENDBRANCH  15  27
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  31
+ATOM     31  CB  DVA d          44.645  54.020  83.417  0.00  0.00     0.073 C 
+BRANCH  31  32
+ATOM     32  CG  DVA d          43.170  53.914  83.063  0.00  0.00    -0.056 A 
+ATOM     33  CD1 DVA d          42.185  54.041  84.048  0.00  0.00     0.010 A 
+ATOM     34  CE1 DVA d          40.818  53.912  83.749  0.00  0.00     0.037 A 
+ATOM     35  CZ  DVA d          40.438  53.654  82.418  0.00  0.00     0.065 A 
+ATOM     36  CE2 DVA d          41.400  53.523  81.427  0.00  0.00     0.037 A 
+ATOM     37  CD2 DVA d          42.764  53.651  81.747  0.00  0.00     0.010 A 
+BRANCH  35  38
+ATOM     38  OH  DVA d          39.108  53.543  82.076  0.00  0.00    -0.361 OA
+ATOM     39  H50 DVA d          38.601  54.175  82.572  0.00  0.00     0.217 HD
+ENDBRANCH  35  38
+ENDBRANCH  31  32
+ENDBRANCH  10  31
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  40
+ATOM     40  CB  DVA d          47.089  56.138  78.984  0.00  0.00     0.095 C 
+BRANCH  40  41
+ATOM     41  CG  DVA d          48.311  56.484  78.188  0.00  0.00     0.053 A 
+ATOM     42  ND1 DVA d          49.551  56.681  78.764  0.00  0.00    -0.247 NA
+ATOM     43  CE1 DVA d          50.437  56.944  77.815  0.00  0.00     0.207 A 
+ATOM     44  NE2 DVA d          49.812  56.930  76.643  0.00  0.00    -0.359 N 
+ATOM     45  CD2 DVA d          48.481  56.646  76.854  0.00  0.00     0.116 A 
+ATOM     46  H41 DVA d          50.250  57.103  75.728  0.00  0.00     0.166 HD
+ENDBRANCH  40  41
+ENDBRANCH   5  40
+ENDBRANCH   3   5
+BRANCH   1  47
+ATOM     47  CA  DVA d          46.599  59.306  81.910  0.00  0.00     0.177 C 
+BRANCH  47  48
+ATOM     48  N   DVA d          46.782  58.850  83.278  0.00  0.00    -0.346 N 
+ATOM     49  C   DVA d          47.712  59.416  84.026  0.00  0.00     0.243 C 
+ATOM     50  O   DVA d          48.418  60.323  83.616  0.00  0.00    -0.271 OA
+ATOM     51  H27 DVA d          46.211  58.117  83.648  0.00  0.00     0.163 HD
+BRANCH  49  52
+ATOM     52  CA  DVA d          47.894  58.874  85.431  0.00  0.00     0.200 C 
+BRANCH  52  53
+ATOM     53  N   DVA d          47.032  57.722  85.571  0.00  0.00    -0.344 N 
+ATOM     54  C   DVA d          47.434  56.618  86.181  0.00  0.00     0.236 C 
+ATOM     55  O   DVA d          48.555  56.489  86.674  0.00  0.00    -0.272 OA
+ATOM     56  H22 DVA d          46.106  57.760  85.197  0.00  0.00     0.163 HD
+BRANCH  54  57
+ATOM     57  CA  DVA d          46.432  55.495  86.252  0.00  0.00     0.225 C 
+BRANCH  57  58
+ATOM     58  N   DVA d          45.397  55.902  87.170  0.00  0.00    -0.351 N 
+ATOM     59  C   DVA d          44.331  55.142  87.381  0.00  0.00     0.241 C 
+ATOM     60  O   DVA d          44.156  54.050  86.832  0.00  0.00    -0.271 OA
+ATOM     61  H19 DVA d          45.484  56.772  87.656  0.00  0.00     0.163 HD
+BRANCH  59  62
+ATOM     62  CA  DVA d          43.321  55.708  88.377  0.00  0.00     0.179 C 
+ATOM     63  N   DVA d          42.292  54.705  88.692  0.00  0.00    -0.337 N 
+ATOM     64  C   DVA d          42.259  53.596  89.476  0.00  0.00     0.251 C 
+ATOM     65  CD  DVA d          41.042  55.030  87.977  0.00  0.00     0.127 C 
+ATOM     66  O   DVA d          41.250  52.884  89.538  0.00  0.00    -0.271 OA
+ATOM     67  CG  DVA d          41.485  56.099  86.995  0.00  0.00     0.022 C 
+ATOM     68  CB  DVA d          42.511  56.846  87.773  0.00  0.00     0.037 C 
+BRANCH  64  69
+ATOM     69  CA  DVA d          43.520  53.189  90.275  0.00  0.00     0.278 C 
+BRANCH  69  70
+ATOM     70  N   DVA d          44.184  52.047  89.587  0.00  0.00    -0.066 N 
+ATOM     71  H1  DVA d          44.186  52.209  88.592  0.00  0.00     0.275 HD
+ATOM     72  H2  DVA d          43.682  51.195  89.787  0.00  0.00     0.275 HD
+ATOM     73  H3  DVA d          45.133  51.963  89.916  0.00  0.00     0.275 HD
+ENDBRANCH  69  70
+BRANCH  69  74
+ATOM     74  CB  DVA d          43.259  52.835  91.752  0.00  0.00     0.017 C 
+ATOM     75  CG1 DVA d          44.568  52.517  92.458  0.00  0.00     0.012 C 
+ATOM     76  CG2 DVA d          42.569  54.021  92.431  0.00  0.00     0.012 C 
+ENDBRANCH  69  74
+ENDBRANCH  64  69
+ENDBRANCH  59  62
+ENDBRANCH  57  58
+ENDBRANCH  54  57
+ENDBRANCH  52  53
+BRANCH  52  77
+ATOM     77  CB  DVA d          47.462  59.972  86.397  0.00  0.00     0.199 C 
+BRANCH  77  78
+ATOM     78  OG  DVA d          46.280  60.598  85.926  0.00  0.00    -0.398 OA
+ATOM     79  H26 DVA d          45.983  60.158  85.138  0.00  0.00     0.209 HD
+ENDBRANCH  77  78
+ENDBRANCH  52  77
+ENDBRANCH  49  52
+ENDBRANCH  47  48
+BRANCH  47  80
+ATOM     80  CB  DVA d          45.292  60.102  81.804  0.00  0.00     0.044 C 
+BRANCH  80  81
+ATOM     81  CG  DVA d          45.575  61.612  81.609  0.00  0.00     0.105 C 
+BRANCH  81  82
+ATOM     82  CD  DVA d          45.793  62.387  82.921  0.00  0.00     0.215 C 
+ATOM     83  OE1 DVA d          46.747  63.178  83.044  0.00  0.00    -0.274 OA
+ATOM     84  NE2 DVA d          44.920  62.174  83.883  0.00  0.00    -0.370 N 
+ATOM     85  H33 DVA d          45.014  62.651  84.757  0.00  0.00     0.159 HD
+ATOM     86  H34 DVA d          44.165  61.535  83.740  0.00  0.00     0.159 HD
+ENDBRANCH  81  82
+ENDBRANCH  80  81
+ENDBRANCH  47  80
+ENDBRANCH   1  47
+TORSDOF 32
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -6.4      2.972      9.272
+REMARK  32 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  CB_3 
+REMARK    3  A    between atoms: CA_2  and  C_6 
+REMARK       I    between atoms: C_6  and  N_8 
+REMARK    4  A    between atoms: CA_9  and  C_13 
+REMARK       I    between atoms: C_13  and  N_15 
+REMARK    5  A    between atoms: N_15  and  CA_16 
+REMARK    6  A    between atoms: CA_16  and  C_17 
+REMARK       I    between atoms: C_17  and  N_19 
+REMARK    7  A    between atoms: N_19  and  CA_20 
+REMARK    8  A    between atoms: CA_20  and  C_21 
+REMARK    9  A    between atoms: CA_20  and  CB_23 
+REMARK       I    between atoms: C_21  and  N_25 
+REMARK   10  A    between atoms: CB_23  and  OG_24 
+REMARK   11  A    between atoms: N_25  and  CA_26 
+REMARK   12  A    between atoms: CA_26  and  C_27 
+REMARK   13  A    between atoms: CA_26  and  CB_29 
+REMARK       I    between atoms: C_27  and  N_34 
+REMARK   14  A    between atoms: CB_29  and  CG_30 
+REMARK   15  A    between atoms: CG_30  and  CD_31 
+REMARK       I    between atoms: CD_31  and  NE2_33 
+REMARK   16  A    between atoms: N_34  and  CA_35 
+REMARK   17  A    between atoms: CA_35  and  C_36 
+REMARK   18  A    between atoms: CA_35  and  CB_38 
+REMARK       I    between atoms: C_36  and  N_44 
+REMARK   19  A    between atoms: CB_38  and  CG_39 
+REMARK   20  A    between atoms: N_44  and  CA_45 
+REMARK   21  A    between atoms: CA_45  and  C_46 
+REMARK   22  A    between atoms: CA_45  and  CB_48 
+REMARK       I    between atoms: C_46  and  N_56 
+REMARK   23  A    between atoms: CB_48  and  CG_49 
+REMARK   24  A    between atoms: CZ_54  and  OH_55 
+REMARK   25  A    between atoms: N_56  and  CA_57 
+REMARK   26  A    between atoms: CA_57  and  C_58 
+REMARK   27  A    between atoms: CA_57  and  CB_60 
+REMARK       I    between atoms: C_58  and  N_64 
+REMARK   28  A    between atoms: CB_60  and  CG_61 
+REMARK   29  A    between atoms: N_64  and  CA_65 
+REMARK   30  A    between atoms: CA_65  and  C_66 
+REMARK   31  A    between atoms: CA_65  and  CB_69 
+REMARK   32  A    between atoms: CB_69  and  OG_70 
+ROOT
+ATOM      1  C   DVA d          42.591  53.528  86.295  0.00  0.00     0.241 C 
+ATOM      2  O   DVA d          43.567  53.524  87.051  0.00  0.00    -0.271 OA
+ATOM      3  N   DVA d          41.396  54.001  86.652  0.00  0.00    -0.346 N 
+ATOM      4  H35 DVA d          40.652  54.002  85.983  0.00  0.00     0.163 HD
+ENDROOT
+BRANCH   3   5
+ATOM      5  CA  DVA d          41.142  54.525  88.012  0.00  0.00     0.182 C 
+BRANCH   5   6
+ATOM      6  C   DVA d          41.607  53.615  89.111  0.00  0.00     0.241 C 
+ATOM      7  O   DVA d          41.234  52.434  89.140  0.00  0.00    -0.271 OA
+ATOM      8  N   DVA d          42.389  54.172  90.030  0.00  0.00    -0.346 N 
+ATOM      9  H42 DVA d          42.712  55.110  89.905  0.00  0.00     0.163 HD
+BRANCH   8  10
+ATOM     10  CA  DVA d          42.779  53.423  91.224  0.00  0.00     0.180 C 
+BRANCH  10  11
+ATOM     11  C   DVA d          44.264  53.449  91.563  0.00  0.00     0.241 C 
+ATOM     12  O   DVA d          44.651  53.051  92.666  0.00  0.00    -0.271 OA
+ATOM     13  N   DVA d          45.078  53.927  90.623  0.00  0.00    -0.345 N 
+ATOM     14  H51 DVA d          44.686  54.246  89.760  0.00  0.00     0.163 HD
+BRANCH  13  15
+ATOM     15  CA  DVA d          46.533  54.000  90.815  0.00  0.00     0.186 C 
+BRANCH  15  16
+ATOM     16  C   DVA d          47.286  52.751  90.360  0.00  0.00     0.241 C 
+ATOM     17  O   DVA d          47.805  51.977  91.176  0.00  0.00    -0.271 OA
+ATOM     18  N   DVA d          47.303  52.584  89.037  0.00  0.00    -0.343 N 
+ATOM     19  H55 DVA d          46.858  53.291  88.488  0.00  0.00     0.163 HD
+BRANCH  18  20
+ATOM     20  CA  DVA d          47.909  51.467  88.309  0.00  0.00     0.209 C 
+BRANCH  20  21
+ATOM     21  C   DVA d          46.953  50.763  87.357  0.00  0.00     0.198 C 
+ATOM     22  O   DVA d          47.064  49.529  87.206  0.00  0.00    -0.646 OA
+ATOM     23  OXT DVA d          46.095  51.470  86.779  0.00  0.00    -0.646 OA
+ENDBRANCH  20  21
+BRANCH  20  24
+ATOM     24  CB  DVA d          49.174  51.903  87.560  0.00  0.00     0.200 C 
+BRANCH  24  25
+ATOM     25  OG  DVA d          49.037  51.693  86.160  0.00  0.00    -0.398 OA
+ATOM     26  H59 DVA d          48.298  51.118  85.998  0.00  0.00     0.209 HD
+ENDBRANCH  24  25
+ENDBRANCH  20  24
+ENDBRANCH  18  20
+ENDBRANCH  15  16
+BRANCH  15  27
+ATOM     27  CB  DVA d          47.115  55.188  90.046  0.00  0.00     0.147 C 
+BRANCH  27  28
+ATOM     28  CG  DVA d          46.052  56.033  89.393  0.00  0.00     0.175 C 
+ATOM     29  OD1 DVA d          45.724  55.773  88.215  0.00  0.00    -0.648 OA
+ATOM     30  OD2 DVA d          45.533  56.944  90.059  0.00  0.00    -0.648 OA
+ENDBRANCH  27  28
+ENDBRANCH  15  27
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  31
+ATOM     31  CB  DVA d          41.964  53.957  92.406  0.00  0.00     0.073 C 
+BRANCH  31  32
+ATOM     32  CG  DVA d          40.821  53.034  92.798  0.00  0.00    -0.056 A 
+ATOM     33  CD1 DVA d          39.667  52.949  92.012  0.00  0.00     0.010 A 
+ATOM     34  CE1 DVA d          38.584  52.129  92.372  0.00  0.00     0.037 A 
+ATOM     35  CZ  DVA d          38.675  51.370  93.555  0.00  0.00     0.065 A 
+ATOM     36  CE2 DVA d          39.810  51.442  94.348  0.00  0.00     0.037 A 
+ATOM     37  CD2 DVA d          40.882  52.272  93.973  0.00  0.00     0.010 A 
+BRANCH  35  38
+ATOM     38  OH  DVA d          37.647  50.535  93.935  0.00  0.00    -0.361 OA
+ATOM     39  H50 DVA d          37.118  50.321  93.176  0.00  0.00     0.217 HD
+ENDBRANCH  35  38
+ENDBRANCH  31  32
+ENDBRANCH  10  31
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  40
+ATOM     40  CB  DVA d          41.889  55.836  88.268  0.00  0.00     0.095 C 
+BRANCH  40  41
+ATOM     41  CG  DVA d          41.001  57.008  88.555  0.00  0.00     0.053 A 
+ATOM     42  ND1 DVA d          40.439  57.785  87.560  0.00  0.00    -0.247 NA
+ATOM     43  CE1 DVA d          39.685  58.725  88.113  0.00  0.00     0.207 A 
+ATOM     44  NE2 DVA d          39.743  58.586  89.432  0.00  0.00    -0.359 N 
+ATOM     45  CD2 DVA d          40.562  57.519  89.730  0.00  0.00     0.116 A 
+ATOM     46  H41 DVA d          39.256  59.178  90.119  0.00  0.00     0.166 HD
+ENDBRANCH  40  41
+ENDBRANCH   5  40
+ENDBRANCH   3   5
+BRANCH   1  47
+ATOM     47  CA  DVA d          42.707  52.975  84.877  0.00  0.00     0.177 C 
+BRANCH  47  48
+ATOM     48  N   DVA d          43.860  52.097  84.763  0.00  0.00    -0.346 N 
+ATOM     49  C   DVA d          43.710  50.906  84.212  0.00  0.00     0.243 C 
+ATOM     50  O   DVA d          42.638  50.517  83.777  0.00  0.00    -0.271 OA
+ATOM     51  H27 DVA d          44.755  52.391  85.098  0.00  0.00     0.163 HD
+BRANCH  49  52
+ATOM     52  CA  DVA d          44.933  50.010  84.158  0.00  0.00     0.200 C 
+BRANCH  52  53
+ATOM     53  N   DVA d          45.590  50.240  82.892  0.00  0.00    -0.344 N 
+ATOM     54  C   DVA d          46.801  50.770  82.818  0.00  0.00     0.236 C 
+ATOM     55  O   DVA d          47.454  51.099  83.808  0.00  0.00    -0.272 OA
+ATOM     56  H22 DVA d          45.116  49.992  82.047  0.00  0.00     0.163 HD
+BRANCH  54  57
+ATOM     57  CA  DVA d          47.361  50.955  81.432  0.00  0.00     0.225 C 
+BRANCH  57  58
+ATOM     58  N   DVA d          47.968  52.263  81.386  0.00  0.00    -0.351 N 
+ATOM     59  C   DVA d          47.315  53.304  80.890  0.00  0.00     0.241 C 
+ATOM     60  O   DVA d          46.161  53.238  80.456  0.00  0.00    -0.271 OA
+ATOM     61  H19 DVA d          48.898  52.386  81.734  0.00  0.00     0.163 HD
+BRANCH  59  62
+ATOM     62  CA  DVA d          48.090  54.620  80.906  0.00  0.00     0.179 C 
+ATOM     63  N   DVA d          47.460  55.577  81.827  0.00  0.00    -0.337 N 
+ATOM     64  C   DVA d          47.438  55.717  83.179  0.00  0.00     0.251 C 
+ATOM     65  CD  DVA d          46.707  56.588  81.060  0.00  0.00     0.127 C 
+ATOM     66  O   DVA d          46.780  56.613  83.721  0.00  0.00    -0.271 OA
+ATOM     67  CG  DVA d          46.680  55.997  79.663  0.00  0.00     0.022 C 
+ATOM     68  CB  DVA d          48.010  55.337  79.566  0.00  0.00     0.037 C 
+BRANCH  64  69
+ATOM     69  CA  DVA d          48.213  54.711  84.063  0.00  0.00     0.278 C 
+BRANCH  69  70
+ATOM     70  N   DVA d          47.240  53.901  84.847  0.00  0.00    -0.066 N 
+ATOM     71  H1  DVA d          47.416  52.921  84.692  0.00  0.00     0.275 HD
+ATOM     72  H2  DVA d          46.302  54.125  84.553  0.00  0.00     0.275 HD
+ATOM     73  H3  DVA d          47.343  54.109  85.828  0.00  0.00     0.275 HD
+ENDBRANCH  69  70
+BRANCH  69  74
+ATOM     74  CB  DVA d          49.250  55.350  85.007  0.00  0.00     0.017 C 
+ATOM     75  CG1 DVA d          48.741  55.334  86.439  0.00  0.00     0.012 C 
+ATOM     76  CG2 DVA d          50.561  54.566  84.905  0.00  0.00     0.012 C 
+ENDBRANCH  69  74
+ENDBRANCH  64  69
+ENDBRANCH  59  62
+ENDBRANCH  57  58
+ENDBRANCH  54  57
+ENDBRANCH  52  53
+BRANCH  52  77
+ATOM     77  CB  DVA d          44.439  48.570  84.239  0.00  0.00     0.199 C 
+BRANCH  77  78
+ATOM     78  OG  DVA d          43.972  48.143  82.969  0.00  0.00    -0.398 OA
+ATOM     79  H26 DVA d          43.080  47.830  83.051  0.00  0.00     0.209 HD
+ENDBRANCH  77  78
+ENDBRANCH  52  77
+ENDBRANCH  49  52
+ENDBRANCH  47  48
+BRANCH  47  80
+ATOM     80  CB  DVA d          42.833  54.122  83.866  0.00  0.00     0.044 C 
+BRANCH  80  81
+ATOM     81  CG  DVA d          42.102  53.782  82.544  0.00  0.00     0.105 C 
+BRANCH  81  82
+ATOM     82  CD  DVA d          40.567  53.780  82.654  0.00  0.00     0.215 C 
+ATOM     83  OE1 DVA d          40.003  54.040  83.732  0.00  0.00    -0.274 OA
+ATOM     84  NE2 DVA d          39.898  53.501  81.554  0.00  0.00    -0.370 N 
+ATOM     85  H33 DVA d          38.898  53.485  81.567  0.00  0.00     0.159 HD
+ATOM     86  H34 DVA d          40.390  53.304  80.706  0.00  0.00     0.159 HD
+ENDBRANCH  81  82
+ENDBRANCH  80  81
+ENDBRANCH  47  80
+ENDBRANCH   1  47
+TORSDOF 32
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -6.3      1.341      2.433
+REMARK  32 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  CB_3 
+REMARK    3  A    between atoms: CA_2  and  C_6 
+REMARK       I    between atoms: C_6  and  N_8 
+REMARK    4  A    between atoms: CA_9  and  C_13 
+REMARK       I    between atoms: C_13  and  N_15 
+REMARK    5  A    between atoms: N_15  and  CA_16 
+REMARK    6  A    between atoms: CA_16  and  C_17 
+REMARK       I    between atoms: C_17  and  N_19 
+REMARK    7  A    between atoms: N_19  and  CA_20 
+REMARK    8  A    between atoms: CA_20  and  C_21 
+REMARK    9  A    between atoms: CA_20  and  CB_23 
+REMARK       I    between atoms: C_21  and  N_25 
+REMARK   10  A    between atoms: CB_23  and  OG_24 
+REMARK   11  A    between atoms: N_25  and  CA_26 
+REMARK   12  A    between atoms: CA_26  and  C_27 
+REMARK   13  A    between atoms: CA_26  and  CB_29 
+REMARK       I    between atoms: C_27  and  N_34 
+REMARK   14  A    between atoms: CB_29  and  CG_30 
+REMARK   15  A    between atoms: CG_30  and  CD_31 
+REMARK       I    between atoms: CD_31  and  NE2_33 
+REMARK   16  A    between atoms: N_34  and  CA_35 
+REMARK   17  A    between atoms: CA_35  and  C_36 
+REMARK   18  A    between atoms: CA_35  and  CB_38 
+REMARK       I    between atoms: C_36  and  N_44 
+REMARK   19  A    between atoms: CB_38  and  CG_39 
+REMARK   20  A    between atoms: N_44  and  CA_45 
+REMARK   21  A    between atoms: CA_45  and  C_46 
+REMARK   22  A    between atoms: CA_45  and  CB_48 
+REMARK       I    between atoms: C_46  and  N_56 
+REMARK   23  A    between atoms: CB_48  and  CG_49 
+REMARK   24  A    between atoms: CZ_54  and  OH_55 
+REMARK   25  A    between atoms: N_56  and  CA_57 
+REMARK   26  A    between atoms: CA_57  and  C_58 
+REMARK   27  A    between atoms: CA_57  and  CB_60 
+REMARK       I    between atoms: C_58  and  N_64 
+REMARK   28  A    between atoms: CB_60  and  CG_61 
+REMARK   29  A    between atoms: N_64  and  CA_65 
+REMARK   30  A    between atoms: CA_65  and  C_66 
+REMARK   31  A    between atoms: CA_65  and  CB_69 
+REMARK   32  A    between atoms: CB_69  and  OG_70 
+ROOT
+ATOM      1  C   DVA d          44.037  55.523  86.725  0.00  0.00     0.241 C 
+ATOM      2  O   DVA d          44.508  56.568  86.266  0.00  0.00    -0.271 OA
+ATOM      3  N   DVA d          44.549  54.319  86.466  0.00  0.00    -0.346 N 
+ATOM      4  H35 DVA d          44.139  53.512  86.892  0.00  0.00     0.163 HD
+ENDROOT
+BRANCH   3   5
+ATOM      5  CA  DVA d          45.709  54.146  85.564  0.00  0.00     0.182 C 
+BRANCH   5   6
+ATOM      6  C   DVA d          46.743  53.187  86.078  0.00  0.00     0.241 C 
+ATOM      7  O   DVA d          47.939  53.356  85.803  0.00  0.00    -0.271 OA
+ATOM      8  N   DVA d          46.279  52.165  86.791  0.00  0.00    -0.346 N 
+ATOM      9  H42 DVA d          45.311  52.131  87.038  0.00  0.00     0.163 HD
+BRANCH   8  10
+ATOM     10  CA  DVA d          47.176  51.091  87.216  0.00  0.00     0.180 C 
+BRANCH  10  11
+ATOM     11  C   DVA d          47.763  51.235  88.614  0.00  0.00     0.241 C 
+ATOM     12  O   DVA d          48.177  52.332  88.999  0.00  0.00    -0.271 OA
+ATOM     13  N   DVA d          47.806  50.129  89.354  0.00  0.00    -0.345 N 
+ATOM     14  H51 DVA d          47.465  49.272  88.966  0.00  0.00     0.163 HD
+BRANCH  13  15
+ATOM     15  CA  DVA d          48.338  50.126  90.724  0.00  0.00     0.186 C 
+BRANCH  15  16
+ATOM     16  C   DVA d          47.472  49.370  91.730  0.00  0.00     0.241 C 
+ATOM     17  O   DVA d          46.622  49.952  92.416  0.00  0.00    -0.271 OA
+ATOM     18  N   DVA d          47.712  48.058  91.768  0.00  0.00    -0.343 N 
+ATOM     19  H55 DVA d          48.437  47.716  91.171  0.00  0.00     0.163 HD
+BRANCH  18  20
+ATOM     20  CA  DVA d          47.018  47.071  92.597  0.00  0.00     0.209 C 
+BRANCH  20  21
+ATOM     21  C   DVA d          46.036  46.201  91.825  0.00  0.00     0.198 C 
+ATOM     22  O   DVA d          45.025  45.773  92.419  0.00  0.00    -0.646 OA
+ATOM     23  OXT DVA d          46.300  45.968  90.623  0.00  0.00    -0.646 OA
+ENDBRANCH  20  21
+BRANCH  20  24
+ATOM     24  CB  DVA d          48.007  46.192  93.372  0.00  0.00     0.200 C 
+BRANCH  24  25
+ATOM     25  OG  DVA d          47.936  44.839  92.938  0.00  0.00    -0.398 OA
+ATOM     26  H59 DVA d          48.396  44.748  92.111  0.00  0.00     0.209 HD
+ENDBRANCH  24  25
+ENDBRANCH  20  24
+ENDBRANCH  18  20
+ENDBRANCH  15  16
+BRANCH  15  27
+ATOM     27  CB  DVA d          49.731  49.494  90.756  0.00  0.00     0.147 C 
+BRANCH  27  28
+ATOM     28  CG  DVA d          50.080  48.795  89.469  0.00  0.00     0.175 C 
+ATOM     29  OD1 DVA d          49.608  47.656  89.261  0.00  0.00    -0.648 OA
+ATOM     30  OD2 DVA d          50.811  49.386  88.657  0.00  0.00    -0.648 OA
+ENDBRANCH  27  28
+ENDBRANCH  15  27
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  31
+ATOM     31  CB  DVA d          46.414  49.766  87.103  0.00  0.00     0.073 C 
+BRANCH  31  32
+ATOM     32  CG  DVA d          45.687  49.616  85.776  0.00  0.00    -0.056 A 
+ATOM     33  CD1 DVA d          44.428  49.010  85.713  0.00  0.00     0.010 A 
+ATOM     34  CE1 DVA d          43.753  48.830  84.493  0.00  0.00     0.037 A 
+ATOM     35  CZ  DVA d          44.365  49.282  83.308  0.00  0.00     0.065 A 
+ATOM     36  CE2 DVA d          45.613  49.885  83.350  0.00  0.00     0.037 A 
+ATOM     37  CD2 DVA d          46.275  50.052  84.580  0.00  0.00     0.010 A 
+BRANCH  35  38
+ATOM     38  OH  DVA d          43.729  49.147  82.094  0.00  0.00    -0.361 OA
+ATOM     39  H50 DVA d          43.962  49.878  81.533  0.00  0.00     0.217 HD
+ENDBRANCH  35  38
+ENDBRANCH  31  32
+ENDBRANCH  10  31
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  40
+ATOM     40  CB  DVA d          45.298  53.565  84.209  0.00  0.00     0.095 C 
+BRANCH  40  41
+ATOM     41  CG  DVA d          43.832  53.286  84.073  0.00  0.00     0.053 A 
+ATOM     42  ND1 DVA d          43.172  52.349  84.845  0.00  0.00    -0.247 NA
+ATOM     43  CE1 DVA d          41.887  52.344  84.521  0.00  0.00     0.207 A 
+ATOM     44  NE2 DVA d          41.693  53.242  83.563  0.00  0.00    -0.359 N 
+ATOM     45  CD2 DVA d          42.897  53.842  83.267  0.00  0.00     0.116 A 
+ATOM     46  H41 DVA d          40.791  53.456  83.115  0.00  0.00     0.166 HD
+ENDBRANCH  40  41
+ENDBRANCH   5  40
+ENDBRANCH   3   5
+BRANCH   1  47
+ATOM     47  CA  DVA d          42.813  55.557  87.636  0.00  0.00     0.177 C 
+BRANCH  47  48
+ATOM     48  N   DVA d          42.472  54.217  88.086  0.00  0.00    -0.346 N 
+ATOM     49  C   DVA d          42.125  54.030  89.346  0.00  0.00     0.243 C 
+ATOM     50  O   DVA d          42.063  54.946  90.150  0.00  0.00    -0.271 OA
+ATOM     51  H27 DVA d          42.501  53.447  87.448  0.00  0.00     0.163 HD
+BRANCH  49  52
+ATOM     52  CA  DVA d          41.823  52.607  89.776  0.00  0.00     0.200 C 
+BRANCH  52  53
+ATOM     53  N   DVA d          41.344  52.652  91.139  0.00  0.00    -0.344 N 
+ATOM     54  C   DVA d          40.058  52.783  91.424  0.00  0.00     0.236 C 
+ATOM     55  O   DVA d          39.182  52.869  90.563  0.00  0.00    -0.272 OA
+ATOM     56  H22 DVA d          42.003  52.584  91.888  0.00  0.00     0.163 HD
+BRANCH  54  57
+ATOM     57  CA  DVA d          39.703  52.819  92.888  0.00  0.00     0.225 C 
+BRANCH  57  58
+ATOM     58  N   DVA d          39.566  54.205  93.262  0.00  0.00    -0.351 N 
+ATOM     59  C   DVA d          40.613  54.911  93.668  0.00  0.00     0.241 C 
+ATOM     60  O   DVA d          41.756  54.450  93.740  0.00  0.00    -0.271 OA
+ATOM     61  H19 DVA d          38.667  54.641  93.214  0.00  0.00     0.163 HD
+BRANCH  59  62
+ATOM     62  CA  DVA d          40.310  56.362  94.034  0.00  0.00     0.179 C 
+ATOM     63  N   DVA d          41.525  57.035  94.515  0.00  0.00    -0.337 N 
+ATOM     64  C   DVA d          42.628  57.547  93.908  0.00  0.00     0.251 C 
+ATOM     65  CD  DVA d          41.478  57.162  95.985  0.00  0.00     0.127 C 
+ATOM     66  O   DVA d          43.552  58.041  94.566  0.00  0.00    -0.271 OA
+ATOM     67  CG  DVA d          40.318  56.259  96.362  0.00  0.00     0.022 C 
+ATOM     68  CB  DVA d          39.373  56.459  95.229  0.00  0.00     0.037 C 
+BRANCH  64  69
+ATOM     69  CA  DVA d          42.755  57.474  92.368  0.00  0.00     0.278 C 
+BRANCH  69  70
+ATOM     70  N   DVA d          43.736  56.412  92.011  0.00  0.00    -0.066 N 
+ATOM     71  H1  DVA d          43.248  55.620  91.623  0.00  0.00     0.275 HD
+ATOM     72  H2  DVA d          44.238  56.125  92.837  0.00  0.00     0.275 HD
+ATOM     73  H3  DVA d          44.387  56.771  91.331  0.00  0.00     0.275 HD
+ENDBRANCH  69  70
+BRANCH  69  74
+ATOM     74  CB  DVA d          43.144  58.802  91.690  0.00  0.00     0.017 C 
+ATOM     75  CG1 DVA d          43.524  58.561  90.237  0.00  0.00     0.012 C 
+ATOM     76  CG2 DVA d          41.958  59.766  91.772  0.00  0.00     0.012 C 
+ENDBRANCH  69  74
+ENDBRANCH  64  69
+ENDBRANCH  59  62
+ENDBRANCH  57  58
+ENDBRANCH  54  57
+ENDBRANCH  52  53
+BRANCH  52  77
+ATOM     77  CB  DVA d          43.133  51.829  89.707  0.00  0.00     0.199 C 
+BRANCH  77  78
+ATOM     78  OG  DVA d          43.279  51.233  88.428  0.00  0.00    -0.398 OA
+ATOM     79  H26 DVA d          43.711  50.392  88.520  0.00  0.00     0.209 HD
+ENDBRANCH  77  78
+ENDBRANCH  52  77
+ENDBRANCH  49  52
+ENDBRANCH  47  48
+BRANCH  47  80
+ATOM     80  CB  DVA d          41.616  56.172  86.899  0.00  0.00     0.044 C 
+BRANCH  80  81
+ATOM     81  CG  DVA d          41.426  57.658  87.289  0.00  0.00     0.105 C 
+BRANCH  81  82
+ATOM     82  CD  DVA d          40.173  57.933  88.140  0.00  0.00     0.215 C 
+ATOM     83  OE1 DVA d          39.283  58.703  87.737  0.00  0.00    -0.274 OA
+ATOM     84  NE2 DVA d          40.098  57.306  89.296  0.00  0.00    -0.370 N 
+ATOM     85  H33 DVA d          39.306  57.447  89.890  0.00  0.00     0.159 HD
+ATOM     86  H34 DVA d          40.832  56.690  89.580  0.00  0.00     0.159 HD
+ENDBRANCH  81  82
+ENDBRANCH  80  81
+ENDBRANCH  47  80
+ENDBRANCH   1  47
+TORSDOF 32
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -6.3      4.484     10.720
+REMARK  32 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  CB_3 
+REMARK    3  A    between atoms: CA_2  and  C_6 
+REMARK       I    between atoms: C_6  and  N_8 
+REMARK    4  A    between atoms: CA_9  and  C_13 
+REMARK       I    between atoms: C_13  and  N_15 
+REMARK    5  A    between atoms: N_15  and  CA_16 
+REMARK    6  A    between atoms: CA_16  and  C_17 
+REMARK       I    between atoms: C_17  and  N_19 
+REMARK    7  A    between atoms: N_19  and  CA_20 
+REMARK    8  A    between atoms: CA_20  and  C_21 
+REMARK    9  A    between atoms: CA_20  and  CB_23 
+REMARK       I    between atoms: C_21  and  N_25 
+REMARK   10  A    between atoms: CB_23  and  OG_24 
+REMARK   11  A    between atoms: N_25  and  CA_26 
+REMARK   12  A    between atoms: CA_26  and  C_27 
+REMARK   13  A    between atoms: CA_26  and  CB_29 
+REMARK       I    between atoms: C_27  and  N_34 
+REMARK   14  A    between atoms: CB_29  and  CG_30 
+REMARK   15  A    between atoms: CG_30  and  CD_31 
+REMARK       I    between atoms: CD_31  and  NE2_33 
+REMARK   16  A    between atoms: N_34  and  CA_35 
+REMARK   17  A    between atoms: CA_35  and  C_36 
+REMARK   18  A    between atoms: CA_35  and  CB_38 
+REMARK       I    between atoms: C_36  and  N_44 
+REMARK   19  A    between atoms: CB_38  and  CG_39 
+REMARK   20  A    between atoms: N_44  and  CA_45 
+REMARK   21  A    between atoms: CA_45  and  C_46 
+REMARK   22  A    between atoms: CA_45  and  CB_48 
+REMARK       I    between atoms: C_46  and  N_56 
+REMARK   23  A    between atoms: CB_48  and  CG_49 
+REMARK   24  A    between atoms: CZ_54  and  OH_55 
+REMARK   25  A    between atoms: N_56  and  CA_57 
+REMARK   26  A    between atoms: CA_57  and  C_58 
+REMARK   27  A    between atoms: CA_57  and  CB_60 
+REMARK       I    between atoms: C_58  and  N_64 
+REMARK   28  A    between atoms: CB_60  and  CG_61 
+REMARK   29  A    between atoms: N_64  and  CA_65 
+REMARK   30  A    between atoms: CA_65  and  C_66 
+REMARK   31  A    between atoms: CA_65  and  CB_69 
+REMARK   32  A    between atoms: CB_69  and  OG_70 
+ROOT
+ATOM      1  C   DVA d          47.057  51.719  83.420  0.00  0.00     0.241 C 
+ATOM      2  O   DVA d          46.616  50.574  83.280  0.00  0.00    -0.271 OA
+ATOM      3  N   DVA d          47.196  52.304  84.610  0.00  0.00    -0.346 N 
+ATOM      4  H35 DVA d          47.587  53.224  84.659  0.00  0.00     0.163 HD
+ENDROOT
+BRANCH   3   5
+ATOM      5  CA  DVA d          46.787  51.628  85.861  0.00  0.00     0.182 C 
+BRANCH   5   6
+ATOM      6  C   DVA d          45.306  51.650  86.109  0.00  0.00     0.241 C 
+ATOM      7  O   DVA d          44.643  50.609  86.002  0.00  0.00    -0.271 OA
+ATOM      8  N   DVA d          44.788  52.837  86.403  0.00  0.00    -0.346 N 
+ATOM      9  H42 DVA d          45.391  53.621  86.546  0.00  0.00     0.163 HD
+BRANCH   8  10
+ATOM     10  CA  DVA d          43.339  53.005  86.518  0.00  0.00     0.180 C 
+BRANCH  10  11
+ATOM     11  C   DVA d          42.786  53.009  87.937  0.00  0.00     0.241 C 
+ATOM     12  O   DVA d          43.069  52.091  88.711  0.00  0.00    -0.271 OA
+ATOM     13  N   DVA d          41.994  54.030  88.260  0.00  0.00    -0.345 N 
+ATOM     14  H51 DVA d          41.798  54.728  87.571  0.00  0.00     0.163 HD
+BRANCH  13  15
+ATOM     15  CA  DVA d          41.399  54.164  89.597  0.00  0.00     0.186 C 
+BRANCH  15  16
+ATOM     16  C   DVA d          41.185  55.609  90.043  0.00  0.00     0.241 C 
+ATOM     17  O   DVA d          41.180  55.921  91.242  0.00  0.00    -0.271 OA
+ATOM     18  N   DVA d          41.029  56.467  89.034  0.00  0.00    -0.343 N 
+ATOM     19  H55 DVA d          41.039  56.083  88.110  0.00  0.00     0.163 HD
+BRANCH  18  20
+ATOM     20  CA  DVA d          40.847  57.916  89.144  0.00  0.00     0.209 C 
+BRANCH  20  21
+ATOM     21  C   DVA d          42.151  58.700  89.158  0.00  0.00     0.198 C 
+ATOM     22  O   DVA d          43.122  58.254  88.515  0.00  0.00    -0.646 OA
+ATOM     23  OXT DVA d          42.171  59.765  89.818  0.00  0.00    -0.646 OA
+ENDBRANCH  20  21
+BRANCH  20  24
+ATOM     24  CB  DVA d          39.919  58.451  88.046  0.00  0.00     0.200 C 
+BRANCH  24  25
+ATOM     25  OG  DVA d          39.373  59.713  88.410  0.00  0.00    -0.398 OA
+ATOM     26  H59 DVA d          39.788  60.397  87.896  0.00  0.00     0.209 HD
+ENDBRANCH  24  25
+ENDBRANCH  20  24
+ENDBRANCH  18  20
+ENDBRANCH  15  16
+BRANCH  15  27
+ATOM     27  CB  DVA d          40.040  53.463  89.651  0.00  0.00     0.147 C 
+BRANCH  27  28
+ATOM     28  CG  DVA d          39.818  52.728  90.946  0.00  0.00     0.175 C 
+ATOM     29  OD1 DVA d          40.812  52.270  91.550  0.00  0.00    -0.648 OA
+ATOM     30  OD2 DVA d          38.656  52.621  91.371  0.00  0.00    -0.648 OA
+ENDBRANCH  27  28
+ENDBRANCH  15  27
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  31
+ATOM     31  CB  DVA d          42.955  54.305  85.803  0.00  0.00     0.073 C 
+BRANCH  31  32
+ATOM     32  CG  DVA d          42.243  54.062  84.481  0.00  0.00    -0.056 A 
+ATOM     33  CD1 DVA d          40.848  54.110  84.399  0.00  0.00     0.010 A 
+ATOM     34  CE1 DVA d          40.168  53.856  83.196  0.00  0.00     0.037 A 
+ATOM     35  CZ  DVA d          40.920  53.551  82.045  0.00  0.00     0.065 A 
+ATOM     36  CE2 DVA d          42.305  53.497  82.107  0.00  0.00     0.037 A 
+ATOM     37  CD2 DVA d          42.967  53.750  83.322  0.00  0.00     0.010 A 
+BRANCH  35  38
+ATOM     38  OH  DVA d          40.296  53.317  80.839  0.00  0.00    -0.361 OA
+ATOM     39  H50 DVA d          40.794  53.727  80.142  0.00  0.00     0.217 HD
+ENDBRANCH  35  38
+ENDBRANCH  31  32
+ENDBRANCH  10  31
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  40
+ATOM     40  CB  DVA d          47.144  50.141  85.850  0.00  0.00     0.095 C 
+BRANCH  40  41
+ATOM     41  CG  DVA d          47.809  49.654  87.102  0.00  0.00     0.053 A 
+ATOM     42  ND1 DVA d          48.999  48.953  87.096  0.00  0.00    -0.247 NA
+ATOM     43  CE1 DVA d          49.354  48.682  88.344  0.00  0.00     0.207 A 
+ATOM     44  NE2 DVA d          48.431  49.180  89.158  0.00  0.00    -0.359 N 
+ATOM     45  CD2 DVA d          47.455  49.790  88.402  0.00  0.00     0.116 A 
+ATOM     46  H41 DVA d          48.443  49.119  90.186  0.00  0.00     0.166 HD
+ENDBRANCH  40  41
+ENDBRANCH   5  40
+ENDBRANCH   3   5
+BRANCH   1  47
+ATOM     47  CA  DVA d          47.477  52.542  82.205  0.00  0.00     0.177 C 
+BRANCH  47  48
+ATOM     48  N   DVA d          48.743  52.064  81.676  0.00  0.00    -0.346 N 
+ATOM     49  C   DVA d          48.862  51.857  80.377  0.00  0.00     0.243 C 
+ATOM     50  O   DVA d          47.948  52.068  79.596  0.00  0.00    -0.271 OA
+ATOM     51  H27 DVA d          49.515  51.893  82.289  0.00  0.00     0.163 HD
+BRANCH  49  52
+ATOM     52  CA  DVA d          50.188  51.314  79.881  0.00  0.00     0.200 C 
+BRANCH  52  53
+ATOM     53  N   DVA d          51.234  52.160  80.411  0.00  0.00    -0.344 N 
+ATOM     54  C   DVA d          52.424  51.681  80.735  0.00  0.00     0.236 C 
+ATOM     55  O   DVA d          52.731  50.495  80.608  0.00  0.00    -0.272 OA
+ATOM     56  H22 DVA d          51.053  53.135  80.536  0.00  0.00     0.163 HD
+BRANCH  54  57
+ATOM     57  CA  DVA d          53.416  52.677  81.278  0.00  0.00     0.225 C 
+BRANCH  57  58
+ATOM     58  N   DVA d          53.665  52.326  82.655  0.00  0.00    -0.351 N 
+ATOM     59  C   DVA d          53.324  53.142  83.642  0.00  0.00     0.241 C 
+ATOM     60  O   DVA d          52.767  54.229  83.462  0.00  0.00    -0.271 OA
+ATOM     61  H19 DVA d          54.104  51.452  82.868  0.00  0.00     0.163 HD
+BRANCH  59  62
+ATOM     62  CA  DVA d          53.656  52.634  85.043  0.00  0.00     0.179 C 
+ATOM     63  N   DVA d          53.302  53.644  86.053  0.00  0.00    -0.337 N 
+ATOM     64  C   DVA d          52.134  54.054  86.613  0.00  0.00     0.251 C 
+ATOM     65  CD  DVA d          54.523  54.320  86.533  0.00  0.00     0.127 C 
+ATOM     66  O   DVA d          52.106  54.976  87.437  0.00  0.00    -0.271 OA
+ATOM     67  CG  DVA d          55.572  53.867  85.534  0.00  0.00     0.022 C 
+ATOM     68  CB  DVA d          55.156  52.468  85.242  0.00  0.00     0.037 C 
+BRANCH  64  69
+ATOM     69  CA  DVA d          50.806  53.389  86.181  0.00  0.00     0.278 C 
+BRANCH  69  70
+ATOM     70  N   DVA d          49.800  54.449  85.894  0.00  0.00    -0.066 N 
+ATOM     71  H1  DVA d          49.426  54.316  84.968  0.00  0.00     0.275 HD
+ATOM     72  H2  DVA d          50.241  55.355  85.951  0.00  0.00     0.275 HD
+ATOM     73  H3  DVA d          49.054  54.396  86.569  0.00  0.00     0.275 HD
+ENDBRANCH  69  70
+BRANCH  69  74
+ATOM     74  CB  DVA d          50.232  52.379  87.195  0.00  0.00     0.017 C 
+ATOM     75  CG1 DVA d          51.356  51.732  87.989  0.00  0.00     0.012 C 
+ATOM     76  CG2 DVA d          49.275  53.113  88.138  0.00  0.00     0.012 C 
+ENDBRANCH  69  74
+ENDBRANCH  64  69
+ENDBRANCH  59  62
+ENDBRANCH  57  58
+ENDBRANCH  54  57
+ENDBRANCH  52  53
+BRANCH  52  77
+ATOM     77  CB  DVA d          50.168  51.397  78.358  0.00  0.00     0.199 C 
+BRANCH  77  78
+ATOM     78  OG  DVA d          50.821  50.269  77.800  0.00  0.00    -0.398 OA
+ATOM     79  H26 DVA d          50.552  49.487  78.266  0.00  0.00     0.209 HD
+ENDBRANCH  77  78
+ENDBRANCH  52  77
+ENDBRANCH  49  52
+ENDBRANCH  47  48
+BRANCH  47  80
+ATOM     80  CB  DVA d          47.604  54.024  82.583  0.00  0.00     0.044 C 
+BRANCH  80  81
+ATOM     81  CG  DVA d          46.361  54.824  82.124  0.00  0.00     0.105 C 
+BRANCH  81  82
+ATOM     82  CD  DVA d          46.142  54.833  80.601  0.00  0.00     0.215 C 
+ATOM     83  OE1 DVA d          45.035  54.540  80.112  0.00  0.00    -0.274 OA
+ATOM     84  NE2 DVA d          47.177  55.172  79.859  0.00  0.00    -0.370 N 
+ATOM     85  H33 DVA d          47.092  55.194  78.863  0.00  0.00     0.159 HD
+ATOM     86  H34 DVA d          48.046  55.406  80.292  0.00  0.00     0.159 HD
+ENDBRANCH  81  82
+ENDBRANCH  80  81
+ENDBRANCH  47  80
+ENDBRANCH   1  47
+TORSDOF 32
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -6.2      2.949      8.704
+REMARK  32 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  CB_3 
+REMARK    3  A    between atoms: CA_2  and  C_6 
+REMARK       I    between atoms: C_6  and  N_8 
+REMARK    4  A    between atoms: CA_9  and  C_13 
+REMARK       I    between atoms: C_13  and  N_15 
+REMARK    5  A    between atoms: N_15  and  CA_16 
+REMARK    6  A    between atoms: CA_16  and  C_17 
+REMARK       I    between atoms: C_17  and  N_19 
+REMARK    7  A    between atoms: N_19  and  CA_20 
+REMARK    8  A    between atoms: CA_20  and  C_21 
+REMARK    9  A    between atoms: CA_20  and  CB_23 
+REMARK       I    between atoms: C_21  and  N_25 
+REMARK   10  A    between atoms: CB_23  and  OG_24 
+REMARK   11  A    between atoms: N_25  and  CA_26 
+REMARK   12  A    between atoms: CA_26  and  C_27 
+REMARK   13  A    between atoms: CA_26  and  CB_29 
+REMARK       I    between atoms: C_27  and  N_34 
+REMARK   14  A    between atoms: CB_29  and  CG_30 
+REMARK   15  A    between atoms: CG_30  and  CD_31 
+REMARK       I    between atoms: CD_31  and  NE2_33 
+REMARK   16  A    between atoms: N_34  and  CA_35 
+REMARK   17  A    between atoms: CA_35  and  C_36 
+REMARK   18  A    between atoms: CA_35  and  CB_38 
+REMARK       I    between atoms: C_36  and  N_44 
+REMARK   19  A    between atoms: CB_38  and  CG_39 
+REMARK   20  A    between atoms: N_44  and  CA_45 
+REMARK   21  A    between atoms: CA_45  and  C_46 
+REMARK   22  A    between atoms: CA_45  and  CB_48 
+REMARK       I    between atoms: C_46  and  N_56 
+REMARK   23  A    between atoms: CB_48  and  CG_49 
+REMARK   24  A    between atoms: CZ_54  and  OH_55 
+REMARK   25  A    between atoms: N_56  and  CA_57 
+REMARK   26  A    between atoms: CA_57  and  C_58 
+REMARK   27  A    between atoms: CA_57  and  CB_60 
+REMARK       I    between atoms: C_58  and  N_64 
+REMARK   28  A    between atoms: CB_60  and  CG_61 
+REMARK   29  A    between atoms: N_64  and  CA_65 
+REMARK   30  A    between atoms: CA_65  and  C_66 
+REMARK   31  A    between atoms: CA_65  and  CB_69 
+REMARK   32  A    between atoms: CB_69  and  OG_70 
+ROOT
+ATOM      1  C   DVA d          47.707  50.048  87.054  0.00  0.00     0.241 C 
+ATOM      2  O   DVA d          47.033  49.289  87.757  0.00  0.00    -0.271 OA
+ATOM      3  N   DVA d          47.358  50.391  85.813  0.00  0.00    -0.346 N 
+ATOM      4  H35 DVA d          47.933  51.033  85.304  0.00  0.00     0.163 HD
+ENDROOT
+BRANCH   3   5
+ATOM      5  CA  DVA d          46.142  49.848  85.169  0.00  0.00     0.182 C 
+BRANCH   5   6
+ATOM      6  C   DVA d          44.945  50.748  85.269  0.00  0.00     0.241 C 
+ATOM      7  O   DVA d          43.814  50.308  85.020  0.00  0.00    -0.271 OA
+ATOM      8  N   DVA d          45.199  52.011  85.596  0.00  0.00    -0.346 N 
+ATOM      9  H42 DVA d          46.125  52.280  85.857  0.00  0.00     0.163 HD
+BRANCH   8  10
+ATOM     10  CA  DVA d          44.130  53.009  85.578  0.00  0.00     0.180 C 
+BRANCH  10  11
+ATOM     11  C   DVA d          44.213  54.085  86.653  0.00  0.00     0.241 C 
+ATOM     12  O   DVA d          44.717  55.181  86.392  0.00  0.00    -0.271 OA
+ATOM     13  N   DVA d          43.732  53.761  87.852  0.00  0.00    -0.345 N 
+ATOM     14  H51 DVA d          43.353  52.846  87.991  0.00  0.00     0.163 HD
+BRANCH  13  15
+ATOM     15  CA  DVA d          43.740  54.705  88.978  0.00  0.00     0.186 C 
+BRANCH  15  16
+ATOM     16  C   DVA d          42.349  55.139  89.439  0.00  0.00     0.241 C 
+ATOM     17  O   DVA d          41.522  54.319  89.857  0.00  0.00    -0.271 OA
+ATOM     18  N   DVA d          42.143  56.455  89.363  0.00  0.00    -0.343 N 
+ATOM     19  H55 DVA d          42.890  57.008  88.992  0.00  0.00     0.163 HD
+BRANCH  18  20
+ATOM     20  CA  DVA d          40.932  57.171  89.768  0.00  0.00     0.209 C 
+BRANCH  20  21
+ATOM     21  C   DVA d          41.179  58.268  90.793  0.00  0.00     0.198 C 
+ATOM     22  O   DVA d          40.319  58.464  91.675  0.00  0.00    -0.646 OA
+ATOM     23  OXT DVA d          42.249  58.913  90.694  0.00  0.00    -0.646 OA
+ENDBRANCH  20  21
+BRANCH  20  24
+ATOM     24  CB  DVA d          40.181  57.738  88.557  0.00  0.00     0.200 C 
+BRANCH  24  25
+ATOM     25  OG  DVA d          39.069  58.524  88.968  0.00  0.00    -0.398 OA
+ATOM     26  H59 DVA d          38.662  58.918  88.206  0.00  0.00     0.209 HD
+ENDBRANCH  24  25
+ENDBRANCH  20  24
+ENDBRANCH  18  20
+ENDBRANCH  15  16
+BRANCH  15  27
+ATOM     27  CB  DVA d          44.450  54.093  90.186  0.00  0.00     0.147 C 
+BRANCH  27  28
+ATOM     28  CG  DVA d          44.917  52.684  89.931  0.00  0.00     0.175 C 
+ATOM     29  OD1 DVA d          44.075  51.760  89.969  0.00  0.00    -0.648 OA
+ATOM     30  OD2 DVA d          46.118  52.498  89.677  0.00  0.00    -0.648 OA
+ENDBRANCH  27  28
+ENDBRANCH  15  27
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  31
+ATOM     31  CB  DVA d          44.113  53.659  84.190  0.00  0.00     0.073 C 
+BRANCH  31  32
+ATOM     32  CG  DVA d          42.723  53.693  83.573  0.00  0.00    -0.056 A 
+ATOM     33  CD1 DVA d          42.545  53.509  82.198  0.00  0.00     0.010 A 
+ATOM     34  CE1 DVA d          41.274  53.570  81.602  0.00  0.00     0.037 A 
+ATOM     35  CZ  DVA d          40.154  53.816  82.419  0.00  0.00     0.065 A 
+ATOM     36  CE2 DVA d          40.311  54.002  83.784  0.00  0.00     0.037 A 
+ATOM     37  CD2 DVA d          41.592  53.942  84.362  0.00  0.00     0.010 A 
+BRANCH  35  38
+ATOM     38  OH  DVA d          38.888  53.861  81.880  0.00  0.00    -0.361 OA
+ATOM     39  H50 DVA d          38.810  53.201  81.202  0.00  0.00     0.217 HD
+ENDBRANCH  35  38
+ENDBRANCH  31  32
+ENDBRANCH  10  31
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  40
+ATOM     40  CB  DVA d          46.334  49.643  83.665  0.00  0.00     0.095 C 
+BRANCH  40  41
+ATOM     41  CG  DVA d          46.645  50.896  82.904  0.00  0.00     0.053 A 
+ATOM     42  ND1 DVA d          47.688  51.737  83.239  0.00  0.00    -0.247 NA
+ATOM     43  CE1 DVA d          47.734  52.742  82.375  0.00  0.00     0.207 A 
+ATOM     44  NE2 DVA d          46.753  52.582  81.495  0.00  0.00    -0.359 N 
+ATOM     45  CD2 DVA d          46.059  51.435  81.809  0.00  0.00     0.116 A 
+ATOM     46  H41 DVA d          46.545  53.212  80.708  0.00  0.00     0.166 HD
+ENDBRANCH  40  41
+ENDBRANCH   5  40
+ENDBRANCH   3   5
+BRANCH   1  47
+ATOM     47  CA  DVA d          49.008  50.645  87.583  0.00  0.00     0.177 C 
+BRANCH  47  48
+ATOM     48  N   DVA d          48.809  51.210  88.907  0.00  0.00    -0.346 N 
+ATOM     49  C   DVA d          49.460  50.692  89.933  0.00  0.00     0.243 C 
+ATOM     50  O   DVA d          50.239  49.760  89.809  0.00  0.00    -0.271 OA
+ATOM     51  H27 DVA d          48.187  51.982  89.040  0.00  0.00     0.163 HD
+BRANCH  49  52
+ATOM     52  CA  DVA d          49.183  51.288  91.300  0.00  0.00     0.200 C 
+BRANCH  52  53
+ATOM     53  N   DVA d          47.897  50.796  91.740  0.00  0.00    -0.344 N 
+ATOM     54  C   DVA d          47.786  49.880  92.689  0.00  0.00     0.236 C 
+ATOM     55  O   DVA d          48.754  49.386  93.267  0.00  0.00    -0.272 OA
+ATOM     56  H22 DVA d          47.067  51.158  91.315  0.00  0.00     0.163 HD
+BRANCH  54  57
+ATOM     57  CA  DVA d          46.383  49.459  93.044  0.00  0.00     0.225 C 
+BRANCH  57  58
+ATOM     58  N   DVA d          46.325  48.022  92.928  0.00  0.00    -0.351 N 
+ATOM     59  C   DVA d          45.931  47.268  93.946  0.00  0.00     0.241 C 
+ATOM     60  O   DVA d          45.580  47.729  95.036  0.00  0.00    -0.271 OA
+ATOM     61  H19 DVA d          46.585  47.587  92.066  0.00  0.00     0.163 HD
+BRANCH  59  62
+ATOM     62  CA  DVA d          45.926  45.766  93.672  0.00  0.00     0.179 C 
+ATOM     63  N   DVA d          46.135  45.504  92.240  0.00  0.00    -0.337 N 
+ATOM     64  C   DVA d          47.220  45.525  91.422  0.00  0.00     0.251 C 
+ATOM     65  CD  DVA d          44.854  45.135  91.607  0.00  0.00     0.127 C 
+ATOM     66  O   DVA d          47.115  45.295  90.211  0.00  0.00    -0.271 OA
+ATOM     67  CG  DVA d          43.837  45.489  92.677  0.00  0.00     0.022 C 
+ATOM     68  CB  DVA d          44.559  45.150  93.933  0.00  0.00     0.037 C 
+BRANCH  64  69
+ATOM     69  CA  DVA d          48.607  45.886  92.002  0.00  0.00     0.278 C 
+BRANCH  69  70
+ATOM     70  N   DVA d          49.201  46.988  91.196  0.00  0.00    -0.066 N 
+ATOM     71  H1  DVA d          49.239  47.829  91.752  0.00  0.00     0.275 HD
+ATOM     72  H2  DVA d          48.633  47.151  90.379  0.00  0.00     0.275 HD
+ATOM     73  H3  DVA d          50.133  46.732  90.911  0.00  0.00     0.275 HD
+ENDBRANCH  69  70
+BRANCH  69  74
+ATOM     74  CB  DVA d          49.595  44.706  92.091  0.00  0.00     0.017 C 
+ATOM     75  CG1 DVA d          51.018  45.219  92.242  0.00  0.00     0.012 C 
+ATOM     76  CG2 DVA d          49.219  43.834  93.291  0.00  0.00     0.012 C 
+ENDBRANCH  69  74
+ENDBRANCH  64  69
+ENDBRANCH  59  62
+ENDBRANCH  57  58
+ENDBRANCH  54  57
+ENDBRANCH  52  53
+BRANCH  52  77
+ATOM     77  CB  DVA d          49.135  52.802  91.130  0.00  0.00     0.199 C 
+BRANCH  77  78
+ATOM     78  OG  DVA d          50.362  53.272  90.597  0.00  0.00    -0.398 OA
+ATOM     79  H26 DVA d          50.186  53.876  89.886  0.00  0.00     0.209 HD
+ENDBRANCH  77  78
+ENDBRANCH  52  77
+ENDBRANCH  49  52
+ENDBRANCH  47  48
+BRANCH  47  80
+ATOM     80  CB  DVA d          49.522  51.733  86.631  0.00  0.00     0.044 C 
+BRANCH  80  81
+ATOM     81  CG  DVA d          49.361  53.141  87.257  0.00  0.00     0.105 C 
+BRANCH  81  82
+ATOM     82  CD  DVA d          48.043  53.847  86.895  0.00  0.00     0.215 C 
+ATOM     83  OE1 DVA d          47.555  53.742  85.754  0.00  0.00    -0.274 OA
+ATOM     84  NE2 DVA d          47.468  54.547  87.850  0.00  0.00    -0.370 N 
+ATOM     85  H33 DVA d          46.609  55.027  87.671  0.00  0.00     0.159 HD
+ATOM     86  H34 DVA d          47.890  54.599  88.755  0.00  0.00     0.159 HD
+ENDBRANCH  81  82
+ENDBRANCH  80  81
+ENDBRANCH  47  80
+ENDBRANCH   1  47
+TORSDOF 32
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -6.2      3.656      7.495
+REMARK  32 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  CB_3 
+REMARK    3  A    between atoms: CA_2  and  C_6 
+REMARK       I    between atoms: C_6  and  N_8 
+REMARK    4  A    between atoms: CA_9  and  C_13 
+REMARK       I    between atoms: C_13  and  N_15 
+REMARK    5  A    between atoms: N_15  and  CA_16 
+REMARK    6  A    between atoms: CA_16  and  C_17 
+REMARK       I    between atoms: C_17  and  N_19 
+REMARK    7  A    between atoms: N_19  and  CA_20 
+REMARK    8  A    between atoms: CA_20  and  C_21 
+REMARK    9  A    between atoms: CA_20  and  CB_23 
+REMARK       I    between atoms: C_21  and  N_25 
+REMARK   10  A    between atoms: CB_23  and  OG_24 
+REMARK   11  A    between atoms: N_25  and  CA_26 
+REMARK   12  A    between atoms: CA_26  and  C_27 
+REMARK   13  A    between atoms: CA_26  and  CB_29 
+REMARK       I    between atoms: C_27  and  N_34 
+REMARK   14  A    between atoms: CB_29  and  CG_30 
+REMARK   15  A    between atoms: CG_30  and  CD_31 
+REMARK       I    between atoms: CD_31  and  NE2_33 
+REMARK   16  A    between atoms: N_34  and  CA_35 
+REMARK   17  A    between atoms: CA_35  and  C_36 
+REMARK   18  A    between atoms: CA_35  and  CB_38 
+REMARK       I    between atoms: C_36  and  N_44 
+REMARK   19  A    between atoms: CB_38  and  CG_39 
+REMARK   20  A    between atoms: N_44  and  CA_45 
+REMARK   21  A    between atoms: CA_45  and  C_46 
+REMARK   22  A    between atoms: CA_45  and  CB_48 
+REMARK       I    between atoms: C_46  and  N_56 
+REMARK   23  A    between atoms: CB_48  and  CG_49 
+REMARK   24  A    between atoms: CZ_54  and  OH_55 
+REMARK   25  A    between atoms: N_56  and  CA_57 
+REMARK   26  A    between atoms: CA_57  and  C_58 
+REMARK   27  A    between atoms: CA_57  and  CB_60 
+REMARK       I    between atoms: C_58  and  N_64 
+REMARK   28  A    between atoms: CB_60  and  CG_61 
+REMARK   29  A    between atoms: N_64  and  CA_65 
+REMARK   30  A    between atoms: CA_65  and  C_66 
+REMARK   31  A    between atoms: CA_65  and  CB_69 
+REMARK   32  A    between atoms: CB_69  and  OG_70 
+ROOT
+ATOM      1  C   DVA d          42.057  54.337  85.325  0.00  0.00     0.241 C 
+ATOM      2  O   DVA d          40.960  54.513  84.787  0.00  0.00    -0.271 OA
+ATOM      3  N   DVA d          43.151  53.983  84.649  0.00  0.00    -0.346 N 
+ATOM      4  H35 DVA d          44.017  53.884  85.139  0.00  0.00     0.163 HD
+ENDROOT
+BRANCH   3   5
+ATOM      5  CA  DVA d          43.116  53.733  83.191  0.00  0.00     0.182 C 
+BRANCH   5   6
+ATOM      6  C   DVA d          44.363  54.157  82.470  0.00  0.00     0.241 C 
+ATOM      7  O   DVA d          44.408  54.119  81.233  0.00  0.00    -0.271 OA
+ATOM      8  N   DVA d          45.380  54.525  83.243  0.00  0.00    -0.346 N 
+ATOM      9  H42 DVA d          45.249  54.604  84.231  0.00  0.00     0.163 HD
+BRANCH   8  10
+ATOM     10  CA  DVA d          46.688  54.814  82.657  0.00  0.00     0.180 C 
+BRANCH  10  11
+ATOM     11  C   DVA d          47.360  56.093  83.141  0.00  0.00     0.241 C 
+ATOM     12  O   DVA d          48.500  56.372  82.759  0.00  0.00    -0.271 OA
+ATOM     13  N   DVA d          46.658  56.847  83.984  0.00  0.00    -0.345 N 
+ATOM     14  H51 DVA d          45.746  56.545  84.260  0.00  0.00     0.163 HD
+BRANCH  13  15
+ATOM     15  CA  DVA d          47.182  58.111  84.522  0.00  0.00     0.186 C 
+BRANCH  15  16
+ATOM     16  C   DVA d          46.837  59.338  83.681  0.00  0.00     0.241 C 
+ATOM     17  O   DVA d          47.631  59.795  82.847  0.00  0.00    -0.271 OA
+ATOM     18  N   DVA d          45.621  59.832  83.922  0.00  0.00    -0.343 N 
+ATOM     19  H55 DVA d          45.083  59.378  84.632  0.00  0.00     0.163 HD
+BRANCH  18  20
+ATOM     20  CA  DVA d          44.996  60.972  83.248  0.00  0.00     0.209 C 
+BRANCH  20  21
+ATOM     21  C   DVA d          45.627  62.313  83.596  0.00  0.00     0.198 C 
+ATOM     22  O   DVA d          46.321  62.886  82.733  0.00  0.00    -0.646 OA
+ATOM     23  OXT DVA d          45.405  62.770  84.741  0.00  0.00    -0.646 OA
+ENDBRANCH  20  21
+BRANCH  20  24
+ATOM     24  CB  DVA d          44.966  60.781  81.727  0.00  0.00     0.200 C 
+BRANCH  24  25
+ATOM     25  OG  DVA d          43.634  60.834  81.232  0.00  0.00    -0.398 OA
+ATOM     26  H59 DVA d          43.168  60.048  81.494  0.00  0.00     0.209 HD
+ENDBRANCH  24  25
+ENDBRANCH  20  24
+ENDBRANCH  18  20
+ENDBRANCH  15  16
+BRANCH  15  27
+ATOM     27  CB  DVA d          46.641  58.358  85.932  0.00  0.00     0.147 C 
+BRANCH  27  28
+ATOM     28  CG  DVA d          45.622  57.331  86.350  0.00  0.00     0.175 C 
+ATOM     29  OD1 DVA d          46.022  56.283  86.902  0.00  0.00    -0.648 OA
+ATOM     30  OD2 DVA d          44.421  57.574  86.143  0.00  0.00    -0.648 OA
+ENDBRANCH  27  28
+ENDBRANCH  15  27
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  31
+ATOM     31  CB  DVA d          47.601  53.612  82.920  0.00  0.00     0.073 C 
+BRANCH  31  32
+ATOM     32  CG  DVA d          48.071  52.939  81.640  0.00  0.00    -0.056 A 
+ATOM     33  CD1 DVA d          49.182  53.423  80.941  0.00  0.00     0.010 A 
+ATOM     34  CE1 DVA d          49.614  52.837  79.739  0.00  0.00     0.037 A 
+ATOM     35  CZ  DVA d          48.906  51.729  79.234  0.00  0.00     0.065 A 
+ATOM     36  CE2 DVA d          47.801  51.236  79.912  0.00  0.00     0.037 A 
+ATOM     37  CD2 DVA d          47.382  51.838  81.112  0.00  0.00     0.010 A 
+BRANCH  35  38
+ATOM     38  OH  DVA d          49.308  51.110  78.071  0.00  0.00    -0.361 OA
+ATOM     39  H50 DVA d          48.861  50.276  77.988  0.00  0.00     0.217 HD
+ENDBRANCH  35  38
+ENDBRANCH  31  32
+ENDBRANCH  10  31
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  40
+ATOM     40  CB  DVA d          42.984  52.243  82.870  0.00  0.00     0.095 C 
+BRANCH  40  41
+ATOM     41  CG  DVA d          43.656  51.335  83.854  0.00  0.00     0.053 A 
+ATOM     42  ND1 DVA d          44.857  51.644  84.462  0.00  0.00    -0.247 NA
+ATOM     43  CE1 DVA d          45.187  50.670  85.298  0.00  0.00     0.207 A 
+ATOM     44  NE2 DVA d          44.243  49.739  85.249  0.00  0.00    -0.359 N 
+ATOM     45  CD2 DVA d          43.276  50.133  84.351  0.00  0.00     0.116 A 
+ATOM     46  H41 DVA d          44.235  48.864  85.793  0.00  0.00     0.166 HD
+ENDBRANCH  40  41
+ENDBRANCH   5  40
+ENDBRANCH   3   5
+BRANCH   1  47
+ATOM     47  CA  DVA d          42.221  54.520  86.832  0.00  0.00     0.177 C 
+BRANCH  47  48
+ATOM     48  N   DVA d          42.164  55.929  87.184  0.00  0.00    -0.346 N 
+ATOM     49  C   DVA d          41.171  56.365  87.939  0.00  0.00     0.243 C 
+ATOM     50  O   DVA d          40.303  55.623  88.369  0.00  0.00    -0.271 OA
+ATOM     51  H27 DVA d          42.867  56.562  86.858  0.00  0.00     0.163 HD
+BRANCH  49  52
+ATOM     52  CA  DVA d          41.132  57.851  88.240  0.00  0.00     0.200 C 
+BRANCH  52  53
+ATOM     53  N   DVA d          41.645  58.041  89.578  0.00  0.00    -0.344 N 
+ATOM     54  C   DVA d          42.805  58.637  89.804  0.00  0.00     0.236 C 
+ATOM     55  O   DVA d          43.525  59.074  88.906  0.00  0.00    -0.272 OA
+ATOM     56  H22 DVA d          41.108  57.713  90.355  0.00  0.00     0.163 HD
+BRANCH  54  57
+ATOM     57  CA  DVA d          43.216  58.764  91.248  0.00  0.00     0.225 C 
+BRANCH  57  58
+ATOM     58  N   DVA d          43.528  57.439  91.723  0.00  0.00    -0.351 N 
+ATOM     59  C   DVA d          42.917  56.930  92.784  0.00  0.00     0.241 C 
+ATOM     60  O   DVA d          42.046  57.531  93.419  0.00  0.00    -0.271 OA
+ATOM     61  H19 DVA d          44.218  56.895  91.245  0.00  0.00     0.163 HD
+BRANCH  59  62
+ATOM     62  CA  DVA d          43.357  55.519  93.167  0.00  0.00     0.179 C 
+ATOM     63  N   DVA d          42.651  55.071  94.377  0.00  0.00    -0.337 N 
+ATOM     64  C   DVA d          41.396  54.614  94.626  0.00  0.00     0.251 C 
+ATOM     65  CD  DVA d          43.554  55.149  95.541  0.00  0.00     0.127 C 
+ATOM     66  O   DVA d          41.031  54.332  95.774  0.00  0.00    -0.271 OA
+ATOM     67  CG  DVA d          44.726  55.950  95.004  0.00  0.00     0.022 C 
+ATOM     68  CB  DVA d          44.818  55.480  93.595  0.00  0.00     0.037 C 
+BRANCH  64  69
+ATOM     69  CA  DVA d          40.385  54.484  93.462  0.00  0.00     0.278 C 
+BRANCH  69  70
+ATOM     70  N   DVA d          39.587  55.738  93.368  0.00  0.00    -0.066 N 
+ATOM     71  H1  DVA d          39.865  56.370  94.102  0.00  0.00     0.275 HD
+ATOM     72  H2  DVA d          38.607  55.520  93.465  0.00  0.00     0.275 HD
+ATOM     73  H3  DVA d          39.747  56.172  92.473  0.00  0.00     0.275 HD
+ENDBRANCH  69  70
+BRANCH  69  74
+ATOM     74  CB  DVA d          39.446  53.266  93.557  0.00  0.00     0.017 C 
+ATOM     75  CG1 DVA d          38.052  53.705  93.976  0.00  0.00     0.012 C 
+ATOM     76  CG2 DVA d          39.393  52.574  92.193  0.00  0.00     0.012 C 
+ENDBRANCH  69  74
+ENDBRANCH  64  69
+ENDBRANCH  59  62
+ENDBRANCH  57  58
+ENDBRANCH  54  57
+ENDBRANCH  52  53
+BRANCH  52  77
+ATOM     77  CB  DVA d          39.671  58.285  88.172  0.00  0.00     0.199 C 
+BRANCH  77  78
+ATOM     78  OG  DVA d          39.585  59.700  88.157  0.00  0.00    -0.398 OA
+ATOM     79  H26 DVA d          40.455  60.071  88.243  0.00  0.00     0.209 HD
+ENDBRANCH  77  78
+ENDBRANCH  52  77
+ENDBRANCH  49  52
+ENDBRANCH  47  48
+BRANCH  47  80
+ATOM     80  CB  DVA d          43.556  53.927  87.300  0.00  0.00     0.044 C 
+BRANCH  80  81
+ATOM     81  CG  DVA d          43.504  53.558  88.803  0.00  0.00     0.105 C 
+BRANCH  81  82
+ATOM     82  CD  DVA d          43.171  52.081  89.079  0.00  0.00     0.215 C 
+ATOM     83  OE1 DVA d          43.885  51.169  88.623  0.00  0.00    -0.274 OA
+ATOM     84  NE2 DVA d          42.110  51.846  89.823  0.00  0.00    -0.370 N 
+ATOM     85  H33 DVA d          41.847  50.904  90.034  0.00  0.00     0.159 HD
+ATOM     86  H34 DVA d          41.567  52.607  90.175  0.00  0.00     0.159 HD
+ENDBRANCH  81  82
+ENDBRANCH  80  81
+ENDBRANCH  47  80
+ENDBRANCH   1  47
+TORSDOF 32
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -6.2      2.619      5.112
+REMARK  32 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  CB_3 
+REMARK    3  A    between atoms: CA_2  and  C_6 
+REMARK       I    between atoms: C_6  and  N_8 
+REMARK    4  A    between atoms: CA_9  and  C_13 
+REMARK       I    between atoms: C_13  and  N_15 
+REMARK    5  A    between atoms: N_15  and  CA_16 
+REMARK    6  A    between atoms: CA_16  and  C_17 
+REMARK       I    between atoms: C_17  and  N_19 
+REMARK    7  A    between atoms: N_19  and  CA_20 
+REMARK    8  A    between atoms: CA_20  and  C_21 
+REMARK    9  A    between atoms: CA_20  and  CB_23 
+REMARK       I    between atoms: C_21  and  N_25 
+REMARK   10  A    between atoms: CB_23  and  OG_24 
+REMARK   11  A    between atoms: N_25  and  CA_26 
+REMARK   12  A    between atoms: CA_26  and  C_27 
+REMARK   13  A    between atoms: CA_26  and  CB_29 
+REMARK       I    between atoms: C_27  and  N_34 
+REMARK   14  A    between atoms: CB_29  and  CG_30 
+REMARK   15  A    between atoms: CG_30  and  CD_31 
+REMARK       I    between atoms: CD_31  and  NE2_33 
+REMARK   16  A    between atoms: N_34  and  CA_35 
+REMARK   17  A    between atoms: CA_35  and  C_36 
+REMARK   18  A    between atoms: CA_35  and  CB_38 
+REMARK       I    between atoms: C_36  and  N_44 
+REMARK   19  A    between atoms: CB_38  and  CG_39 
+REMARK   20  A    between atoms: N_44  and  CA_45 
+REMARK   21  A    between atoms: CA_45  and  C_46 
+REMARK   22  A    between atoms: CA_45  and  CB_48 
+REMARK       I    between atoms: C_46  and  N_56 
+REMARK   23  A    between atoms: CB_48  and  CG_49 
+REMARK   24  A    between atoms: CZ_54  and  OH_55 
+REMARK   25  A    between atoms: N_56  and  CA_57 
+REMARK   26  A    between atoms: CA_57  and  C_58 
+REMARK   27  A    between atoms: CA_57  and  CB_60 
+REMARK       I    between atoms: C_58  and  N_64 
+REMARK   28  A    between atoms: CB_60  and  CG_61 
+REMARK   29  A    between atoms: N_64  and  CA_65 
+REMARK   30  A    between atoms: CA_65  and  C_66 
+REMARK   31  A    between atoms: CA_65  and  CB_69 
+REMARK   32  A    between atoms: CB_69  and  OG_70 
+ROOT
+ATOM      1  C   DVA d          42.853  54.742  86.889  0.00  0.00     0.241 C 
+ATOM      2  O   DVA d          43.005  55.911  86.524  0.00  0.00    -0.271 OA
+ATOM      3  N   DVA d          43.445  53.709  86.288  0.00  0.00    -0.346 N 
+ATOM      4  H35 DVA d          43.303  52.787  86.650  0.00  0.00     0.163 HD
+ENDROOT
+BRANCH   3   5
+ATOM      5  CA  DVA d          44.305  53.891  85.099  0.00  0.00     0.182 C 
+BRANCH   5   6
+ATOM      6  C   DVA d          45.756  53.596  85.345  0.00  0.00     0.241 C 
+ATOM      7  O   DVA d          46.627  54.133  84.646  0.00  0.00    -0.271 OA
+ATOM      8  N   DVA d          46.011  52.720  86.311  0.00  0.00    -0.346 N 
+ATOM      9  H42 DVA d          45.265  52.383  86.885  0.00  0.00     0.163 HD
+BRANCH   8  10
+ATOM     10  CA  DVA d          47.375  52.246  86.540  0.00  0.00     0.180 C 
+BRANCH  10  11
+ATOM     11  C   DVA d          48.081  52.826  87.759  0.00  0.00     0.241 C 
+ATOM     12  O   DVA d          49.301  53.006  87.737  0.00  0.00    -0.271 OA
+ATOM     13  N   DVA d          47.312  53.101  88.812  0.00  0.00    -0.345 N 
+ATOM     14  H51 DVA d          46.332  52.912  88.759  0.00  0.00     0.163 HD
+BRANCH  13  15
+ATOM     15  CA  DVA d          47.861  53.672  90.050  0.00  0.00     0.186 C 
+BRANCH  15  16
+ATOM     16  C   DVA d          47.857  55.199  90.088  0.00  0.00     0.241 C 
+ATOM     17  O   DVA d          48.759  55.834  90.650  0.00  0.00    -0.271 OA
+ATOM     18  N   DVA d          46.821  55.751  89.453  0.00  0.00    -0.343 N 
+ATOM     19  H55 DVA d          46.152  55.124  89.052  0.00  0.00     0.163 HD
+BRANCH  18  20
+ATOM     20  CA  DVA d          46.566  57.183  89.285  0.00  0.00     0.209 C 
+BRANCH  20  21
+ATOM     21  C   DVA d          45.982  57.549  87.928  0.00  0.00     0.198 C 
+ATOM     22  O   DVA d          46.137  56.753  86.979  0.00  0.00    -0.646 OA
+ATOM     23  OXT DVA d          45.368  58.637  87.844  0.00  0.00    -0.646 OA
+ENDBRANCH  20  21
+BRANCH  20  24
+ATOM     24  CB  DVA d          45.678  57.733  90.408  0.00  0.00     0.200 C 
+BRANCH  24  25
+ATOM     25  OG  DVA d          44.337  57.278  90.267  0.00  0.00    -0.398 OA
+ATOM     26  H59 DVA d          44.337  56.415  89.870  0.00  0.00     0.209 HD
+ENDBRANCH  24  25
+ENDBRANCH  20  24
+ENDBRANCH  18  20
+ENDBRANCH  15  16
+BRANCH  15  27
+ATOM     27  CB  DVA d          47.066  53.184  91.263  0.00  0.00     0.147 C 
+BRANCH  27  28
+ATOM     28  CG  DVA d          46.931  51.685  91.302  0.00  0.00     0.175 C 
+ATOM     29  OD1 DVA d          45.910  51.164  90.804  0.00  0.00    -0.648 OA
+ATOM     30  OD2 DVA d          47.850  51.024  91.815  0.00  0.00    -0.648 OA
+ENDBRANCH  27  28
+ENDBRANCH  15  27
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  31
+ATOM     31  CB  DVA d          47.335  50.717  86.639  0.00  0.00     0.073 C 
+BRANCH  31  32
+ATOM     32  CG  DVA d          46.409  50.085  85.610  0.00  0.00    -0.056 A 
+ATOM     33  CD1 DVA d          45.244  49.421  86.007  0.00  0.00     0.010 A 
+ATOM     34  CE1 DVA d          44.393  48.800  85.078  0.00  0.00     0.037 A 
+ATOM     35  CZ  DVA d          44.725  48.859  83.711  0.00  0.00     0.065 A 
+ATOM     36  CE2 DVA d          45.877  49.513  83.298  0.00  0.00     0.037 A 
+ATOM     37  CD2 DVA d          46.719  50.124  84.244  0.00  0.00     0.010 A 
+BRANCH  35  38
+ATOM     38  OH  DVA d          43.907  48.285  82.763  0.00  0.00    -0.361 OA
+ATOM     39  H50 DVA d          44.295  47.472  82.462  0.00  0.00     0.217 HD
+ENDBRANCH  35  38
+ENDBRANCH  31  32
+ENDBRANCH  10  31
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  40
+ATOM     40  CB  DVA d          43.917  52.943  83.961  0.00  0.00     0.095 C 
+BRANCH  40  41
+ATOM     41  CG  DVA d          42.592  53.245  83.328  0.00  0.00     0.053 A 
+ATOM     42  ND1 DVA d          41.433  53.414  84.060  0.00  0.00    -0.247 NA
+ATOM     43  CE1 DVA d          40.434  53.695  83.236  0.00  0.00     0.207 A 
+ATOM     44  NE2 DVA d          40.906  53.709  81.995  0.00  0.00    -0.359 N 
+ATOM     45  CD2 DVA d          42.254  53.428  82.030  0.00  0.00     0.116 A 
+ATOM     46  H41 DVA d          40.355  53.899  81.146  0.00  0.00     0.166 HD
+ENDBRANCH  40  41
+ENDBRANCH   5  40
+ENDBRANCH   3   5
+BRANCH   1  47
+ATOM     47  CA  DVA d          41.955  54.411  88.079  0.00  0.00     0.177 C 
+BRANCH  47  48
+ATOM     48  N   DVA d          42.049  55.449  89.093  0.00  0.00    -0.346 N 
+ATOM     49  C   DVA d          41.033  56.276  89.264  0.00  0.00     0.243 C 
+ATOM     50  O   DVA d          40.006  56.194  88.609  0.00  0.00    -0.271 OA
+ATOM     51  H27 DVA d          42.872  55.535  89.654  0.00  0.00     0.163 HD
+BRANCH  49  52
+ATOM     52  CA  DVA d          41.199  57.369  90.302  0.00  0.00     0.200 C 
+BRANCH  52  53
+ATOM     53  N   DVA d          40.660  56.874  91.549  0.00  0.00    -0.344 N 
+ATOM     54  C   DVA d          41.408  56.221  92.424  0.00  0.00     0.236 C 
+ATOM     55  O   DVA d          42.605  55.991  92.249  0.00  0.00    -0.272 OA
+ATOM     56  H22 DVA d          39.694  57.030  91.756  0.00  0.00     0.163 HD
+BRANCH  54  57
+ATOM     57  CA  DVA d          40.713  55.761  93.679  0.00  0.00     0.225 C 
+BRANCH  57  58
+ATOM     58  N   DVA d          39.656  54.865  93.280  0.00  0.00    -0.351 N 
+ATOM     59  C   DVA d          38.947  54.198  94.180  0.00  0.00     0.241 C 
+ATOM     60  O   DVA d          39.124  54.303  95.397  0.00  0.00    -0.271 OA
+ATOM     61  H19 DVA d          39.454  54.744  92.308  0.00  0.00     0.163 HD
+BRANCH  59  62
+ATOM     62  CA  DVA d          37.866  53.286  93.604  0.00  0.00     0.179 C 
+ATOM     63  N   DVA d          37.184  52.553  94.682  0.00  0.00    -0.337 N 
+ATOM     64  C   DVA d          36.240  52.884  95.602  0.00  0.00     0.251 C 
+ATOM     65  CD  DVA d          37.662  51.158  94.719  0.00  0.00     0.127 C 
+ATOM     66  O   DVA d          35.853  52.068  96.446  0.00  0.00    -0.271 OA
+ATOM     67  CG  DVA d          38.875  51.195  93.808  0.00  0.00     0.022 C 
+ATOM     68  CB  DVA d          38.462  52.168  92.760  0.00  0.00     0.037 C 
+BRANCH  64  69
+ATOM     69  CA  DVA d          35.669  54.322  95.626  0.00  0.00     0.278 C 
+BRANCH  69  70
+ATOM     70  N   DVA d          36.443  55.137  96.603  0.00  0.00    -0.066 N 
+ATOM     71  H1  DVA d          37.191  54.581  96.988  0.00  0.00     0.275 HD
+ATOM     72  H2  DVA d          35.833  55.440  97.347  0.00  0.00     0.275 HD
+ATOM     73  H3  DVA d          36.830  55.942  96.137  0.00  0.00     0.275 HD
+ENDBRANCH  69  70
+BRANCH  69  74
+ATOM     74  CB  DVA d          34.163  54.411  95.941  0.00  0.00     0.017 C 
+ATOM     75  CG1 DVA d          33.769  55.850  96.233  0.00  0.00     0.012 C 
+ATOM     76  CG2 DVA d          33.374  53.882  94.740  0.00  0.00     0.012 C 
+ENDBRANCH  69  74
+ENDBRANCH  64  69
+ENDBRANCH  59  62
+ENDBRANCH  57  58
+ENDBRANCH  54  57
+ENDBRANCH  52  53
+BRANCH  52  77
+ATOM     77  CB  DVA d          40.392  58.571  89.823  0.00  0.00     0.199 C 
+BRANCH  77  78
+ATOM     78  OG  DVA d          40.879  59.015  88.567  0.00  0.00    -0.398 OA
+ATOM     79  H26 DVA d          41.766  59.340  88.670  0.00  0.00     0.209 HD
+ENDBRANCH  77  78
+ENDBRANCH  52  77
+ENDBRANCH  49  52
+ENDBRANCH  47  48
+BRANCH  47  80
+ATOM     80  CB  DVA d          42.351  53.060  88.687  0.00  0.00     0.044 C 
+BRANCH  80  81
+ATOM     81  CG  DVA d          43.314  53.250  89.885  0.00  0.00     0.105 C 
+BRANCH  81  82
+ATOM     82  CD  DVA d          42.722  52.833  91.243  0.00  0.00     0.215 C 
+ATOM     83  OE1 DVA d          41.526  52.505  91.345  0.00  0.00    -0.274 OA
+ATOM     84  NE2 DVA d          43.547  52.834  92.270  0.00  0.00    -0.370 N 
+ATOM     85  H33 DVA d          43.216  52.572  93.177  0.00  0.00     0.159 HD
+ATOM     86  H34 DVA d          44.503  53.098  92.143  0.00  0.00     0.159 HD
+ENDBRANCH  81  82
+ENDBRANCH  80  81
+ENDBRANCH  47  80
+ENDBRANCH   1  47
+TORSDOF 32
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:      -6.2      2.757      8.841
+REMARK  32 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  CB_3 
+REMARK    3  A    between atoms: CA_2  and  C_6 
+REMARK       I    between atoms: C_6  and  N_8 
+REMARK    4  A    between atoms: CA_9  and  C_13 
+REMARK       I    between atoms: C_13  and  N_15 
+REMARK    5  A    between atoms: N_15  and  CA_16 
+REMARK    6  A    between atoms: CA_16  and  C_17 
+REMARK       I    between atoms: C_17  and  N_19 
+REMARK    7  A    between atoms: N_19  and  CA_20 
+REMARK    8  A    between atoms: CA_20  and  C_21 
+REMARK    9  A    between atoms: CA_20  and  CB_23 
+REMARK       I    between atoms: C_21  and  N_25 
+REMARK   10  A    between atoms: CB_23  and  OG_24 
+REMARK   11  A    between atoms: N_25  and  CA_26 
+REMARK   12  A    between atoms: CA_26  and  C_27 
+REMARK   13  A    between atoms: CA_26  and  CB_29 
+REMARK       I    between atoms: C_27  and  N_34 
+REMARK   14  A    between atoms: CB_29  and  CG_30 
+REMARK   15  A    between atoms: CG_30  and  CD_31 
+REMARK       I    between atoms: CD_31  and  NE2_33 
+REMARK   16  A    between atoms: N_34  and  CA_35 
+REMARK   17  A    between atoms: CA_35  and  C_36 
+REMARK   18  A    between atoms: CA_35  and  CB_38 
+REMARK       I    between atoms: C_36  and  N_44 
+REMARK   19  A    between atoms: CB_38  and  CG_39 
+REMARK   20  A    between atoms: N_44  and  CA_45 
+REMARK   21  A    between atoms: CA_45  and  C_46 
+REMARK   22  A    between atoms: CA_45  and  CB_48 
+REMARK       I    between atoms: C_46  and  N_56 
+REMARK   23  A    between atoms: CB_48  and  CG_49 
+REMARK   24  A    between atoms: CZ_54  and  OH_55 
+REMARK   25  A    between atoms: N_56  and  CA_57 
+REMARK   26  A    between atoms: CA_57  and  C_58 
+REMARK   27  A    between atoms: CA_57  and  CB_60 
+REMARK       I    between atoms: C_58  and  N_64 
+REMARK   28  A    between atoms: CB_60  and  CG_61 
+REMARK   29  A    between atoms: N_64  and  CA_65 
+REMARK   30  A    between atoms: CA_65  and  C_66 
+REMARK   31  A    between atoms: CA_65  and  CB_69 
+REMARK   32  A    between atoms: CB_69  and  OG_70 
+ROOT
+ATOM      1  C   DVA d          43.810  51.203  84.195  0.00  0.00     0.241 C 
+ATOM      2  O   DVA d          42.829  50.558  83.813  0.00  0.00    -0.271 OA
+ATOM      3  N   DVA d          43.711  52.304  84.942  0.00  0.00    -0.346 N 
+ATOM      4  H35 DVA d          44.546  52.765  85.243  0.00  0.00     0.163 HD
+ENDROOT
+BRANCH   3   5
+ATOM      5  CA  DVA d          42.399  52.860  85.336  0.00  0.00     0.182 C 
+BRANCH   5   6
+ATOM      6  C   DVA d          42.328  53.297  86.770  0.00  0.00     0.241 C 
+ATOM      7  O   DVA d          43.008  52.719  87.630  0.00  0.00    -0.271 OA
+ATOM      8  N   DVA d          41.482  54.288  87.030  0.00  0.00    -0.346 N 
+ATOM      9  H42 DVA d          41.022  54.758  86.278  0.00  0.00     0.163 HD
+BRANCH   8  10
+ATOM     10  CA  DVA d          41.221  54.696  88.410  0.00  0.00     0.180 C 
+BRANCH  10  11
+ATOM     11  C   DVA d          41.191  56.199  88.660  0.00  0.00     0.241 C 
+ATOM     12  O   DVA d          40.358  56.903  88.083  0.00  0.00    -0.271 OA
+ATOM     13  N   DVA d          42.104  56.676  89.504  0.00  0.00    -0.345 N 
+ATOM     14  H51 DVA d          42.757  56.043  89.921  0.00  0.00     0.163 HD
+BRANCH  13  15
+ATOM     15  CA  DVA d          42.183  58.104  89.843  0.00  0.00     0.186 C 
+BRANCH  15  16
+ATOM     16  C   DVA d          41.299  58.516  91.019  0.00  0.00     0.241 C 
+ATOM     17  O   DVA d          40.118  58.152  91.098  0.00  0.00    -0.271 OA
+ATOM     18  N   DVA d          41.925  59.268  91.925  0.00  0.00    -0.343 N 
+ATOM     19  H55 DVA d          42.878  59.504  91.734  0.00  0.00     0.163 HD
+BRANCH  18  20
+ATOM     20  CA  DVA d          41.356  59.781  93.173  0.00  0.00     0.209 C 
+BRANCH  20  21
+ATOM     21  C   DVA d          41.165  58.717  94.245  0.00  0.00     0.198 C 
+ATOM     22  O   DVA d          42.103  57.927  94.474  0.00  0.00    -0.646 OA
+ATOM     23  OXT DVA d          40.066  58.700  94.846  0.00  0.00    -0.646 OA
+ENDBRANCH  20  21
+BRANCH  20  24
+ATOM     24  CB  DVA d          42.178  60.949  93.729  0.00  0.00     0.200 C 
+BRANCH  24  25
+ATOM     25  OG  DVA d          42.334  60.839  95.139  0.00  0.00    -0.398 OA
+ATOM     26  H59 DVA d          41.495  60.983  95.561  0.00  0.00     0.209 HD
+ENDBRANCH  24  25
+ENDBRANCH  20  24
+ENDBRANCH  18  20
+ENDBRANCH  15  16
+BRANCH  15  27
+ATOM     27  CB  DVA d          43.620  58.492  90.195  0.00  0.00     0.147 C 
+BRANCH  27  28
+ATOM     28  CG  DVA d          44.416  57.336  90.742  0.00  0.00     0.175 C 
+ATOM     29  OD1 DVA d          45.218  56.751  89.981  0.00  0.00    -0.648 OA
+ATOM     30  OD2 DVA d          44.254  57.019  91.932  0.00  0.00    -0.648 OA
+ENDBRANCH  27  28
+ENDBRANCH  15  27
+ENDBRANCH  13  15
+ENDBRANCH  10  11
+BRANCH  10  31
+ATOM     31  CB  DVA d          39.893  54.068  88.846  0.00  0.00     0.073 C 
+BRANCH  31  32
+ATOM     32  CG  DVA d          39.972  53.419  90.220  0.00  0.00    -0.056 A 
+ATOM     33  CD1 DVA d          41.201  53.262  90.869  0.00  0.00     0.010 A 
+ATOM     34  CE1 DVA d          41.302  52.635  92.122  0.00  0.00     0.037 A 
+ATOM     35  CZ  DVA d          40.127  52.161  92.738  0.00  0.00     0.065 A 
+ATOM     36  CE2 DVA d          38.899  52.307  92.110  0.00  0.00     0.037 A 
+ATOM     37  CD2 DVA d          38.820  52.933  90.853  0.00  0.00     0.010 A 
+BRANCH  35  38
+ATOM     38  OH  DVA d          40.176  51.561  93.977  0.00  0.00    -0.361 OA
+ATOM     39  H50 DVA d          39.382  51.058  94.115  0.00  0.00     0.217 HD
+ENDBRANCH  35  38
+ENDBRANCH  31  32
+ENDBRANCH  10  31
+ENDBRANCH   8  10
+ENDBRANCH   5   6
+BRANCH   5  40
+ATOM     40  CB  DVA d          42.050  54.120  84.541  0.00  0.00     0.095 C 
+BRANCH  40  41
+ATOM     41  CG  DVA d          41.171  53.879  83.351  0.00  0.00     0.053 A 
+ATOM     42  ND1 DVA d          39.803  54.068  83.378  0.00  0.00    -0.247 NA
+ATOM     43  CE1 DVA d          39.301  53.804  82.180  0.00  0.00     0.207 A 
+ATOM     44  NE2 DVA d          40.298  53.447  81.379  0.00  0.00    -0.359 N 
+ATOM     45  CD2 DVA d          41.476  53.485  82.092  0.00  0.00     0.116 A 
+ATOM     46  H41 DVA d          40.205  53.184  80.388  0.00  0.00     0.166 HD
+ENDBRANCH  40  41
+ENDBRANCH   5  40
+ENDBRANCH   3   5
+BRANCH   1  47
+ATOM     47  CA  DVA d          45.223  50.760  83.821  0.00  0.00     0.177 C 
+BRANCH  47  48
+ATOM     48  N   DVA d          46.105  50.842  84.974  0.00  0.00    -0.346 N 
+ATOM     49  C   DVA d          46.013  49.926  85.921  0.00  0.00     0.243 C 
+ATOM     50  O   DVA d          45.221  48.998  85.859  0.00  0.00    -0.271 OA
+ATOM     51  H27 DVA d          46.773  51.582  85.049  0.00  0.00     0.163 HD
+BRANCH  49  52
+ATOM     52  CA  DVA d          46.923  50.081  87.124  0.00  0.00     0.200 C 
+BRANCH  52  53
+ATOM     53  N   DVA d          46.937  51.480  87.486  0.00  0.00    -0.344 N 
+ATOM     54  C   DVA d          46.261  51.940  88.528  0.00  0.00     0.236 C 
+ATOM     55  O   DVA d          45.582  51.221  89.261  0.00  0.00    -0.272 OA
+ATOM     56  H22 DVA d          47.472  52.119  86.934  0.00  0.00     0.163 HD
+BRANCH  54  57
+ATOM     57  CA  DVA d          46.364  53.421  88.785  0.00  0.00     0.225 C 
+BRANCH  57  58
+ATOM     58  N   DVA d          45.680  54.092  87.707  0.00  0.00    -0.351 N 
+ATOM     59  C   DVA d          46.331  54.893  86.876  0.00  0.00     0.241 C 
+ATOM     60  O   DVA d          47.545  55.107  86.951  0.00  0.00    -0.271 OA
+ATOM     61  H19 DVA d          44.697  53.951  87.585  0.00  0.00     0.163 HD
+BRANCH  59  62
+ATOM     62  CA  DVA d          45.471  55.534  85.790  0.00  0.00     0.179 C 
+ATOM     63  N   DVA d          46.249  56.532  85.040  0.00  0.00    -0.337 N 
+ATOM     64  C   DVA d          47.199  56.460  84.072  0.00  0.00     0.251 C 
+ATOM     65  CD  DVA d          45.865  57.891  85.470  0.00  0.00     0.127 C 
+ATOM     66  O   DVA d          47.738  57.479  83.623  0.00  0.00    -0.271 OA
+ATOM     67  CG  DVA d          45.045  57.628  86.719  0.00  0.00     0.022 C 
+ATOM     68  CB  DVA d          44.339  56.362  86.382  0.00  0.00     0.037 C 
+BRANCH  64  69
+ATOM     69  CA  DVA d          47.652  55.076  83.548  0.00  0.00     0.278 C 
+BRANCH  69  70
+ATOM     70  N   DVA d          49.012  54.777  84.076  0.00  0.00    -0.066 N 
+ATOM     71  H1  DVA d          49.527  55.636  84.185  0.00  0.00     0.275 HD
+ATOM     72  H2  DVA d          49.498  54.173  83.431  0.00  0.00     0.275 HD
+ATOM     73  H3  DVA d          48.932  54.318  84.970  0.00  0.00     0.275 HD
+ENDBRANCH  69  70
+BRANCH  69  74
+ATOM     74  CB  DVA d          47.638  54.932  82.014  0.00  0.00     0.017 C 
+ATOM     75  CG1 DVA d          46.417  55.625  81.429  0.00  0.00     0.012 C 
+ATOM     76  CG2 DVA d          48.918  55.551  81.447  0.00  0.00     0.012 C 
+ENDBRANCH  69  74
+ENDBRANCH  64  69
+ENDBRANCH  59  62
+ENDBRANCH  57  58
+ENDBRANCH  54  57
+ENDBRANCH  52  53
+BRANCH  52  77
+ATOM     77  CB  DVA d          48.318  49.637  86.694  0.00  0.00     0.199 C 
+BRANCH  77  78
+ATOM     78  OG  DVA d          49.295  50.207  87.549  0.00  0.00    -0.398 OA
+ATOM     79  H26 DVA d          49.528  51.071  87.229  0.00  0.00     0.209 HD
+ENDBRANCH  77  78
+ENDBRANCH  52  77
+ENDBRANCH  49  52
+ENDBRANCH  47  48
+BRANCH  47  80
+ATOM     80  CB  DVA d          45.775  51.636  82.689  0.00  0.00     0.044 C 
+BRANCH  80  81
+ATOM     81  CG  DVA d          47.305  51.453  82.540  0.00  0.00     0.105 C 
+BRANCH  81  82
+ATOM     82  CD  DVA d          47.770  51.179  81.099  0.00  0.00     0.215 C 
+ATOM     83  OE1 DVA d          48.583  51.935  80.535  0.00  0.00    -0.274 OA
+ATOM     84  NE2 DVA d          47.272  50.111  80.512  0.00  0.00    -0.370 N 
+ATOM     85  H33 DVA d          47.540  49.884  79.576  0.00  0.00     0.159 HD
+ATOM     86  H34 DVA d          46.627  49.526  81.003  0.00  0.00     0.159 HD
+ENDBRANCH  81  82
+ENDBRANCH  80  81
+ENDBRANCH  47  80
+ENDBRANCH   1  47
+TORSDOF 32
+ENDMDL

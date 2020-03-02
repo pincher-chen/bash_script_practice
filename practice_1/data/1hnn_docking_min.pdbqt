@@ -1,0 +1,128 @@
+MODEL 1
+REMARK VINA RESULT:      -8.2      0.000      0.000
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_3  and  S_5 
+REMARK    2  A    between atoms: S_5  and  N_10 
+ROOT
+ATOM      1  C4  SKF d          28.617  46.041  16.711  0.00  0.00     0.009 A 
+ATOM      2  C5  SKF d          28.230  45.419  15.531  0.00  0.00     0.026 A 
+ATOM      3  C6  SKF d          28.011  44.037  15.519  0.00  0.00     0.080 A 
+ATOM      4  C7  SKF d          28.180  43.295  16.682  0.00  0.00     0.034 A 
+ATOM      5  C8  SKF d          28.567  43.915  17.854  0.00  0.00    -0.025 A 
+ATOM      6  C9  SKF d          28.787  45.297  17.872  0.00  0.00    -0.049 A 
+ATOM      7  C1  SKF d          28.669  43.108  19.124  0.00  0.00     0.271 C 
+ATOM      8  C2  SKF d          29.008  45.262  20.321  0.00  0.00     0.237 C 
+ATOM      9  C3  SKF d          29.497  45.906  19.042  0.00  0.00     0.066 C 
+ATOM     10  N1  SKF d          29.364  43.820  20.222  0.00  0.00    -0.071 N 
+ATOM     11  H12 SKF d          30.358  43.748  20.070  0.00  0.00     0.277 HD
+ATOM     12  H13 SKF d          29.125  43.373  21.093  0.00  0.00     0.277 HD
+ENDROOT
+BRANCH   3  13
+ATOM     13  S   SKF d          27.526  43.231  14.027  0.00  0.00     0.256 S 
+ATOM     14  O1  SKF d          26.085  43.171  13.915  0.00  0.00    -0.201 OA
+ATOM     15  O2  SKF d          28.058  41.897  13.920  0.00  0.00    -0.201 OA
+BRANCH  13  16
+ATOM     16  N   SKF d          28.097  44.093  12.837  0.00  0.00    -0.324 N 
+ATOM     17  H4  SKF d          28.590  43.649  12.089  0.00  0.00     0.169 HD
+ATOM     18  H5  SKF d          27.965  45.084  12.830  0.00  0.00     0.169 HD
+ENDBRANCH  13  16
+ENDBRANCH   3  13
+TORSDOF 2
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -7.4      1.045      1.971
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_3  and  S_5 
+REMARK    2  A    between atoms: S_5  and  N_10 
+ROOT
+ATOM      1  C4  SKF d          27.744  42.531  17.983  0.00  0.00     0.009 A 
+ATOM      2  C5  SKF d          27.459  42.383  16.632  0.00  0.00     0.026 A 
+ATOM      3  C6  SKF d          27.785  43.412  15.741  0.00  0.00     0.080 A 
+ATOM      4  C7  SKF d          28.390  44.572  16.208  0.00  0.00     0.034 A 
+ATOM      5  C8  SKF d          28.671  44.719  17.554  0.00  0.00    -0.025 A 
+ATOM      6  C9  SKF d          28.348  43.693  18.449  0.00  0.00    -0.049 A 
+ATOM      7  C1  SKF d          29.398  45.950  18.032  0.00  0.00     0.271 C 
+ATOM      8  C2  SKF d          29.563  44.842  20.251  0.00  0.00     0.237 C 
+ATOM      9  C3  SKF d          28.366  43.978  19.919  0.00  0.00     0.066 C 
+ATOM     10  N1  SKF d          29.376  46.115  19.504  0.00  0.00    -0.071 N 
+ATOM     11  H12 SKF d          28.487  46.511  19.766  0.00  0.00     0.277 HD
+ATOM     12  H13 SKF d          30.115  46.748  19.764  0.00  0.00     0.277 HD
+ENDROOT
+BRANCH   3  13
+ATOM     13  S   SKF d          27.422  43.242  14.023  0.00  0.00     0.256 S 
+ATOM     14  O1  SKF d          26.003  43.382  13.778  0.00  0.00    -0.201 OA
+ATOM     15  O2  SKF d          27.868  41.984  13.485  0.00  0.00    -0.201 OA
+BRANCH  13  16
+ATOM     16  N   SKF d          28.187  44.403  13.279  0.00  0.00    -0.324 N 
+ATOM     17  H4  SKF d          28.495  44.275  12.337  0.00  0.00     0.169 HD
+ATOM     18  H5  SKF d          28.363  45.267  13.750  0.00  0.00     0.169 HD
+ENDBRANCH  13  16
+ENDBRANCH   3  13
+TORSDOF 2
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -7.2      3.405      5.509
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_3  and  S_5 
+REMARK    2  A    between atoms: S_5  and  N_10 
+ROOT
+ATOM      1  C4  SKF d          27.698  42.459  17.193  0.00  0.00     0.009 A 
+ATOM      2  C5  SKF d          28.148  43.097  18.341  0.00  0.00     0.026 A 
+ATOM      3  C6  SKF d          28.660  44.397  18.252  0.00  0.00     0.080 A 
+ATOM      4  C7  SKF d          28.716  45.040  17.022  0.00  0.00     0.034 A 
+ATOM      5  C8  SKF d          28.271  44.403  15.880  0.00  0.00    -0.025 A 
+ATOM      6  C9  SKF d          27.757  43.104  15.963  0.00  0.00    -0.049 A 
+ATOM      7  C1  SKF d          28.266  45.145  14.568  0.00  0.00     0.271 C 
+ATOM      8  C2  SKF d          27.019  43.213  13.620  0.00  0.00     0.237 C 
+ATOM      9  C3  SKF d          27.570  42.313  14.705  0.00  0.00     0.066 C 
+ATOM     10  N1  SKF d          28.044  44.267  13.394  0.00  0.00    -0.071 N 
+ATOM     11  H12 SKF d          28.917  43.818  13.163  0.00  0.00     0.277 HD
+ATOM     12  H13 SKF d          27.747  44.840  12.621  0.00  0.00     0.277 HD
+ENDROOT
+BRANCH   3  13
+ATOM     13  S   SKF d          29.242  45.219  19.700  0.00  0.00     0.256 S 
+ATOM     14  O1  SKF d          29.159  46.655  19.549  0.00  0.00    -0.201 OA
+ATOM     15  O2  SKF d          30.596  44.861  20.034  0.00  0.00    -0.201 OA
+BRANCH  13  16
+ATOM     16  N   SKF d          28.302  44.774  20.885  0.00  0.00    -0.324 N 
+ATOM     17  H4  SKF d          27.806  45.462  21.415  0.00  0.00     0.169 HD
+ATOM     18  H5  SKF d          28.201  43.805  21.107  0.00  0.00     0.169 HD
+ENDBRANCH  13  16
+ENDBRANCH   3  13
+TORSDOF 2
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -6.7      3.488      5.161
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_3  and  S_5 
+REMARK    2  A    between atoms: S_5  and  N_10 
+ROOT
+ATOM      1  C4  SKF d          28.655  46.127  16.170  0.00  0.00     0.009 A 
+ATOM      2  C5  SKF d          28.993  46.052  17.515  0.00  0.00     0.026 A 
+ATOM      3  C6  SKF d          28.903  44.826  18.183  0.00  0.00     0.080 A 
+ATOM      4  C7  SKF d          28.476  43.693  17.503  0.00  0.00     0.034 A 
+ATOM      5  C8  SKF d          28.137  43.768  16.165  0.00  0.00    -0.025 A 
+ATOM      6  C9  SKF d          28.227  44.992  15.492  0.00  0.00    -0.049 A 
+ATOM      7  C1  SKF d          27.753  42.513  15.423  0.00  0.00     0.271 C 
+ATOM      8  C2  SKF d          27.798  43.876  13.343  0.00  0.00     0.237 C 
+ATOM      9  C3  SKF d          27.573  45.135  14.152  0.00  0.00     0.066 C 
+ATOM     10  N1  SKF d          27.142  42.774  14.098  0.00  0.00    -0.071 N 
+ATOM     11  H12 SKF d          26.173  43.016  14.237  0.00  0.00     0.277 HD
+ATOM     12  H13 SKF d          27.202  41.932  13.549  0.00  0.00     0.277 HD
+ENDROOT
+BRANCH   3  13
+ATOM     13  S   SKF d          29.322  44.717  19.893  0.00  0.00     0.256 S 
+ATOM     14  O1  SKF d          28.137  44.556  20.707  0.00  0.00    -0.201 OA
+ATOM     15  O2  SKF d          30.055  45.866  20.358  0.00  0.00    -0.201 OA
+BRANCH  13  16
+ATOM     16  N   SKF d          30.234  43.442  20.058  0.00  0.00    -0.324 N 
+ATOM     17  H4  SKF d          29.852  42.600  20.439  0.00  0.00     0.169 HD
+ATOM     18  H5  SKF d          31.194  43.476  19.783  0.00  0.00     0.169 HD
+ENDBRANCH  13  16
+ENDBRANCH   3  13
+TORSDOF 2
+ENDMDL

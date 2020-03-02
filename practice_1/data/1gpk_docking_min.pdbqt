@@ -1,0 +1,264 @@
+MODEL 1
+REMARK VINA RESULT:     -10.5      0.000      0.000
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C12_18  and  N2_19 
+ROOT
+ATOM      1  H1  HUP d           2.435  68.468  59.935  0.00  0.00     0.169 HD
+ATOM      2  C1  HUP d           0.620  68.937  60.790  0.00  0.00     0.245 A 
+ATOM      3  O1  HUP d           0.138  69.430  59.735  0.00  0.00    -0.268 OA
+ATOM      4  N1  HUP d           1.919  68.424  60.791  0.00  0.00    -0.327 N 
+ATOM      5  C2  HUP d          -0.098  68.856  62.055  0.00  0.00     0.075 A 
+ATOM      6  C3  HUP d           0.498  68.295  63.166  0.00  0.00     0.017 A 
+ATOM      7  C4  HUP d           1.850  67.764  63.149  0.00  0.00     0.005 A 
+ATOM      8  C5  HUP d           2.560  67.849  61.910  0.00  0.00     0.022 A 
+ATOM      9  C6  HUP d           3.970  67.349  61.703  0.00  0.00     0.070 C 
+ATOM     10  C7  HUP d           4.635  66.767  63.028  0.00  0.00     0.045 C 
+ATOM     11  C8  HUP d           5.318  67.866  63.868  0.00  0.00    -0.015 C 
+ATOM     12  C9  HUP d           4.439  63.693  63.791  0.00  0.00     0.036 C 
+ATOM     13  C10 HUP d           3.512  64.788  64.223  0.00  0.00    -0.025 C 
+ATOM     14  C11 HUP d           3.566  66.076  63.906  0.00  0.00    -0.036 C 
+ATOM     15  C12 HUP d           2.537  67.108  64.426  0.00  0.00     0.179 C 
+ATOM     16  C13 HUP d           3.254  68.195  65.279  0.00  0.00     0.082 C 
+ATOM     17  C14 HUP d           4.687  68.512  64.889  0.00  0.00    -0.084 C 
+ATOM     18  C15 HUP d           5.340  69.586  65.732  0.00  0.00     0.043 C 
+ENDROOT
+BRANCH  15  19
+ATOM     19  N2  HUP d           1.501  66.458  65.276  0.00  0.00    -0.062 N 
+ATOM     20  H12 HUP d           0.623  66.942  65.164  0.00  0.00     0.276 HD
+ATOM     21  H13 HUP d           1.785  66.497  66.242  0.00  0.00     0.276 HD
+ATOM     22  H14 HUP d           1.391  65.496  64.997  0.00  0.00     0.276 HD
+ENDBRANCH  15  19
+TORSDOF 1
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:     -10.4      1.477      3.583
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C12_18  and  N2_19 
+ROOT
+ATOM      1  H1  HUP d          -0.177  68.071  64.502  0.00  0.00     0.169 HD
+ATOM      2  C1  HUP d          -0.283  68.361  62.465  0.00  0.00     0.245 A 
+ATOM      3  O1  HUP d          -1.533  68.528  62.455  0.00  0.00    -0.268 OA
+ATOM      4  N1  HUP d           0.377  68.111  63.671  0.00  0.00    -0.327 N 
+ATOM      5  C2  HUP d           0.557  68.409  61.277  0.00  0.00     0.075 A 
+ATOM      6  C3  HUP d           1.920  68.221  61.373  0.00  0.00     0.017 A 
+ATOM      7  C4  HUP d           2.592  67.965  62.634  0.00  0.00     0.005 A 
+ATOM      8  C5  HUP d           1.768  67.909  63.803  0.00  0.00     0.022 A 
+ATOM      9  C6  HUP d           2.289  67.655  65.198  0.00  0.00     0.070 C 
+ATOM     10  C7  HUP d           3.857  67.384  65.247  0.00  0.00     0.045 C 
+ATOM     11  C8  HUP d           4.198  65.896  65.021  0.00  0.00    -0.015 C 
+ATOM     12  C9  HUP d           5.951  69.729  65.684  0.00  0.00     0.036 C 
+ATOM     13  C10 HUP d           5.464  69.188  64.373  0.00  0.00    -0.025 C 
+ATOM     14  C11 HUP d           4.582  68.220  64.167  0.00  0.00    -0.036 C 
+ATOM     15  C12 HUP d           4.166  67.756  62.750  0.00  0.00     0.179 C 
+ATOM     16  C13 HUP d           4.534  66.257  62.548  0.00  0.00     0.082 C 
+ATOM     17  C14 HUP d           4.505  65.389  63.794  0.00  0.00    -0.084 C 
+ATOM     18  C15 HUP d           4.852  63.936  63.550  0.00  0.00     0.043 C 
+ENDROOT
+BRANCH  15  19
+ATOM     19  N2  HUP d           4.856  68.551  61.696  0.00  0.00    -0.062 N 
+ATOM     20  H12 HUP d           4.973  69.501  62.013  0.00  0.00     0.276 HD
+ATOM     21  H13 HUP d           4.304  68.543  60.853  0.00  0.00     0.276 HD
+ATOM     22  H14 HUP d           5.760  68.147  61.508  0.00  0.00     0.276 HD
+ENDBRANCH  15  19
+TORSDOF 1
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:     -10.1      2.699      4.739
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C12_18  and  N2_19 
+ROOT
+ATOM      1  H1  HUP d           5.631  64.501  62.016  0.00  0.00     0.169 HD
+ATOM      2  C1  HUP d           4.628  63.213  63.273  0.00  0.00     0.245 A 
+ATOM      3  O1  HUP d           5.146  62.174  62.784  0.00  0.00    -0.268 OA
+ATOM      4  N1  HUP d           4.971  64.469  62.767  0.00  0.00    -0.327 N 
+ATOM      5  C2  HUP d           3.663  63.209  64.364  0.00  0.00     0.075 A 
+ATOM      6  C3  HUP d           3.145  64.392  64.849  0.00  0.00     0.017 A 
+ATOM      7  C4  HUP d           3.515  65.690  64.314  0.00  0.00     0.005 A 
+ATOM      8  C5  HUP d           4.457  65.697  63.236  0.00  0.00     0.022 A 
+ATOM      9  C6  HUP d           4.959  66.949  62.555  0.00  0.00     0.070 C 
+ATOM     10  C7  HUP d           4.287  68.282  63.109  0.00  0.00     0.045 C 
+ATOM     11  C8  HUP d           2.965  68.612  62.385  0.00  0.00    -0.015 C 
+ATOM     12  C9  HUP d           5.569  69.943  65.489  0.00  0.00     0.036 C 
+ATOM     13  C10 HUP d           4.534  68.865  65.599  0.00  0.00    -0.025 C 
+ATOM     14  C11 HUP d           3.994  68.149  64.621  0.00  0.00    -0.036 C 
+ATOM     15  C12 HUP d           2.927  67.058  64.876  0.00  0.00     0.179 C 
+ATOM     16  C13 HUP d           1.603  67.425  64.144  0.00  0.00     0.082 C 
+ATOM     17  C14 HUP d           1.749  68.220  62.859  0.00  0.00    -0.084 C 
+ATOM     18  C15 HUP d           0.438  68.539  62.171  0.00  0.00     0.043 C 
+ENDROOT
+BRANCH  15  19
+ATOM     19  N2  HUP d           2.632  66.918  66.329  0.00  0.00    -0.062 N 
+ATOM     20  H12 HUP d           2.530  65.942  66.559  0.00  0.00     0.276 HD
+ATOM     21  H13 HUP d           1.778  67.406  66.547  0.00  0.00     0.276 HD
+ATOM     22  H14 HUP d           3.389  67.311  66.866  0.00  0.00     0.276 HD
+ENDBRANCH  15  19
+TORSDOF 1
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -9.7      1.400      3.544
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C12_18  and  N2_19 
+ROOT
+ATOM      1  H1  HUP d           0.286  68.978  62.518  0.00  0.00     0.169 HD
+ATOM      2  C1  HUP d           1.008  68.760  60.601  0.00  0.00     0.245 A 
+ATOM      3  O1  HUP d          -0.054  69.158  60.050  0.00  0.00    -0.268 OA
+ATOM      4  N1  HUP d           1.091  68.698  61.994  0.00  0.00    -0.327 N 
+ATOM      5  C2  HUP d           2.199  68.343  59.873  0.00  0.00     0.075 A 
+ATOM      6  C3  HUP d           3.326  67.925  60.552  0.00  0.00     0.017 A 
+ATOM      7  C4  HUP d           3.396  67.870  62.001  0.00  0.00     0.005 A 
+ATOM      8  C5  HUP d           2.224  68.271  62.718  0.00  0.00     0.022 A 
+ATOM      9  C6  HUP d           2.112  68.281  64.225  0.00  0.00     0.070 C 
+ATOM     10  C7  HUP d           3.416  67.733  64.958  0.00  0.00     0.045 C 
+ATOM     11  C8  HUP d           3.387  66.199  65.126  0.00  0.00    -0.015 C 
+ATOM     12  C9  HUP d           5.772  69.661  65.852  0.00  0.00     0.036 C 
+ATOM     13  C10 HUP d           5.663  68.912  64.559  0.00  0.00    -0.025 C 
+ATOM     14  C11 HUP d           4.683  68.113  64.158  0.00  0.00    -0.036 C 
+ATOM     15  C12 HUP d           4.696  67.397  62.787  0.00  0.00     0.179 C 
+ATOM     16  C13 HUP d           4.681  65.853  62.989  0.00  0.00     0.082 C 
+ATOM     17  C14 HUP d           3.963  65.350  64.229  0.00  0.00    -0.084 C 
+ATOM     18  C15 HUP d           3.956  63.844  64.378  0.00  0.00     0.043 C 
+ENDROOT
+BRANCH  15  19
+ATOM     19  N2  HUP d           5.913  67.751  62.003  0.00  0.00    -0.062 N 
+ATOM     20  H12 HUP d           5.951  68.750  61.874  0.00  0.00     0.276 HD
+ATOM     21  H13 HUP d           5.877  67.297  61.104  0.00  0.00     0.276 HD
+ATOM     22  H14 HUP d           6.735  67.445  62.500  0.00  0.00     0.276 HD
+ENDBRANCH  15  19
+TORSDOF 1
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -9.0      2.619      4.920
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C12_18  and  N2_19 
+ROOT
+ATOM      1  H1  HUP d           2.404  64.567  66.180  0.00  0.00     0.169 HD
+ATOM      2  C1  HUP d           3.656  63.441  64.993  0.00  0.00     0.245 A 
+ATOM      3  O1  HUP d           3.502  62.384  65.663  0.00  0.00    -0.268 OA
+ATOM      4  N1  HUP d           2.992  64.610  65.372  0.00  0.00    -0.327 N 
+ATOM      5  C2  HUP d           4.504  63.544  63.814  0.00  0.00     0.075 A 
+ATOM      6  C3  HUP d           4.615  64.738  63.131  0.00  0.00     0.017 A 
+ATOM      7  C4  HUP d           3.915  65.944  63.536  0.00  0.00     0.005 A 
+ATOM      8  C5  HUP d           3.088  65.847  64.700  0.00  0.00     0.022 A 
+ATOM      9  C6  HUP d           2.285  66.994  65.269  0.00  0.00     0.070 C 
+ATOM     10  C7  HUP d           2.496  68.363  64.483  0.00  0.00     0.045 C 
+ATOM     11  C8  HUP d           3.707  69.158  65.013  0.00  0.00    -0.015 C 
+ATOM     12  C9  HUP d           0.624  69.213  62.065  0.00  0.00     0.036 C 
+ATOM     13  C10 HUP d           1.921  68.468  61.981  0.00  0.00    -0.025 C 
+ATOM     14  C11 HUP d           2.712  68.091  62.976  0.00  0.00    -0.036 C 
+ATOM     15  C12 HUP d           4.034  67.320  62.747  0.00  0.00     0.179 C 
+ATOM     16  C13 HUP d           5.238  68.153  63.279  0.00  0.00     0.082 C 
+ATOM     17  C14 HUP d           4.950  69.059  64.463  0.00  0.00    -0.084 C 
+ATOM     18  C15 HUP d           6.151  69.836  64.959  0.00  0.00     0.043 C 
+ENDROOT
+BRANCH  15  19
+ATOM     19  N2  HUP d           4.260  67.051  61.299  0.00  0.00    -0.062 N 
+ATOM     20  H12 HUP d           4.335  66.056  61.150  0.00  0.00     0.276 HD
+ATOM     21  H13 HUP d           5.111  67.500  61.002  0.00  0.00     0.276 HD
+ATOM     22  H14 HUP d           3.486  67.412  60.765  0.00  0.00     0.276 HD
+ENDBRANCH  15  19
+TORSDOF 1
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -8.4      1.444      1.674
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C12_18  and  N2_19 
+ROOT
+ATOM      1  H1  HUP d           0.412  68.168  61.536  0.00  0.00     0.169 HD
+ATOM      2  C1  HUP d          -0.779  68.364  63.206  0.00  0.00     0.245 A 
+ATOM      3  O1  HUP d          -1.784  68.770  62.563  0.00  0.00    -0.268 OA
+ATOM      4  N1  HUP d           0.404  68.054  62.530  0.00  0.00    -0.327 N 
+ATOM      5  C2  HUP d          -0.751  68.187  64.651  0.00  0.00     0.075 A 
+ATOM      6  C3  HUP d           0.390  67.733  65.281  0.00  0.00     0.017 A 
+ATOM      7  C4  HUP d           1.610  67.412  64.563  0.00  0.00     0.005 A 
+ATOM      8  C5  HUP d           1.588  67.593  63.143  0.00  0.00     0.022 A 
+ATOM      9  C6  HUP d           2.760  67.310  62.233  0.00  0.00     0.070 C 
+ATOM     10  C7  HUP d           4.069  66.847  63.014  0.00  0.00     0.045 C 
+ATOM     11  C8  HUP d           4.924  68.044  63.478  0.00  0.00    -0.015 C 
+ATOM     12  C9  HUP d           4.698  63.785  63.563  0.00  0.00     0.036 C 
+ATOM     13  C10 HUP d           3.972  64.732  64.470  0.00  0.00    -0.025 C 
+ATOM     14  C11 HUP d           3.686  66.009  64.256  0.00  0.00    -0.036 C 
+ATOM     15  C12 HUP d           2.924  66.878  65.285  0.00  0.00     0.179 C 
+ATOM     16  C13 HUP d           3.817  68.069  65.744  0.00  0.00     0.082 C 
+ATOM     17  C14 HUP d           4.805  68.596  64.719  0.00  0.00    -0.084 C 
+ATOM     18  C15 HUP d           5.640  69.764  65.200  0.00  0.00     0.043 C 
+ENDROOT
+BRANCH  15  19
+ATOM     19  N2  HUP d           2.549  66.087  66.490  0.00  0.00    -0.062 N 
+ATOM     20  H12 HUP d           2.909  65.150  66.402  0.00  0.00     0.276 HD
+ATOM     21  H13 HUP d           1.545  66.056  66.572  0.00  0.00     0.276 HD
+ATOM     22  H14 HUP d           2.940  66.521  67.312  0.00  0.00     0.276 HD
+ENDBRANCH  15  19
+TORSDOF 1
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -8.2      2.740      4.832
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C12_18  and  N2_19 
+ROOT
+ATOM      1  H1  HUP d           4.386  69.382  67.018  0.00  0.00     0.169 HD
+ATOM      2  C1  HUP d           5.845  70.187  65.807  0.00  0.00     0.245 A 
+ATOM      3  O1  HUP d           6.271  70.986  66.684  0.00  0.00    -0.268 OA
+ATOM      4  N1  HUP d           4.781  69.330  66.101  0.00  0.00    -0.327 N 
+ATOM      5  C2  HUP d           6.393  70.083  64.462  0.00  0.00     0.075 A 
+ATOM      6  C3  HUP d           5.874  69.176  63.560  0.00  0.00     0.017 A 
+ATOM      7  C4  HUP d           4.770  68.291  63.883  0.00  0.00     0.005 A 
+ATOM      8  C5  HUP d           4.224  68.397  65.202  0.00  0.00     0.022 A 
+ATOM      9  C6  HUP d           3.077  67.559  65.716  0.00  0.00     0.070 C 
+ATOM     10  C7  HUP d           2.474  66.573  64.620  0.00  0.00     0.045 C 
+ATOM     11  C8  HUP d           1.384  67.251  63.764  0.00  0.00    -0.015 C 
+ATOM     12  C9  HUP d           3.530  63.600  64.275  0.00  0.00     0.036 C 
+ATOM     13  C10 HUP d           4.007  64.816  63.540  0.00  0.00    -0.025 C 
+ATOM     14  C11 HUP d           3.590  66.068  63.677  0.00  0.00    -0.036 C 
+ATOM     15  C12 HUP d           4.174  67.238  62.849  0.00  0.00     0.179 C 
+ATOM     16  C13 HUP d           3.055  67.893  61.987  0.00  0.00     0.082 C 
+ATOM     17  C14 HUP d           1.653  67.850  62.569  0.00  0.00    -0.084 C 
+ATOM     18  C15 HUP d           0.599  68.513  61.708  0.00  0.00     0.043 C 
+ENDROOT
+BRANCH  15  19
+ATOM     19  N2  HUP d           5.251  66.769  61.933  0.00  0.00    -0.062 N 
+ATOM     20  H12 HUP d           6.137  66.795  62.414  0.00  0.00     0.276 HD
+ATOM     21  H13 HUP d           5.290  67.369  61.125  0.00  0.00     0.276 HD
+ATOM     22  H14 HUP d           5.056  65.824  61.640  0.00  0.00     0.276 HD
+ENDBRANCH  15  19
+TORSDOF 1
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -8.1      1.430      1.813
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C12_18  and  N2_19 
+ROOT
+ATOM      1  H1  HUP d           2.678  69.266  61.262  0.00  0.00     0.169 HD
+ATOM      2  C1  HUP d           0.624  69.119  61.287  0.00  0.00     0.245 A 
+ATOM      3  O1  HUP d           0.474  69.635  60.147  0.00  0.00    -0.268 OA
+ATOM      4  N1  HUP d           1.906  68.959  61.818  0.00  0.00    -0.327 N 
+ATOM      5  C2  HUP d          -0.475  68.661  62.127  0.00  0.00     0.075 A 
+ATOM      6  C3  HUP d          -0.227  68.101  63.363  0.00  0.00     0.017 A 
+ATOM      7  C4  HUP d           1.112  67.938  63.899  0.00  0.00     0.005 A 
+ATOM      8  C5  HUP d           2.193  68.395  63.079  0.00  0.00     0.022 A 
+ATOM      9  C6  HUP d           3.650  68.308  63.469  0.00  0.00     0.070 C 
+ATOM     10  C7  HUP d           3.879  67.710  64.928  0.00  0.00     0.045 C 
+ATOM     11  C8  HUP d           3.818  68.800  66.019  0.00  0.00    -0.015 C 
+ATOM     12  C9  HUP d           4.318  64.606  65.419  0.00  0.00     0.036 C 
+ATOM     13  C10 HUP d           3.017  65.349  65.461  0.00  0.00    -0.025 C 
+ATOM     14  C11 HUP d           2.808  66.642  65.246  0.00  0.00    -0.036 C 
+ATOM     15  C12 HUP d           1.403  67.284  65.320  0.00  0.00     0.179 C 
+ATOM     16  C13 HUP d           1.369  68.368  66.437  0.00  0.00     0.082 C 
+ATOM     17  C14 HUP d           2.676  69.095  66.701  0.00  0.00    -0.084 C 
+ATOM     18  C15 HUP d           2.595  70.152  67.782  0.00  0.00     0.043 C 
+ENDROOT
+BRANCH  15  19
+ATOM     19  N2  HUP d           0.358  66.267  65.628  0.00  0.00    -0.062 N 
+ATOM     20  H12 HUP d           0.713  65.347  65.420  0.00  0.00     0.276 HD
+ATOM     21  H13 HUP d          -0.460  66.447  65.068  0.00  0.00     0.276 HD
+ATOM     22  H14 HUP d           0.114  66.320  66.605  0.00  0.00     0.276 HD
+ENDBRANCH  15  19
+TORSDOF 1
+ENDMDL

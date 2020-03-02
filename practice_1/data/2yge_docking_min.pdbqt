@@ -1,0 +1,142 @@
+MODEL 1
+REMARK VINA RESULT:      -9.7      0.000      0.000
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_6  and  O25_25 
+REMARK    2  A    between atoms: C10_10  and  O28_28 
+REMARK    3  A    between atoms: C11_11  and  O30_30 
+REMARK    4  A    between atoms: C15_15  and  O33_33 
+REMARK    5  A    between atoms: C16_16  and  O37_37 
+REMARK    6  A    between atoms: O33_33  and  C34_34 
+REMARK       I    between atoms: C34_34  and  N36_36 
+ROOT
+ATOM      1  C1  GMY d          25.987 -34.252  -5.173  0.00  0.00     0.032 A 
+ATOM      2  C2  GMY d          26.046 -34.023  -3.664  0.00  0.00     0.207 A 
+ATOM      3  C3  GMY d          25.552 -32.699  -3.065  0.00  0.00     0.090 A 
+ATOM      4  C4  GMY d          25.013 -31.656  -3.938  0.00  0.00     0.091 A 
+ATOM      5  C5  GMY d          24.966 -31.876  -5.455  0.00  0.00     0.208 A 
+ATOM      6  C6  GMY d          25.449 -33.203  -6.044  0.00  0.00     0.128 A 
+ATOM      7  C7  GMY d          25.920 -35.714  -5.646  0.00  0.00     0.050 C 
+ATOM      8  C8  GMY d          24.423 -36.029  -5.506  0.00  0.00    -0.012 C 
+ATOM      9  C9  GMY d          23.815 -36.186  -6.908  0.00  0.00     0.039 C 
+ATOM     10  C10 GMY d          22.492 -36.962  -6.838  0.00  0.00     0.150 C 
+ATOM     11  C11 GMY d          21.470 -36.347  -7.817  0.00  0.00     0.154 C 
+ATOM     12  C12 GMY d          21.223 -34.867  -7.449  0.00  0.00     0.035 C 
+ATOM     13  C13 GMY d          20.332 -34.801  -6.204  0.00  0.00    -0.015 C 
+ATOM     14  C14 GMY d          20.465 -33.707  -5.243  0.00  0.00    -0.055 C 
+ATOM     15  C15 GMY d          19.532 -33.683  -4.037  0.00  0.00     0.194 C 
+ATOM     16  C16 GMY d          20.374 -33.873  -2.767  0.00  0.00     0.177 C 
+ATOM     17  C17 GMY d          20.867 -35.331  -2.716  0.00  0.00     0.008 C 
+ATOM     18  C18 GMY d          22.158 -35.595  -2.063  0.00  0.00    -0.001 C 
+ATOM     19  C19 GMY d          23.147 -34.437  -1.876  0.00  0.00     0.012 C 
+ATOM     20  C20 GMY d          24.407 -34.706  -1.169  0.00  0.00     0.006 C 
+ATOM     21  C21 GMY d          25.192 -33.493  -0.676  0.00  0.00     0.251 C 
+ATOM     22  N22 GMY d          25.610 -32.476  -1.622  0.00  0.00    -0.320 N 
+ATOM     23  O23 GMY d          26.480 -34.897  -2.962  0.00  0.00    -0.285 OA
+ATOM     24  O24 GMY d          24.535 -31.034  -6.185  0.00  0.00    -0.285 OA
+ATOM     25  C27 GMY d          24.227 -37.247  -4.587  0.00  0.00     0.010 C 
+ATOM     26  C31 GMY d          20.439 -34.184  -8.583  0.00  0.00     0.017 C 
+ATOM     27  C32 GMY d          21.504 -32.587  -5.432  0.00  0.00     0.046 C 
+ATOM     28  C39 GMY d          24.582 -36.018  -0.388  0.00  0.00     0.054 C 
+ATOM     29  O40 GMY d          25.459 -33.391   0.485  0.00  0.00    -0.268 OA
+ATOM     30  H   GMY d          25.953 -31.582  -1.272  0.00  0.00     0.169 HD
+ENDROOT
+BRANCH  15  31
+ATOM     31  O33 GMY d          18.972 -32.381  -4.006  0.00  0.00    -0.291 OA
+BRANCH  31  32
+ATOM     32  C34 GMY d          17.577 -32.334  -4.325  0.00  0.00     0.359 C 
+ATOM     33  O35 GMY d          17.026 -33.189  -4.969  0.00  0.00    -0.239 OA
+ATOM     34  N36 GMY d          16.836 -31.164  -3.860  0.00  0.00    -0.346 N 
+ATOM     35  H   GMY d          15.845 -31.068  -4.080  0.00  0.00     0.161 HD
+ATOM     36  H   GMY d          17.310 -30.444  -3.315  0.00  0.00     0.161 HD
+ENDBRANCH  31  32
+ENDBRANCH  15  31
+BRANCH  16  37
+ATOM     37  O37 GMY d          19.578 -33.589  -1.613  0.00  0.00    -0.384 OA
+ATOM     38  C38 GMY d          18.620 -34.625  -1.387  0.00  0.00     0.202 C 
+ENDBRANCH  16  37
+BRANCH  11  39
+ATOM     39  O30 GMY d          21.976 -36.421  -9.150  0.00  0.00    -0.392 OA
+ATOM     40  H   GMY d          21.450 -37.043  -9.657  0.00  0.00     0.210 HD
+ENDBRANCH  11  39
+BRANCH  10  41
+ATOM     41  O28 GMY d          22.756 -38.323  -7.188  0.00  0.00    -0.388 OA
+ATOM     42  C29 GMY d          21.643 -39.160  -6.835  0.00  0.00     0.202 C 
+ENDBRANCH  10  41
+BRANCH   6  43
+ATOM     43  O25 GMY d          25.392 -33.389  -7.456  0.00  0.00    -0.351 OA
+ATOM     44  C26 GMY d          26.658 -33.011  -8.016  0.00  0.00     0.210 C 
+ENDBRANCH   6  43
+TORSDOF 6
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -6.8      2.332      6.145
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_6  and  O25_25 
+REMARK    2  A    between atoms: C10_10  and  O28_28 
+REMARK    3  A    between atoms: C11_11  and  O30_30 
+REMARK    4  A    between atoms: C15_15  and  O33_33 
+REMARK    5  A    between atoms: C16_16  and  O37_37 
+REMARK    6  A    between atoms: O33_33  and  C34_34 
+REMARK       I    between atoms: C34_34  and  N36_36 
+ROOT
+ATOM      1  C1  GMY d          24.627 -37.152  -6.480  0.00  0.00     0.032 A 
+ATOM      2  C2  GMY d          23.448 -37.667  -7.303  0.00  0.00     0.207 A 
+ATOM      3  C3  GMY d          22.209 -38.241  -6.601  0.00  0.00     0.090 A 
+ATOM      4  C4  GMY d          22.150 -38.287  -5.140  0.00  0.00     0.091 A 
+ATOM      5  C5  GMY d          23.337 -37.785  -4.310  0.00  0.00     0.208 A 
+ATOM      6  C6  GMY d          24.564 -37.203  -5.017  0.00  0.00     0.128 A 
+ATOM      7  C7  GMY d          25.524 -36.096  -7.147  0.00  0.00     0.050 C 
+ATOM      8  C8  GMY d          24.739 -34.800  -6.894  0.00  0.00    -0.012 C 
+ATOM      9  C9  GMY d          25.513 -33.938  -5.886  0.00  0.00     0.039 C 
+ATOM     10  C10 GMY d          25.057 -32.475  -5.967  0.00  0.00     0.150 C 
+ATOM     11  C11 GMY d          24.987 -31.867  -4.550  0.00  0.00     0.154 C 
+ATOM     12  C12 GMY d          23.991 -32.674  -3.687  0.00  0.00     0.035 C 
+ATOM     13  C13 GMY d          22.560 -32.312  -4.102  0.00  0.00    -0.015 C 
+ATOM     14  C14 GMY d          21.483 -33.297  -4.019  0.00  0.00    -0.055 C 
+ATOM     15  C15 GMY d          20.076 -32.870  -4.422  0.00  0.00     0.194 C 
+ATOM     16  C16 GMY d          19.664 -33.666  -5.668  0.00  0.00     0.177 C 
+ATOM     17  C17 GMY d          20.473 -33.151  -6.873  0.00  0.00     0.008 C 
+ATOM     18  C18 GMY d          20.790 -34.107  -7.945  0.00  0.00    -0.001 C 
+ATOM     19  C19 GMY d          20.723 -35.610  -7.644  0.00  0.00     0.012 C 
+ATOM     20  C20 GMY d          20.985 -36.551  -8.741  0.00  0.00     0.006 C 
+ATOM     21  C21 GMY d          20.559 -38.000  -8.522  0.00  0.00     0.251 C 
+ATOM     22  N22 GMY d          21.081 -38.737  -7.387  0.00  0.00    -0.320 N 
+ATOM     23  O23 GMY d          23.510 -37.609  -8.502  0.00  0.00    -0.285 OA
+ATOM     24  O24 GMY d          23.311 -37.819  -3.116  0.00  0.00    -0.285 OA
+ATOM     25  C27 GMY d          24.437 -34.101  -8.231  0.00  0.00     0.010 C 
+ATOM     26  C31 GMY d          24.137 -32.255  -2.215  0.00  0.00     0.017 C 
+ATOM     27  C32 GMY d          21.737 -34.733  -3.525  0.00  0.00     0.046 C 
+ATOM     28  C39 GMY d          21.024 -36.044 -10.192  0.00  0.00     0.054 C 
+ATOM     29  O40 GMY d          19.802 -38.518  -9.288  0.00  0.00    -0.268 OA
+ATOM     30  H   GMY d          20.649 -39.625  -7.130  0.00  0.00     0.169 HD
+ENDROOT
+BRANCH  15  31
+ATOM     31  O33 GMY d          19.232 -33.256  -3.351  0.00  0.00    -0.291 OA
+BRANCH  31  32
+ATOM     32  C34 GMY d          18.492 -32.178  -2.767  0.00  0.00     0.359 C 
+ATOM     33  O35 GMY d          18.679 -31.792  -1.642  0.00  0.00    -0.239 OA
+ATOM     34  N36 GMY d          17.452 -31.571  -3.595  0.00  0.00    -0.346 N 
+ATOM     35  H   GMY d          16.879 -30.814  -3.221  0.00  0.00     0.161 HD
+ATOM     36  H   GMY d          17.300 -31.903  -4.548  0.00  0.00     0.161 HD
+ENDBRANCH  31  32
+ENDBRANCH  15  31
+BRANCH  16  37
+ATOM     37  O37 GMY d          18.265 -33.491  -5.912  0.00  0.00    -0.384 OA
+ATOM     38  C38 GMY d          17.605 -34.754  -6.024  0.00  0.00     0.202 C 
+ENDBRANCH  16  37
+BRANCH  11  39
+ATOM     39  O30 GMY d          26.278 -31.914  -3.942  0.00  0.00    -0.392 OA
+ATOM     40  H   GMY d          26.421 -32.783  -3.561  0.00  0.00     0.210 HD
+ENDBRANCH  11  39
+BRANCH  10  41
+ATOM     41  O28 GMY d          26.002 -31.758  -6.767  0.00  0.00    -0.388 OA
+ATOM     42  C29 GMY d          25.600 -30.387  -6.915  0.00  0.00     0.202 C 
+ENDBRANCH  10  41
+BRANCH   6  43
+ATOM     43  O25 GMY d          25.655 -36.737  -4.225  0.00  0.00    -0.351 OA
+ATOM     44  C26 GMY d          26.703 -37.715  -4.275  0.00  0.00     0.210 C 
+ENDBRANCH   6  43
+TORSDOF 6
+ENDMDL

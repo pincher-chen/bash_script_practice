@@ -1,0 +1,37 @@
+MODEL 1
+REMARK VINA RESULT:     -12.4      0.000      0.000
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C14_18  and  N2_4 
+REMARK    2  A    between atoms: C18_22  and  C8_12 
+ROOT
+ATOM      1  N1  HUX d           5.812  69.716  65.261  0.00  0.00    -0.252 NA
+ATOM      2  C1  HUX d           6.591  70.847  68.711  0.00  0.00     0.036 A 
+ATOM      3  C2  HUX d           6.728  70.495  67.276  0.00  0.00     0.056 A 
+ATOM      4  C3  HUX d           5.569  70.070  66.656  0.00  0.00     0.071 A 
+ATOM      5  C4  HUX d           4.763  69.243  64.557  0.00  0.00     0.044 A 
+ATOM      6  C5  HUX d           5.146  68.855  63.028  0.00  0.00     0.068 C 
+ATOM      7  C6  HUX d           4.143  67.864  62.413  0.00  0.00     0.015 C 
+ATOM      8  C7  HUX d           4.118  66.384  63.192  0.00  0.00    -0.019 C 
+ATOM      9  C8  HUX d           3.287  66.002  64.165  0.00  0.00    -0.083 C 
+ATOM     10  C9  HUX d           2.246  67.012  64.589  0.00  0.00     0.043 C 
+ATOM     11  C11 HUX d           2.387  68.449  64.106  0.00  0.00     0.027 C 
+ATOM     12  C12 HUX d           2.744  68.427  62.556  0.00  0.00     0.018 C 
+ATOM     13  C13 HUX d           3.469  69.050  65.011  0.00  0.00    -0.002 A 
+ATOM     14  C14 HUX d           3.224  69.437  66.443  0.00  0.00     0.047 A 
+ATOM     15  C15 HUX d           4.314  69.930  67.200  0.00  0.00     0.019 A 
+ATOM     16  C16 HUX d           4.132  70.312  68.648  0.00  0.00     0.018 A 
+ATOM     17  C17 HUX d           5.219  70.731  69.322  0.00  0.00     0.025 A 
+ATOM     18 CL1  HUX d           7.872  71.317  69.663  0.00  0.00    -0.084 Cl
+ENDROOT
+BRANCH  14  19
+ATOM     19  N2  HUX d           1.946  69.252  66.935  0.00  0.00    -0.398 N 
+ATOM     20  H1  HUX d           1.456  70.028  67.403  0.00  0.00     0.156 HD
+ATOM     21  H2  HUX d           1.482  68.337  66.835  0.00  0.00     0.156 HD
+ENDBRANCH  14  19
+BRANCH   9  22
+ATOM     22  C18 HUX d           3.459  64.560  64.784  0.00  0.00     0.029 C 
+ATOM     23  C10 HUX d           4.462  63.555  64.172  0.00  0.00     0.010 C 
+ENDBRANCH   9  22
+TORSDOF 2
+ENDMDL

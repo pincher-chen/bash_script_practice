@@ -1,0 +1,320 @@
+MODEL 1
+REMARK VINA RESULT:      -6.0      0.000      0.000
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_7  and  P1_1 
+REMARK    2  A    between atoms: N1_10  and  C1_7 
+REMARK    3  A    between atoms: C2_8  and  C3_9 
+REMARK    4  A    between atoms: C2_8  and  N1_10 
+ROOT
+ATOM      1  N1  GPJ d          60.101   8.257  29.345  0.00  0.00    -0.053 N 
+ATOM      2  H5  GPJ d          61.049   8.579  29.467  0.00  0.00     0.278 HD
+ATOM      3  H6  GPJ d          60.109   7.326  28.959  0.00  0.00     0.278 HD
+ENDROOT
+BRANCH   1   4
+ATOM      4  C1  GPJ d          59.486   9.122  28.345  0.00  0.00     0.377 C 
+BRANCH   4   5
+ATOM      5  P1  GPJ d          60.338   9.054  26.845  0.00  0.00     0.285 P 
+ATOM      6  O1  GPJ d          60.861  10.416  26.535  0.00  0.00    -0.638 OA
+ATOM      7  O2  GPJ d          59.303   8.575  25.890  0.00  0.00    -0.638 OA
+ATOM      8  O3  GPJ d          61.453   8.068  26.989  0.00  0.00    -0.638 OA
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+BRANCH   1   9
+ATOM      9  C2  GPJ d          59.511   8.153  30.692  0.00  0.00     0.345 C 
+BRANCH   9  10
+ATOM     10  C3  GPJ d          60.392   8.828  31.722  0.00  0.00     0.199 C 
+ATOM     11  O4  GPJ d          61.012   9.901  31.405  0.00  0.00    -0.647 OA
+ATOM     12  O5  GPJ d          60.453   8.301  32.822  0.00  0.00    -0.647 OA
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -5.3      2.690      3.378
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_7  and  P1_1 
+REMARK    2  A    between atoms: N1_10  and  C1_7 
+REMARK    3  A    between atoms: C2_8  and  C3_9 
+REMARK    4  A    between atoms: C2_8  and  N1_10 
+ROOT
+ATOM      1  N1  GPJ d          58.436   8.337  28.963  0.00  0.00    -0.053 N 
+ATOM      2  H5  GPJ d          58.319   7.569  29.607  0.00  0.00     0.278 HD
+ATOM      3  H6  GPJ d          58.045   8.088  28.068  0.00  0.00     0.278 HD
+ENDROOT
+BRANCH   1   4
+ATOM      4  C1  GPJ d          59.871   8.506  28.765  0.00  0.00     0.377 C 
+BRANCH   4   5
+ATOM      5  P1  GPJ d          60.238   8.887  27.121  0.00  0.00     0.285 P 
+ATOM      6  O1  GPJ d          60.471  10.357  27.016  0.00  0.00    -0.638 OA
+ATOM      7  O2  GPJ d          59.032   8.415  26.388  0.00  0.00    -0.638 OA
+ATOM      8  O3  GPJ d          61.457   8.118  26.728  0.00  0.00    -0.638 OA
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+BRANCH   1   9
+ATOM      9  C2  GPJ d          57.627   9.454  29.483  0.00  0.00     0.345 C 
+BRANCH   9  10
+ATOM     10  C3  GPJ d          56.154   9.221  29.225  0.00  0.00     0.199 C 
+ATOM     11  O4  GPJ d          55.332   9.287  30.202  0.00  0.00    -0.647 OA
+ATOM     12  O5  GPJ d          55.828   8.989  28.071  0.00  0.00    -0.647 OA
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -5.3      3.360      4.751
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_7  and  P1_1 
+REMARK    2  A    between atoms: N1_10  and  C1_7 
+REMARK    3  A    between atoms: C2_8  and  C3_9 
+REMARK    4  A    between atoms: C2_8  and  N1_10 
+ROOT
+ATOM      1  N1  GPJ d          58.391   8.598  28.370  0.00  0.00    -0.053 N 
+ATOM      2  H5  GPJ d          58.119   9.106  27.542  0.00  0.00     0.278 HD
+ATOM      3  H6  GPJ d          58.079   7.642  28.296  0.00  0.00     0.278 HD
+ENDROOT
+BRANCH   1   4
+ATOM      4  C1  GPJ d          57.665   9.193  29.487  0.00  0.00     0.377 C 
+BRANCH   4   5
+ATOM      5  P1  GPJ d          56.034   9.556  29.055  0.00  0.00     0.285 P 
+ATOM      6  O1  GPJ d          55.963  10.986  28.633  0.00  0.00    -0.638 OA
+ATOM      7  O2  GPJ d          55.279   9.259  30.302  0.00  0.00    -0.638 OA
+ATOM      8  O3  GPJ d          55.635   8.645  27.939  0.00  0.00    -0.638 OA
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+BRANCH   1   9
+ATOM      9  C2  GPJ d          59.864   8.565  28.383  0.00  0.00     0.345 C 
+BRANCH   9  10
+ATOM     10  C3  GPJ d          60.425   8.905  27.019  0.00  0.00     0.199 C 
+ATOM     11  O4  GPJ d          59.945   9.903  26.379  0.00  0.00    -0.647 OA
+ATOM     12  O5  GPJ d          61.330   8.197  26.605  0.00  0.00    -0.647 OA
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -5.3      4.370      4.906
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_7  and  P1_1 
+REMARK    2  A    between atoms: N1_10  and  C1_7 
+REMARK    3  A    between atoms: C2_8  and  C3_9 
+REMARK    4  A    between atoms: C2_8  and  N1_10 
+ROOT
+ATOM      1  N1  GPJ d          56.790   9.191  30.035  0.00  0.00    -0.053 N 
+ATOM      2  H5  GPJ d          56.428   8.305  29.716  0.00  0.00     0.278 HD
+ATOM      3  H6  GPJ d          56.866   9.180  31.041  0.00  0.00     0.278 HD
+ENDROOT
+BRANCH   1   4
+ATOM      4  C1  GPJ d          55.793  10.200  29.699  0.00  0.00     0.377 C 
+BRANCH   4   5
+ATOM      5  P1  GPJ d          54.532   9.538  28.723  0.00  0.00     0.285 P 
+ATOM      6  O1  GPJ d          53.740  10.662  28.145  0.00  0.00    -0.638 OA
+ATOM      7  O2  GPJ d          53.768   8.696  29.684  0.00  0.00    -0.638 OA
+ATOM      8  O3  GPJ d          55.162   8.713  27.648  0.00  0.00    -0.638 OA
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+BRANCH   1   9
+ATOM      9  C2  GPJ d          58.161   9.305  29.508  0.00  0.00     0.345 C 
+BRANCH   9  10
+ATOM     10  C3  GPJ d          58.909   7.997  29.657  0.00  0.00     0.199 C 
+ATOM     11  O4  GPJ d          59.222   7.335  28.609  0.00  0.00    -0.647 OA
+ATOM     12  O5  GPJ d          59.184   7.649  30.795  0.00  0.00    -0.647 OA
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -5.3      3.421      3.870
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_7  and  P1_1 
+REMARK    2  A    between atoms: N1_10  and  C1_7 
+REMARK    3  A    between atoms: C2_8  and  C3_9 
+REMARK    4  A    between atoms: C2_8  and  N1_10 
+ROOT
+ATOM      1  N1  GPJ d          58.477   9.333  30.246  0.00  0.00    -0.053 N 
+ATOM      2  H5  GPJ d          58.023   9.449  31.139  0.00  0.00     0.278 HD
+ATOM      3  H6  GPJ d          58.800  10.228  29.915  0.00  0.00     0.278 HD
+ENDROOT
+BRANCH   1   4
+ATOM      4  C1  GPJ d          57.456   8.879  29.309  0.00  0.00     0.377 C 
+BRANCH   4   5
+ATOM      5  P1  GPJ d          56.019   9.828  29.437  0.00  0.00     0.285 P 
+ATOM      6  O1  GPJ d          55.194   9.288  30.557  0.00  0.00    -0.638 OA
+ATOM      7  O2  GPJ d          55.391   9.673  28.098  0.00  0.00    -0.638 OA
+ATOM      8  O3  GPJ d          56.419  11.244  29.697  0.00  0.00    -0.638 OA
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+BRANCH   1   9
+ATOM      9  C2  GPJ d          59.677   8.511  30.483  0.00  0.00     0.345 C 
+BRANCH   9  10
+ATOM     10  C3  GPJ d          60.442   9.005  31.692  0.00  0.00     0.199 C 
+ATOM     11  O4  GPJ d          60.987  10.161  31.654  0.00  0.00    -0.647 OA
+ATOM     12  O5  GPJ d          60.486   8.258  32.657  0.00  0.00    -0.647 OA
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -5.2      4.242      5.267
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_7  and  P1_1 
+REMARK    2  A    between atoms: N1_10  and  C1_7 
+REMARK    3  A    between atoms: C2_8  and  C3_9 
+REMARK    4  A    between atoms: C2_8  and  N1_10 
+ROOT
+ATOM      1  N1  GPJ d          56.843   9.085  29.979  0.00  0.00    -0.053 N 
+ATOM      2  H5  GPJ d          56.438   8.217  29.662  0.00  0.00     0.278 HD
+ATOM      3  H6  GPJ d          56.709   9.174  30.974  0.00  0.00     0.278 HD
+ENDROOT
+BRANCH   1   4
+ATOM      4  C1  GPJ d          56.083  10.160  29.353  0.00  0.00     0.377 C 
+BRANCH   4   5
+ATOM      5  P1  GPJ d          54.604   9.574  28.680  0.00  0.00     0.285 P 
+ATOM      6  O1  GPJ d          53.841   8.873  29.752  0.00  0.00    -0.638 OA
+ATOM      7  O2  GPJ d          55.064   8.678  27.584  0.00  0.00    -0.638 OA
+ATOM      8  O3  GPJ d          53.840  10.745  28.150  0.00  0.00    -0.638 OA
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+BRANCH   1   9
+ATOM      9  C2  GPJ d          58.296   8.982  29.754  0.00  0.00     0.345 C 
+BRANCH   9  10
+ATOM     10  C3  GPJ d          58.615   8.966  28.275  0.00  0.00     0.199 C 
+ATOM     11  O4  GPJ d          59.213   9.969  27.755  0.00  0.00    -0.647 OA
+ATOM     12  O5  GPJ d          58.282   7.969  27.652  0.00  0.00    -0.647 OA
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -5.1      4.198      4.907
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_7  and  P1_1 
+REMARK    2  A    between atoms: N1_10  and  C1_7 
+REMARK    3  A    between atoms: C2_8  and  C3_9 
+REMARK    4  A    between atoms: C2_8  and  N1_10 
+ROOT
+ATOM      1  N1  GPJ d          56.653   9.457  29.961  0.00  0.00    -0.053 N 
+ATOM      2  H5  GPJ d          57.431   9.940  30.383  0.00  0.00     0.278 HD
+ATOM      3  H6  GPJ d          56.222   8.854  30.643  0.00  0.00     0.278 HD
+ENDROOT
+BRANCH   1   4
+ATOM      4  C1  GPJ d          57.206   8.592  28.924  0.00  0.00     0.377 C 
+BRANCH   4   5
+ATOM      5  P1  GPJ d          58.919   8.774  28.801  0.00  0.00     0.285 P 
+ATOM      6  O1  GPJ d          59.210   9.856  27.816  0.00  0.00    -0.638 OA
+ATOM      7  O2  GPJ d          59.370   7.425  28.364  0.00  0.00    -0.638 OA
+ATOM      8  O3  GPJ d          59.447   9.120  30.155  0.00  0.00    -0.638 OA
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+BRANCH   1   9
+ATOM      9  C2  GPJ d          55.656  10.483  29.610  0.00  0.00     0.345 C 
+BRANCH   9  10
+ATOM     10  C3  GPJ d          54.303   9.856  29.350  0.00  0.00     0.199 C 
+ATOM     11  O4  GPJ d          53.890   8.922  30.119  0.00  0.00    -0.647 OA
+ATOM     12  O5  GPJ d          53.667  10.295  28.404  0.00  0.00    -0.647 OA
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -5.1      3.468      4.602
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_7  and  P1_1 
+REMARK    2  A    between atoms: N1_10  and  C1_7 
+REMARK    3  A    between atoms: C2_8  and  C3_9 
+REMARK    4  A    between atoms: C2_8  and  N1_10 
+ROOT
+ATOM      1  N1  GPJ d          57.207  10.261  29.931  0.00  0.00    -0.053 N 
+ATOM      2  H5  GPJ d          58.071  10.769  29.821  0.00  0.00     0.278 HD
+ATOM      3  H6  GPJ d          56.956  10.231  30.907  0.00  0.00     0.278 HD
+ENDROOT
+BRANCH   1   4
+ATOM      4  C1  GPJ d          57.472   8.886  29.522  0.00  0.00     0.377 C 
+BRANCH   4   5
+ATOM      5  P1  GPJ d          59.068   8.716  28.886  0.00  0.00     0.285 P 
+ATOM      6  O1  GPJ d          59.216   7.334  28.342  0.00  0.00    -0.638 OA
+ATOM      7  O2  GPJ d          59.932   8.993  30.065  0.00  0.00    -0.638 OA
+ATOM      8  O3  GPJ d          59.252   9.741  27.814  0.00  0.00    -0.638 OA
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+BRANCH   1   9
+ATOM      9  C2  GPJ d          56.163  11.044  29.248  0.00  0.00     0.345 C 
+BRANCH   9  10
+ATOM     10  C3  GPJ d          56.767  12.212  28.496  0.00  0.00     0.199 C 
+ATOM     11  O4  GPJ d          57.858  12.727  28.919  0.00  0.00    -0.647 OA
+ATOM     12  O5  GPJ d          56.167  12.596  27.505  0.00  0.00    -0.647 OA
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -5.0      4.219      4.996
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_7  and  P1_1 
+REMARK    2  A    between atoms: N1_10  and  C1_7 
+REMARK    3  A    between atoms: C2_8  and  C3_9 
+REMARK    4  A    between atoms: C2_8  and  N1_10 
+ROOT
+ATOM      1  N1  GPJ d          56.655   9.889  29.788  0.00  0.00    -0.053 N 
+ATOM      2  H5  GPJ d          57.438  10.511  29.920  0.00  0.00     0.278 HD
+ATOM      3  H6  GPJ d          56.385   9.495  30.675  0.00  0.00     0.278 HD
+ENDROOT
+BRANCH   1   4
+ATOM      4  C1  GPJ d          57.130   8.783  28.963  0.00  0.00     0.377 C 
+BRANCH   4   5
+ATOM      5  P1  GPJ d          58.852   8.788  28.835  0.00  0.00     0.285 P 
+ATOM      6  O1  GPJ d          59.426   9.068  30.184  0.00  0.00    -0.638 OA
+ATOM      7  O2  GPJ d          59.113   9.859  27.836  0.00  0.00    -0.638 OA
+ATOM      8  O3  GPJ d          59.284   7.448  28.333  0.00  0.00    -0.638 OA
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+BRANCH   1   9
+ATOM      9  C2  GPJ d          55.527  10.717  29.329  0.00  0.00     0.345 C 
+BRANCH   9  10
+ATOM     10  C3  GPJ d          54.268   9.887  29.187  0.00  0.00     0.199 C 
+ATOM     11  O4  GPJ d          53.924   9.109  30.141  0.00  0.00    -0.647 OA
+ATOM     12  O5  GPJ d          53.638  10.020  28.149  0.00  0.00    -0.647 OA
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:      -4.6      3.575      4.590
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_7  and  P1_1 
+REMARK    2  A    between atoms: N1_10  and  C1_7 
+REMARK    3  A    between atoms: C2_8  and  C3_9 
+REMARK    4  A    between atoms: C2_8  and  N1_10 
+ROOT
+ATOM      1  N1  GPJ d          56.652   9.297  29.145  0.00  0.00    -0.053 N 
+ATOM      2  H5  GPJ d          56.723   9.440  28.149  0.00  0.00     0.278 HD
+ATOM      3  H6  GPJ d          55.840   8.735  29.346  0.00  0.00     0.278 HD
+ENDROOT
+BRANCH   1   4
+ATOM      4  C1  GPJ d          56.418  10.606  29.745  0.00  0.00     0.377 C 
+BRANCH   4   5
+ATOM      5  P1  GPJ d          57.164  11.862  28.824  0.00  0.00     0.285 P 
+ATOM      6  O1  GPJ d          56.138  12.460  27.921  0.00  0.00    -0.638 OA
+ATOM      7  O2  GPJ d          58.256  11.151  28.106  0.00  0.00    -0.638 OA
+ATOM      8  O3  GPJ d          57.703  12.879  29.778  0.00  0.00    -0.638 OA
+ENDBRANCH   4   5
+ENDBRANCH   1   4
+BRANCH   1   9
+ATOM      9  C2  GPJ d          57.828   8.503  29.545  0.00  0.00     0.345 C 
+BRANCH   9  10
+ATOM     10  C3  GPJ d          58.430   7.790  28.353  0.00  0.00     0.199 C 
+ATOM     11  O4  GPJ d          59.560   7.206  28.482  0.00  0.00    -0.647 OA
+ATOM     12  O5  GPJ d          57.782   7.807  27.318  0.00  0.00    -0.647 OA
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL

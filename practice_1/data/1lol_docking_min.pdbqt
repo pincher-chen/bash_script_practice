@@ -1,0 +1,540 @@
+MODEL 1
+REMARK VINA RESULT:      -8.4      0.000      0.000
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: P_1  and  O5'_4 
+REMARK    2  A    between atoms: O5'_4  and  C5'_6 
+REMARK    3  A    between atoms: C5'_6  and  C4'_7 
+REMARK    4  A    between atoms: C1'_9  and  N9_10 
+REMARK    5  A    between atoms: C2'_21  and  O2'_22 
+REMARK    6  A    between atoms: C3'_23  and  O3'_24 
+ROOT
+ATOM      1  C4' XMP d           1.957  39.030  46.846  0.00  0.00     0.180 C 
+ATOM      2  O4' XMP d           2.109  40.024  47.912  0.00  0.00    -0.353 OA
+ATOM      3  C1' XMP d           1.078  41.019  47.782  0.00  0.00     0.262 C 
+ATOM      4  C2' XMP d           0.244  40.668  46.557  0.00  0.00     0.198 C 
+ATOM      5  C3' XMP d           1.153  39.764  45.777  0.00  0.00     0.182 C 
+ENDROOT
+BRANCH   3   6
+ATOM      6  N9  XMP d           1.754  42.338  47.786  0.00  0.00    -0.295 N 
+ATOM      7  C4  XMP d           1.462  43.341  48.687  0.00  0.00     0.149 A 
+ATOM      8  N3  XMP d           0.524  43.295  49.705  0.00  0.00    -0.292 N 
+ATOM      9  C5  XMP d           2.303  44.383  48.355  0.00  0.00     0.170 A 
+ATOM     10  C2  XMP d           0.490  44.456  50.418  0.00  0.00     0.328 A 
+ATOM     11  H5  XMP d          -0.059  42.505  49.894  0.00  0.00     0.172 HD
+ATOM     12  N1  XMP d           1.304  45.562  50.152  0.00  0.00    -0.273 N 
+ATOM     13  O2  XMP d          -0.276  44.607  51.365  0.00  0.00    -0.247 OA
+ATOM     14  C6  XMP d           2.270  45.598  49.095  0.00  0.00     0.282 A 
+ATOM     15  H6  XMP d           1.205  46.372  50.730  0.00  0.00     0.173 HD
+ATOM     16  O6  XMP d           2.954  46.597  48.910  0.00  0.00    -0.265 OA
+ATOM     17  N7  XMP d           3.129  44.056  47.247  0.00  0.00    -0.234 NA
+ATOM     18  C8  XMP d           2.746  42.835  46.971  0.00  0.00     0.214 A 
+ENDBRANCH   3   6
+BRANCH   4  19
+ATOM     19  O2' XMP d          -0.973  39.999  46.911  0.00  0.00    -0.388 OA
+ATOM     20  H9  XMP d          -1.331  40.391  47.699  0.00  0.00     0.210 HD
+ENDBRANCH   4  19
+BRANCH   1  21
+ATOM     21  C5' XMP d           3.368  38.620  46.511  0.00  0.00     0.217 C 
+BRANCH  21  22
+ATOM     22  O5' XMP d           3.396  37.238  46.140  0.00  0.00    -0.280 OA
+BRANCH  22  23
+ATOM     23  P   XMP d           3.474  36.742  44.615  0.00  0.00     0.422 P 
+ATOM     24  O1P XMP d           4.217  37.708  43.803  0.00  0.00    -0.617 OA
+ATOM     25  O2P XMP d           2.044  36.622  44.157  0.00  0.00    -0.617 OA
+ATOM     26  O3P XMP d           4.178  35.363  44.667  0.00  0.00    -0.617 OA
+ENDBRANCH  22  23
+ENDBRANCH  21  22
+ENDBRANCH   1  21
+BRANCH   5  27
+ATOM     27  O3' XMP d           0.404  38.887  44.952  0.00  0.00    -0.390 OA
+ATOM     28  H11 XMP d          -0.086  38.283  45.497  0.00  0.00     0.210 HD
+ENDBRANCH   5  27
+TORSDOF 6
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -8.2      1.432      1.665
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: P_1  and  O5'_4 
+REMARK    2  A    between atoms: O5'_4  and  C5'_6 
+REMARK    3  A    between atoms: C5'_6  and  C4'_7 
+REMARK    4  A    between atoms: C1'_9  and  N9_10 
+REMARK    5  A    between atoms: C2'_21  and  O2'_22 
+REMARK    6  A    between atoms: C3'_23  and  O3'_24 
+ROOT
+ATOM      1  C4' XMP d           2.698  38.531  46.922  0.00  0.00     0.180 C 
+ATOM      2  O4' XMP d           3.020  39.822  47.535  0.00  0.00    -0.353 OA
+ATOM      3  C1' XMP d           1.954  40.751  47.268  0.00  0.00     0.262 C 
+ATOM      4  C2' XMP d           0.913  40.035  46.418  0.00  0.00     0.198 C 
+ATOM      5  C3' XMP d           1.684  38.886  45.838  0.00  0.00     0.182 C 
+ENDROOT
+BRANCH   3   6
+ATOM      6  N9  XMP d           2.579  41.966  46.694  0.00  0.00    -0.295 N 
+ATOM      7  C4  XMP d           2.421  43.229  47.225  0.00  0.00     0.149 A 
+ATOM      8  N3  XMP d           1.680  43.571  48.343  0.00  0.00    -0.292 N 
+ATOM      9  C5  XMP d           3.157  44.062  46.407  0.00  0.00     0.170 A 
+ATOM     10  C2  XMP d           1.737  44.908  48.602  0.00  0.00     0.328 A 
+ATOM     11  H5  XMP d           1.164  42.916  48.896  0.00  0.00     0.172 HD
+ATOM     12  N1  XMP d           2.456  45.825  47.827  0.00  0.00    -0.273 N 
+ATOM     13  O2  XMP d           1.147  45.406  49.557  0.00  0.00    -0.247 OA
+ATOM     14  C6  XMP d           3.218  45.459  46.671  0.00  0.00     0.282 A 
+ATOM     15  H6  XMP d           2.436  46.789  48.096  0.00  0.00     0.173 HD
+ATOM     16  O6  XMP d           3.827  46.308  46.032  0.00  0.00    -0.265 OA
+ATOM     17  N7  XMP d           3.782  43.342  45.355  0.00  0.00    -0.234 NA
+ATOM     18  C8  XMP d           3.394  42.115  45.594  0.00  0.00     0.214 A 
+ENDBRANCH   3   6
+BRANCH   4  19
+ATOM     19  O2' XMP d          -0.194  39.573  47.202  0.00  0.00    -0.388 OA
+ATOM     20  H9  XMP d          -0.276  38.631  47.109  0.00  0.00     0.210 HD
+ENDBRANCH   4  19
+BRANCH   1  21
+ATOM     21  C5' XMP d           4.031  37.979  46.488  0.00  0.00     0.217 C 
+BRANCH  21  22
+ATOM     22  O5' XMP d           3.871  36.631  46.032  0.00  0.00    -0.280 OA
+BRANCH  22  23
+ATOM     23  P   XMP d           4.138  36.183  44.513  0.00  0.00     0.422 P 
+ATOM     24  O1P XMP d           5.221  36.979  43.930  0.00  0.00    -0.617 OA
+ATOM     25  O2P XMP d           2.837  36.413  43.791  0.00  0.00    -0.617 OA
+ATOM     26  O3P XMP d           4.498  34.678  44.585  0.00  0.00    -0.617 OA
+ENDBRANCH  22  23
+ENDBRANCH  21  22
+ENDBRANCH   1  21
+BRANCH   5  27
+ATOM     27  O3' XMP d           0.818  37.809  45.520  0.00  0.00    -0.390 OA
+ATOM     28  H11 XMP d           1.330  37.016  45.403  0.00  0.00     0.210 HD
+ENDBRANCH   5  27
+TORSDOF 6
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -8.0      3.659      6.677
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: P_1  and  O5'_4 
+REMARK    2  A    between atoms: O5'_4  and  C5'_6 
+REMARK    3  A    between atoms: C5'_6  and  C4'_7 
+REMARK    4  A    between atoms: C1'_9  and  N9_10 
+REMARK    5  A    between atoms: C2'_21  and  O2'_22 
+REMARK    6  A    between atoms: C3'_23  and  O3'_24 
+ROOT
+ATOM      1  C4' XMP d           1.661  45.389  49.017  0.00  0.00     0.180 C 
+ATOM      2  O4' XMP d           0.603  44.762  48.219  0.00  0.00    -0.353 OA
+ATOM      3  C1' XMP d           0.429  43.400  48.652  0.00  0.00     0.262 C 
+ATOM      4  C2' XMP d           1.442  43.129  49.756  0.00  0.00     0.198 C 
+ATOM      5  C3' XMP d           2.466  44.206  49.548  0.00  0.00     0.182 C 
+ENDROOT
+BRANCH   3   6
+ATOM      6  N9  XMP d           0.506  42.553  47.439  0.00  0.00    -0.295 N 
+ATOM      7  C4  XMP d          -0.601  42.027  46.805  0.00  0.00     0.149 A 
+ATOM      8  N3  XMP d          -1.925  42.189  47.177  0.00  0.00    -0.292 N 
+ATOM      9  C5  XMP d          -0.101  41.315  45.734  0.00  0.00     0.170 A 
+ATOM     10  C2  XMP d          -2.773  41.539  46.332  0.00  0.00     0.328 A 
+ATOM     11  H5  XMP d          -2.223  42.720  47.970  0.00  0.00     0.172 HD
+ATOM     12  N1  XMP d          -2.357  40.794  45.223  0.00  0.00    -0.273 N 
+ATOM     13  O2  XMP d          -3.990  41.569  46.492  0.00  0.00    -0.247 OA
+ATOM     14  C6  XMP d          -0.984  40.632  44.850  0.00  0.00     0.282 A 
+ATOM     15  H6  XMP d          -3.055  40.351  44.662  0.00  0.00     0.173 HD
+ATOM     16  O6  XMP d          -0.679  39.966  43.868  0.00  0.00    -0.265 OA
+ATOM     17  N7  XMP d           1.316  41.379  45.678  0.00  0.00    -0.234 NA
+ATOM     18  C8  XMP d           1.597  42.127  46.715  0.00  0.00     0.214 A 
+ENDBRANCH   3   6
+BRANCH   4  19
+ATOM     19  O2' XMP d           0.852  43.220  51.059  0.00  0.00    -0.388 OA
+ATOM     20  H9  XMP d           1.329  43.858  51.577  0.00  0.00     0.210 HD
+ENDBRANCH   4  19
+BRANCH   1  21
+ATOM     21  C5' XMP d           2.341  46.334  48.061  0.00  0.00     0.217 C 
+BRANCH  21  22
+ATOM     22  O5' XMP d           2.575  45.674  46.813  0.00  0.00    -0.280 OA
+BRANCH  22  23
+ATOM     23  P   XMP d           4.021  45.600  46.117  0.00  0.00     0.422 P 
+ATOM     24  O1P XMP d           4.270  44.252  45.602  0.00  0.00    -0.617 OA
+ATOM     25  O2P XMP d           5.005  45.967  47.197  0.00  0.00    -0.617 OA
+ATOM     26  O3P XMP d           3.988  46.657  44.986  0.00  0.00    -0.617 OA
+ENDBRANCH  22  23
+ENDBRANCH  21  22
+ENDBRANCH   1  21
+BRANCH   5  27
+ATOM     27  O3' XMP d           3.142  44.499  50.759  0.00  0.00    -0.390 OA
+ATOM     28  H11 XMP d           2.818  43.929  51.447  0.00  0.00     0.210 HD
+ENDBRANCH   5  27
+TORSDOF 6
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -8.0      3.218      6.969
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: P_1  and  O5'_4 
+REMARK    2  A    between atoms: O5'_4  and  C5'_6 
+REMARK    3  A    between atoms: C5'_6  and  C4'_7 
+REMARK    4  A    between atoms: C1'_9  and  N9_10 
+REMARK    5  A    between atoms: C2'_21  and  O2'_22 
+REMARK    6  A    between atoms: C3'_23  and  O3'_24 
+ROOT
+ATOM      1  C4' XMP d           1.095  44.061  47.598  0.00  0.00     0.180 C 
+ATOM      2  O4' XMP d           0.431  42.895  47.009  0.00  0.00    -0.353 OA
+ATOM      3  C1' XMP d           0.437  41.816  47.962  0.00  0.00     0.262 C 
+ATOM      4  C2' XMP d           1.168  42.299  49.207  0.00  0.00     0.198 C 
+ATOM      5  C3' XMP d           1.964  43.465  48.701  0.00  0.00     0.182 C 
+ENDROOT
+BRANCH   3   6
+ATOM      6  N9  XMP d           0.995  40.634  47.265  0.00  0.00    -0.295 N 
+ATOM      7  C4  XMP d           0.561  40.202  46.029  0.00  0.00     0.149 A 
+ATOM      8  N3  XMP d          -0.433  40.773  45.253  0.00  0.00    -0.292 N 
+ATOM      9  C5  XMP d           1.329  39.092  45.742  0.00  0.00     0.170 A 
+ATOM     10  C2  XMP d          -0.613  40.101  44.081  0.00  0.00     0.328 A 
+ATOM     11  H5  XMP d          -0.957  41.582  45.520  0.00  0.00     0.172 HD
+ATOM     12  N1  XMP d           0.118  38.968  43.708  0.00  0.00    -0.273 N 
+ATOM     13  O2  XMP d          -1.449  40.458  43.255  0.00  0.00    -0.247 OA
+ATOM     14  C6  XMP d           1.143  38.385  44.520  0.00  0.00     0.282 A 
+ATOM     15  H6  XMP d          -0.088  38.541  42.827  0.00  0.00     0.173 HD
+ATOM     16  O6  XMP d           1.750  37.390  44.141  0.00  0.00    -0.265 OA
+ATOM     17  N7  XMP d           2.249  38.808  46.785  0.00  0.00    -0.234 NA
+ATOM     18  C8  XMP d           1.991  39.762  47.644  0.00  0.00     0.214 A 
+ENDBRANCH   3   6
+BRANCH   4  19
+ATOM     19  O2' XMP d           0.258  42.702  50.239  0.00  0.00    -0.388 OA
+ATOM     20  H9  XMP d           0.631  42.494  51.088  0.00  0.00     0.210 HD
+ENDBRANCH   4  19
+BRANCH   1  21
+ATOM     21  C5' XMP d           1.787  44.725  46.435  0.00  0.00     0.217 C 
+BRANCH  21  22
+ATOM     22  O5' XMP d           2.974  45.383  46.890  0.00  0.00    -0.280 OA
+BRANCH  22  23
+ATOM     23  P   XMP d           4.223  45.697  45.931  0.00  0.00     0.422 P 
+ATOM     24  O1P XMP d           4.549  44.523  45.118  0.00  0.00    -0.617 OA
+ATOM     25  O2P XMP d           5.357  46.059  46.854  0.00  0.00    -0.617 OA
+ATOM     26  O3P XMP d           3.782  46.901  45.062  0.00  0.00    -0.617 OA
+ENDBRANCH  22  23
+ENDBRANCH  21  22
+ENDBRANCH   1  21
+BRANCH   5  27
+ATOM     27  O3' XMP d           2.232  44.384  49.747  0.00  0.00    -0.390 OA
+ATOM     28  H11 XMP d           1.975  45.257  49.474  0.00  0.00     0.210 HD
+ENDBRANCH   5  27
+TORSDOF 6
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -7.8      1.874      2.498
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: P_1  and  O5'_4 
+REMARK    2  A    between atoms: O5'_4  and  C5'_6 
+REMARK    3  A    between atoms: C5'_6  and  C4'_7 
+REMARK    4  A    between atoms: C1'_9  and  N9_10 
+REMARK    5  A    between atoms: C2'_21  and  O2'_22 
+REMARK    6  A    between atoms: C3'_23  and  O3'_24 
+ROOT
+ATOM      1  C4' XMP d           0.100  40.136  46.653  0.00  0.00     0.180 C 
+ATOM      2  O4' XMP d           1.155  40.891  47.336  0.00  0.00    -0.353 OA
+ATOM      3  C1' XMP d           0.780  42.279  47.395  0.00  0.00     0.262 C 
+ATOM      4  C2' XMP d          -0.561  42.430  46.690  0.00  0.00     0.198 C 
+ATOM      5  C3' XMP d          -0.637  41.196  45.840  0.00  0.00     0.182 C 
+ENDROOT
+BRANCH   3   6
+ATOM      6  N9  XMP d           1.921  43.053  46.854  0.00  0.00    -0.295 N 
+ATOM      7  C4  XMP d           2.573  44.044  47.558  0.00  0.00     0.149 A 
+ATOM      8  N3  XMP d           2.287  44.474  48.843  0.00  0.00    -0.292 N 
+ATOM      9  C5  XMP d           3.560  44.503  46.710  0.00  0.00     0.170 A 
+ATOM     10  C2  XMP d           3.126  45.469  49.245  0.00  0.00     0.328 A 
+ATOM     11  H5  XMP d           1.552  44.099  49.409  0.00  0.00     0.172 HD
+ATOM     12  N1  XMP d           4.152  45.996  48.453  0.00  0.00    -0.273 N 
+ATOM     13  O2  XMP d           3.034  45.979  50.358  0.00  0.00    -0.247 OA
+ATOM     14  C6  XMP d           4.438  45.544  47.125  0.00  0.00     0.282 A 
+ATOM     15  H6  XMP d           4.716  46.728  48.836  0.00  0.00     0.173 HD
+ATOM     16  O6  XMP d           5.350  46.045  46.478  0.00  0.00    -0.265 OA
+ATOM     17  N7  XMP d           3.543  43.816  45.468  0.00  0.00    -0.234 NA
+ATOM     18  C8  XMP d           2.551  42.978  45.632  0.00  0.00     0.214 A 
+ENDBRANCH   3   6
+BRANCH   4  19
+ATOM     19  O2' XMP d          -1.652  42.487  47.619  0.00  0.00    -0.388 OA
+ATOM     20  H9  XMP d          -2.337  43.044  47.268  0.00  0.00     0.210 HD
+ENDBRANCH   4  19
+BRANCH   1  21
+ATOM     21  C5' XMP d           0.837  39.057  45.903  0.00  0.00     0.217 C 
+BRANCH  21  22
+ATOM     22  O5' XMP d           2.245  39.189  46.125  0.00  0.00    -0.280 OA
+BRANCH  22  23
+ATOM     23  P   XMP d           3.216  37.933  46.368  0.00  0.00     0.422 P 
+ATOM     24  O1P XMP d           4.617  38.351  46.298  0.00  0.00    -0.617 OA
+ATOM     25  O2P XMP d           2.881  36.950  45.277  0.00  0.00    -0.617 OA
+ATOM     26  O3P XMP d           2.841  37.387  47.768  0.00  0.00    -0.617 OA
+ENDBRANCH  22  23
+ENDBRANCH  21  22
+ENDBRANCH   1  21
+BRANCH   5  27
+ATOM     27  O3' XMP d          -1.986  40.848  45.576  0.00  0.00    -0.390 OA
+ATOM     28  H11 XMP d          -2.069  39.902  45.552  0.00  0.00     0.210 HD
+ENDBRANCH   5  27
+TORSDOF 6
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -7.7      3.521      7.101
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: P_1  and  O5'_4 
+REMARK    2  A    between atoms: O5'_4  and  C5'_6 
+REMARK    3  A    between atoms: C5'_6  and  C4'_7 
+REMARK    4  A    between atoms: C1'_9  and  N9_10 
+REMARK    5  A    between atoms: C2'_21  and  O2'_22 
+REMARK    6  A    between atoms: C3'_23  and  O3'_24 
+ROOT
+ATOM      1  C4' XMP d           1.181  43.656  46.728  0.00  0.00     0.180 C 
+ATOM      2  O4' XMP d           1.619  42.780  45.638  0.00  0.00    -0.353 OA
+ATOM      3  C1' XMP d           1.119  41.451  45.869  0.00  0.00     0.262 C 
+ATOM      4  C2' XMP d           0.352  41.463  47.184  0.00  0.00     0.198 C 
+ATOM      5  C3' XMP d           0.878  42.690  47.870  0.00  0.00     0.182 C 
+ENDROOT
+BRANCH   3   6
+ATOM      6  N9  XMP d           2.279  40.534  45.770  0.00  0.00    -0.295 N 
+ATOM      7  C4  XMP d           2.190  39.240  45.302  0.00  0.00     0.149 A 
+ATOM      8  N3  XMP d           1.048  38.593  44.862  0.00  0.00    -0.292 N 
+ATOM      9  C5  XMP d           3.475  38.741  45.368  0.00  0.00     0.170 A 
+ATOM     10  C2  XMP d           1.307  37.317  44.461  0.00  0.00     0.328 A 
+ATOM     11  H5  XMP d           0.140  39.013  44.840  0.00  0.00     0.172 HD
+ATOM     12  N1  XMP d           2.576  36.729  44.493  0.00  0.00    -0.273 N 
+ATOM     13  O2  XMP d           0.421  36.583  44.032  0.00  0.00    -0.247 OA
+ATOM     14  C6  XMP d           3.751  37.408  44.953  0.00  0.00     0.282 A 
+ATOM     15  H6  XMP d           2.668  35.784  44.180  0.00  0.00     0.173 HD
+ATOM     16  O6  XMP d           4.837  36.840  44.959  0.00  0.00    -0.265 OA
+ATOM     17  N7  XMP d           4.385  39.705  45.877  0.00  0.00    -0.234 NA
+ATOM     18  C8  XMP d           3.604  40.734  46.088  0.00  0.00     0.214 A 
+ENDBRANCH   3   6
+BRANCH   4  19
+ATOM     19  O2' XMP d          -1.064  41.553  46.978  0.00  0.00    -0.388 OA
+ATOM     20  H9  XMP d          -1.312  42.465  46.885  0.00  0.00     0.210 HD
+ENDBRANCH   4  19
+BRANCH   1  21
+ATOM     21  C5' XMP d           2.319  44.627  46.909  0.00  0.00     0.217 C 
+BRANCH  21  22
+ATOM     22  O5' XMP d           3.203  44.551  45.786  0.00  0.00    -0.280 OA
+BRANCH  22  23
+ATOM     23  P   XMP d           4.365  45.625  45.511  0.00  0.00     0.422 P 
+ATOM     24  O1P XMP d           5.139  45.862  46.732  0.00  0.00    -0.617 OA
+ATOM     25  O2P XMP d           3.658  46.875  45.057  0.00  0.00    -0.617 OA
+ATOM     26  O3P XMP d           5.232  45.014  44.383  0.00  0.00    -0.617 OA
+ENDBRANCH  22  23
+ENDBRANCH  21  22
+ENDBRANCH   1  21
+BRANCH   5  27
+ATOM     27  O3' XMP d          -0.075  43.202  48.786  0.00  0.00    -0.390 OA
+ATOM     28  H11 XMP d          -0.901  43.339  48.338  0.00  0.00     0.210 HD
+ENDBRANCH   5  27
+TORSDOF 6
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -7.7      3.362      5.122
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: P_1  and  O5'_4 
+REMARK    2  A    between atoms: O5'_4  and  C5'_6 
+REMARK    3  A    between atoms: C5'_6  and  C4'_7 
+REMARK    4  A    between atoms: C1'_9  and  N9_10 
+REMARK    5  A    between atoms: C2'_21  and  O2'_22 
+REMARK    6  A    between atoms: C3'_23  and  O3'_24 
+ROOT
+ATOM      1  C4' XMP d           3.914  38.173  44.577  0.00  0.00     0.180 C 
+ATOM      2  O4' XMP d           2.814  39.113  44.345  0.00  0.00    -0.353 OA
+ATOM      3  C1' XMP d           3.085  40.341  45.045  0.00  0.00     0.262 C 
+ATOM      4  C2' XMP d           4.402  40.172  45.789  0.00  0.00     0.198 C 
+ATOM      5  C3' XMP d           4.560  38.682  45.863  0.00  0.00     0.182 C 
+ENDROOT
+BRANCH   3   6
+ATOM      6  N9  XMP d           1.882  40.644  45.856  0.00  0.00    -0.295 N 
+ATOM      7  C4  XMP d           0.599  40.633  45.351  0.00  0.00     0.149 A 
+ATOM      8  N3  XMP d           0.222  40.349  44.050  0.00  0.00    -0.292 N 
+ATOM      9  C5  XMP d          -0.214  40.960  46.417  0.00  0.00     0.170 A 
+ATOM     10  C2  XMP d          -1.128  40.421  43.883  0.00  0.00     0.328 A 
+ATOM     11  H5  XMP d           0.864  40.118  43.318  0.00  0.00     0.172 HD
+ATOM     12  N1  XMP d          -2.027  40.746  44.906  0.00  0.00    -0.273 N 
+ATOM     13  O2  XMP d          -1.657  40.198  42.798  0.00  0.00    -0.247 OA
+ATOM     14  C6  XMP d          -1.625  41.039  46.249  0.00  0.00     0.282 A 
+ATOM     15  H6  XMP d          -3.002  40.776  44.686  0.00  0.00     0.173 HD
+ATOM     16  O6  XMP d          -2.458  41.319  47.102  0.00  0.00    -0.265 OA
+ATOM     17  N7  XMP d           0.539  41.184  47.600  0.00  0.00    -0.234 NA
+ATOM     18  C8  XMP d           1.765  40.976  47.187  0.00  0.00     0.214 A 
+ENDBRANCH   3   6
+BRANCH   4  19
+ATOM     19  O2' XMP d           5.496  40.775  45.085  0.00  0.00    -0.388 OA
+ATOM     20  H9  XMP d           5.167  41.216  44.310  0.00  0.00     0.210 HD
+ENDBRANCH   4  19
+BRANCH   1  21
+ATOM     21  C5' XMP d           3.252  36.821  44.608  0.00  0.00     0.217 C 
+BRANCH  21  22
+ATOM     22  O5' XMP d           3.805  35.987  43.585  0.00  0.00    -0.280 OA
+BRANCH  22  23
+ATOM     23  P   XMP d           5.066  35.022  43.827  0.00  0.00     0.422 P 
+ATOM     24  O1P XMP d           5.334  34.225  42.628  0.00  0.00    -0.617 OA
+ATOM     25  O2P XMP d           4.686  34.149  44.994  0.00  0.00    -0.617 OA
+ATOM     26  O3P XMP d           6.245  35.964  44.174  0.00  0.00    -0.617 OA
+ENDBRANCH  22  23
+ENDBRANCH  21  22
+ENDBRANCH   1  21
+BRANCH   5  27
+ATOM     27  O3' XMP d           5.928  38.326  45.970  0.00  0.00    -0.390 OA
+ATOM     28  H11 XMP d           6.017  37.384  45.880  0.00  0.00     0.210 HD
+ENDBRANCH   5  27
+TORSDOF 6
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -7.7      3.224      6.744
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: P_1  and  O5'_4 
+REMARK    2  A    between atoms: O5'_4  and  C5'_6 
+REMARK    3  A    between atoms: C5'_6  and  C4'_7 
+REMARK    4  A    between atoms: C1'_9  and  N9_10 
+REMARK    5  A    between atoms: C2'_21  and  O2'_22 
+REMARK    6  A    between atoms: C3'_23  and  O3'_24 
+ROOT
+ATOM      1  C4' XMP d           1.372  44.083  47.724  0.00  0.00     0.180 C 
+ATOM      2  O4' XMP d           1.685  43.041  46.742  0.00  0.00    -0.353 OA
+ATOM      3  C1' XMP d           0.861  41.889  46.997  0.00  0.00     0.262 C 
+ATOM      4  C2' XMP d           0.003  42.190  48.218  0.00  0.00     0.198 C 
+ATOM      5  C3' XMP d           0.743  43.314  48.882  0.00  0.00     0.182 C 
+ENDROOT
+BRANCH   3   6
+ATOM      6  N9  XMP d           1.772  40.723  47.079  0.00  0.00    -0.295 N 
+ATOM      7  C4  XMP d           2.800  40.493  46.189  0.00  0.00     0.149 A 
+ATOM      8  N3  XMP d           3.148  41.279  45.103  0.00  0.00    -0.292 N 
+ATOM      9  C5  XMP d           3.396  39.324  46.616  0.00  0.00     0.170 A 
+ATOM     10  C2  XMP d           4.217  40.770  44.429  0.00  0.00     0.328 A 
+ATOM     11  H5  XMP d           2.672  42.120  44.845  0.00  0.00     0.172 HD
+ATOM     12  N1  XMP d           4.882  39.593  44.789  0.00  0.00    -0.273 N 
+ATOM     13  O2  XMP d           4.679  41.329  43.438  0.00  0.00    -0.247 OA
+ATOM     14  C6  XMP d           4.512  38.787  45.914  0.00  0.00     0.282 A 
+ATOM     15  H6  XMP d           5.657  39.298  44.231  0.00  0.00     0.173 HD
+ATOM     16  O6  XMP d           5.132  37.765  46.179  0.00  0.00    -0.265 OA
+ATOM     17  N7  XMP d           2.756  38.802  47.771  0.00  0.00    -0.234 NA
+ATOM     18  C8  XMP d           1.811  39.684  47.982  0.00  0.00     0.214 A 
+ENDBRANCH   3   6
+BRANCH   4  19
+ATOM     19  O2' XMP d          -1.325  42.588  47.854  0.00  0.00    -0.388 OA
+ATOM     20  H9  XMP d          -1.663  43.193  48.505  0.00  0.00     0.210 HD
+ENDBRANCH   4  19
+BRANCH   1  21
+ATOM     21  C5' XMP d           2.688  44.775  47.969  0.00  0.00     0.217 C 
+BRANCH  21  22
+ATOM     22  O5' XMP d           2.947  45.710  46.917  0.00  0.00    -0.280 OA
+BRANCH  22  23
+ATOM     23  P   XMP d           4.253  45.640  45.984  0.00  0.00     0.422 P 
+ATOM     24  O1P XMP d           5.446  46.003  46.752  0.00  0.00    -0.617 OA
+ATOM     25  O2P XMP d           4.000  46.617  44.866  0.00  0.00    -0.617 OA
+ATOM     26  O3P XMP d           4.314  44.181  45.470  0.00  0.00    -0.617 OA
+ENDBRANCH  22  23
+ENDBRANCH  21  22
+ENDBRANCH   1  21
+BRANCH   5  27
+ATOM     27  O3' XMP d          -0.139  44.109  49.657  0.00  0.00    -0.390 OA
+ATOM     28  H11 XMP d          -0.969  44.193  49.203  0.00  0.00     0.210 HD
+ENDBRANCH   5  27
+TORSDOF 6
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -7.7      2.665      3.629
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: P_1  and  O5'_4 
+REMARK    2  A    between atoms: O5'_4  and  C5'_6 
+REMARK    3  A    between atoms: C5'_6  and  C4'_7 
+REMARK    4  A    between atoms: C1'_9  and  N9_10 
+REMARK    5  A    between atoms: C2'_21  and  O2'_22 
+REMARK    6  A    between atoms: C3'_23  and  O3'_24 
+ROOT
+ATOM      1  C4' XMP d           3.297  37.134  46.123  0.00  0.00     0.180 C 
+ATOM      2  O4' XMP d           2.640  38.045  47.065  0.00  0.00    -0.353 OA
+ATOM      3  C1' XMP d           1.438  38.561  46.464  0.00  0.00     0.262 C 
+ATOM      4  C2' XMP d           1.334  37.982  45.059  0.00  0.00     0.198 C 
+ATOM      5  C3' XMP d           2.742  37.555  44.765  0.00  0.00     0.182 C 
+ENDROOT
+BRANCH   3   6
+ATOM      6  N9  XMP d           1.499  40.036  46.586  0.00  0.00    -0.295 N 
+ATOM      7  C4  XMP d           0.391  40.854  46.509  0.00  0.00     0.149 A 
+ATOM      8  N3  XMP d          -0.921  40.457  46.310  0.00  0.00    -0.292 N 
+ATOM      9  C5  XMP d           0.874  42.136  46.674  0.00  0.00     0.170 A 
+ATOM     10  C2  XMP d          -1.775  41.518  46.288  0.00  0.00     0.328 A 
+ATOM     11  H5  XMP d          -1.207  39.506  46.195  0.00  0.00     0.172 HD
+ATOM     12  N1  XMP d          -1.375  42.850  46.446  0.00  0.00    -0.273 N 
+ATOM     13  O2  XMP d          -2.984  41.369  46.128  0.00  0.00    -0.247 OA
+ATOM     14  C6  XMP d          -0.015  43.248  46.650  0.00  0.00     0.282 A 
+ATOM     15  H6  XMP d          -2.077  43.561  46.414  0.00  0.00     0.173 HD
+ATOM     16  O6  XMP d           0.275  44.431  46.781  0.00  0.00    -0.265 OA
+ATOM     17  N7  XMP d           2.282  42.146  46.853  0.00  0.00    -0.234 NA
+ATOM     18  C8  XMP d           2.575  40.871  46.791  0.00  0.00     0.214 A 
+ENDBRANCH   3   6
+BRANCH   4  19
+ATOM     19  O2' XMP d           0.433  36.869  45.004  0.00  0.00    -0.388 OA
+ATOM     20  H9  XMP d          -0.350  37.121  44.527  0.00  0.00     0.210 HD
+ENDBRANCH   4  19
+BRANCH   1  21
+ATOM     21  C5' XMP d           4.769  37.332  46.376  0.00  0.00     0.217 C 
+BRANCH  21  22
+ATOM     22  O5' XMP d           5.521  36.855  45.256  0.00  0.00    -0.280 OA
+BRANCH  22  23
+ATOM     23  P   XMP d           6.029  35.338  45.123  0.00  0.00     0.422 P 
+ATOM     24  O1P XMP d           6.924  35.199  43.972  0.00  0.00    -0.617 OA
+ATOM     25  O2P XMP d           4.783  34.509  44.954  0.00  0.00    -0.617 OA
+ATOM     26  O3P XMP d           6.749  35.027  46.459  0.00  0.00    -0.617 OA
+ENDBRANCH  22  23
+ENDBRANCH  21  22
+ENDBRANCH   1  21
+BRANCH   5  27
+ATOM     27  O3' XMP d           2.760  36.503  43.814  0.00  0.00    -0.390 OA
+ATOM     28  H11 XMP d           3.526  36.593  43.259  0.00  0.00     0.210 HD
+ENDBRANCH   5  27
+TORSDOF 6
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:      -7.6      2.377      3.835
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: P_1  and  O5'_4 
+REMARK    2  A    between atoms: O5'_4  and  C5'_6 
+REMARK    3  A    between atoms: C5'_6  and  C4'_7 
+REMARK    4  A    between atoms: C1'_9  and  N9_10 
+REMARK    5  A    between atoms: C2'_21  and  O2'_22 
+REMARK    6  A    between atoms: C3'_23  and  O3'_24 
+ROOT
+ATOM      1  C4' XMP d           1.426  40.013  45.095  0.00  0.00     0.180 C 
+ATOM      2  O4' XMP d           2.043  41.299  45.432  0.00  0.00    -0.353 OA
+ATOM      3  C1' XMP d           2.533  41.248  46.784  0.00  0.00     0.262 C 
+ATOM      4  C2' XMP d           2.185  39.880  47.355  0.00  0.00     0.198 C 
+ATOM      5  C3' XMP d           1.082  39.408  46.453  0.00  0.00     0.182 C 
+ENDROOT
+BRANCH   3   6
+ATOM      6  N9  XMP d           1.982  42.433  47.483  0.00  0.00    -0.295 N 
+ATOM      7  C4  XMP d           2.590  43.671  47.479  0.00  0.00     0.149 A 
+ATOM      8  N3  XMP d           3.775  44.011  46.848  0.00  0.00    -0.292 N 
+ATOM      9  C5  XMP d           1.765  44.483  48.230  0.00  0.00     0.170 A 
+ATOM     10  C2  XMP d           4.095  45.322  47.039  0.00  0.00     0.328 A 
+ATOM     11  H5  XMP d           4.330  43.372  46.316  0.00  0.00     0.172 HD
+ATOM     12  N1  XMP d           3.319  46.217  47.785  0.00  0.00    -0.273 N 
+ATOM     13  O2  XMP d           5.109  45.815  46.553  0.00  0.00    -0.247 OA
+ATOM     14  C6  XMP d           2.096  45.852  48.434  0.00  0.00     0.282 A 
+ATOM     15  H6  XMP d           3.637  47.161  47.870  0.00  0.00     0.173 HD
+ATOM     16  O6  XMP d           1.460  46.680  49.076  0.00  0.00    -0.265 OA
+ATOM     17  N7  XMP d           0.636  43.774  48.718  0.00  0.00    -0.234 NA
+ATOM     18  C8  XMP d           0.836  42.574  48.233  0.00  0.00     0.214 A 
+ENDBRANCH   3   6
+BRANCH   4  19
+ATOM     19  O2' XMP d           3.303  38.984  47.318  0.00  0.00    -0.388 OA
+ATOM     20  H9  XMP d           3.018  38.112  47.569  0.00  0.00     0.210 HD
+ENDBRANCH   4  19
+BRANCH   1  21
+ATOM     21  C5' XMP d           0.288  40.374  44.175  0.00  0.00     0.217 C 
+BRANCH  21  22
+ATOM     22  O5' XMP d           0.288  39.503  43.040  0.00  0.00    -0.280 OA
+BRANCH  22  23
+ATOM     23  P   XMP d          -1.045  39.112  42.235  0.00  0.00     0.422 P 
+ATOM     24  O1P XMP d          -0.903  39.454  40.817  0.00  0.00    -0.617 OA
+ATOM     25  O2P XMP d          -2.152  39.902  42.882  0.00  0.00    -0.617 OA
+ATOM     26  O3P XMP d          -1.225  37.589  42.450  0.00  0.00    -0.617 OA
+ENDBRANCH  22  23
+ENDBRANCH  21  22
+ENDBRANCH   1  21
+BRANCH   5  27
+ATOM     27  O3' XMP d           1.025  37.992  46.426  0.00  0.00    -0.390 OA
+ATOM     28  H11 XMP d           0.325  37.693  46.994  0.00  0.00     0.210 HD
+ENDBRANCH   5  27
+TORSDOF 6
+ENDMDL

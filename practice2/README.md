@@ -1,1 +1,1 @@
-#To generate Gaussian input files
+# To generate Gaussian input files

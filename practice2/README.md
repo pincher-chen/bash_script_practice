@@ -1,4 +1,4 @@
-# To generate Gaussian input files
+# 批量生成Gaussian输入文件
 
 ```
 # step 1, download ligand coordinates from http://quantum-machine.org/datasets/. Here we use qm8 dataset.

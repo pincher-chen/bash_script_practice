@@ -96,5 +96,6 @@ optimize
 
 ```
 ## 备注
-涉及命令grep，awk，echo等
+- 涉及命令grep，awk，echo等；
+- 熟悉for循环、管道等使用方法
 
